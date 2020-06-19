@@ -1,0 +1,1 @@
+EPP( Enhanced Parallel Port)- tryb interfejsu portu równoległego o rozszerzonych możliwościach. 

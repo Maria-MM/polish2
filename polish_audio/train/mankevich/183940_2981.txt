@@ -1,0 +1,1 @@
+Głębia kolorów- określa, ile kolorów jest w stanie rozróżnić dane urządzenie. 

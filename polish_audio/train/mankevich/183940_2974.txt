@@ -1,0 +1,1 @@
+Pierwsza z nich chroni skaner przed "zalaniem" aplikacji testującej zbyt dużą ilością danych w odpowiedzi na wysłany sygnał testujący przy otwartym porcie. 

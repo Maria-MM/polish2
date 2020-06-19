@@ -1,0 +1,20 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.1 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.1.scp ark:- | copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.1 --compress=true ark:- ark,scp:/home/maryia/kaldi/egs/polish2/mfcc/raw_mfcc_test.1.ark,/home/maryia/kaldi/egs/polish2/mfcc/raw_mfcc_test.1.scp 
+# Started at Fri Jun 19 02:16:35 +03 2020
+#
+compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.1 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.1.scp ark:- 
+copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.1 --compress=true ark:- ark,scp:/home/maryia/kaldi/egs/polish2/mfcc/raw_mfcc_test.1.ark,/home/maryia/kaldi/egs/polish2/mfcc/raw_mfcc_test.1.scp 
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2991
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2992
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2993
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2994
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2995
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2996
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2997
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2998
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_2999
+LOG (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:181) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:182) Processed features for key mankevich-183940_3000
+LOG (compute-mfcc-feats[5.5.709~1-75872]:main():compute-mfcc-feats.cc:185)  Done 10 out of 10 utterances.
+LOG (copy-feats[5.5.709~1-75872]:main():copy-feats.cc:143) Copied 10 feature matrices.
+# Accounting: time=0 threads=1
+# Ended (code 0) at Fri Jun 19 02:16:35 +03 2020, elapsed time 0 seconds

@@ -1,0 +1,1 @@
+Skaner 24-bitowy rozpoznaje 16 777 216 barw. 

@@ -1,0 +1,1 @@
+Przedstawimy przykład archiwizacji- najpierw pełnej, następnie przyrostowej- wybranego katalogu. 

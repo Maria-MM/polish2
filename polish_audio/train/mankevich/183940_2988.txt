@@ -1,0 +1,1 @@
+W oknie Score zaznaczamy ostatnią klatkę animacji odnośnika na warstwie pierwszej( rys. 3), a następnie w oknie Stage przesuwamy odnośnik w prawo, tak aby znalazł się pod odnośnikiem do obiektu Przycisk2_1. 

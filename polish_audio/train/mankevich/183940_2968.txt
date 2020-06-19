@@ -1,0 +1,1 @@
+Zakładamy, że pomiędzy archiwizacją pełną będziemy przeprowadzać cztery backupy przyrostowe. 

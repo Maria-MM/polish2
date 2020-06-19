@@ -1,0 +1,1 @@
+Postaramy się na przykładzie zapoznać Państwa z podstawowymi technikami pracy z programem- zbudujemy prostą prezentację pokazującą możliwości WireFusion: utworzymy nowy projekt, umieścimy w nim obiekty graficzne, zastosujemy filtry zaimplementowane w programie, dołączymy dźwięk i dodamy elementy interaktywne. 

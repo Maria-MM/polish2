@@ -1,0 +1,29 @@
+# compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/mono/tree exp/mono/0.mdl data/lang/L.fst "ark:sym2int.pl --map-oov 46 -f 2- data/lang/words.txt < data/train/split1/1/text|" "ark:|gzip -c >exp/mono/fsts.1.gz" 
+# Started at Fri Jun 19 02:16:37 +03 2020
+#
+compile-train-graphs --read-disambig-syms=data/lang/phones/disambig.int exp/mono/tree exp/mono/0.mdl data/lang/L.fst 'ark:sym2int.pl --map-oov 46 -f 2- data/lang/words.txt < data/train/split1/1/text|' 'ark:|gzip -c >exp/mono/fsts.1.gz' 
+sym2int.pl: replacing Bruno, with 46
+sym2int.pl: replacing Grzegorz with 46
+sym2int.pl: replacing V- with 46
+sym2int.pl: replacing Krescencjusza. with 46
+sym2int.pl: replacing Krescencjusz with 46
+sym2int.pl: replacing młodszy, with 46
+sym2int.pl: replacing Rzymu with 46
+sym2int.pl: replacing ,, with 46
+sym2int.pl: replacing Niemców with 46
+sym2int.pl: replacing Italią with 46
+sym2int.pl: replacing świecie, with 46
+sym2int.pl: replacing Bolesława with 46
+sym2int.pl: replacing Chrobrego, with 46
+sym2int.pl: replacing wroga, with 46
+sym2int.pl: replacing Tammona with 46
+sym2int.pl: replacing skrwawiony. with 46
+sym2int.pl: replacing Trup with 46
+sym2int.pl: replacing właśnie, with 46
+sym2int.pl: replacing Rzymu. with 46
+sym2int.pl: replacing Obodryci with 46
+sym2int.pl: not warning for OOVs any more times
+** Replaced 5041 instances of OOVs with 46
+LOG (compile-train-graphs[5.5.709~1-75872]:main():compile-train-graphs.cc:147) compile-train-graphs: succeeded for 1381 graphs, failed for 0
+# Accounting: time=2 threads=1
+# Ended (code 0) at Fri Jun 19 02:16:39 +03 2020, elapsed time 2 seconds

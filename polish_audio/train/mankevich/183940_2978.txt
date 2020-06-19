@@ -1,0 +1,1 @@
+Dpi( dot per inch)- punkty na cal- miara rozdzielczości urządzenia wyjściowego. 

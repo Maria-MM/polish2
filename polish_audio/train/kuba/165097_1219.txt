@@ -1,0 +1,1 @@
+Piszę, a komputer po cichutku zlicza każde uderzenie w klawisz, nie przeoczy żadnej literki , ani kropki myślnika. 

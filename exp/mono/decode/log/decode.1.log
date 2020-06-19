@@ -1,0 +1,32 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/mono/decode/lat.1.gz" 
+# Started at Fri Jun 19 02:22:17 +03 2020
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/mono/graph/words.txt exp/mono/final.mdl exp/mono/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/mono/decode/lat.1.gz' 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split1/1/utt2spk scp:data/test/split1/1/cmvn.scp scp:data/test/split1/1/feats.scp ark:- 
+mankevich-183940_2991 płacz płacisz jednej że instalowany słów aplikacji pomoc niczym 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2991 is -8.68717 over 547 frames.
+mankevich-183940_2992 tyran na tak pomaga automatycznie rozwiązać problemy bodaj nie odwołaniami programów deskę którego oznaczenie literowe uległo ziemianie na przykład zyskały nad je 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2992 is -8.4582 over 1323 frames.
+mankevich-183940_2993 i sił bunt to narzędzie do zmiany prawicy bootującej litych użytkowników którzy tylko czasu do czasu potrzebują korzyści z na gestem 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2993 is -8.63356 over 1110 frames.
+mankevich-183940_2994 w symbole poza choć wrażenie jednolitej przestrzeni dźwiękowej nas 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2994 is -8.56795 over 627 frames.
+mankevich-183940_2995 jedynie przemieszcza się z jakimś wydarzeniem filmowym z lewego głośników przysypanie do lewego tymi może on wskazać podłogi do sufitu skoro tym 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2995 is -8.61589 over 1145 frames.
+mankevich-183940_2996 artystycznych jest bo do zestawów głośników do kina domowego 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2996 is -8.71774 over 485 frames.
+mankevich-183940_2997 zawsze jest większy synów i kilkoma głośników czytelników takie rozwiązanie jest ekonomiczne idiotyczny 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2997 is -8.76912 over 911 frames.
+LOG (apply-cmvn[5.5.709~1-75872]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 10 utterances, errors on 0
+mankevich-183940_2998 inni 80 syna naszym krążku zamieszczamy kolejny składnik pakietu biurowego wiatr syn akcją nie się polski arkusz kalkulacyjny jak nas jeden dwa czyli 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2998 is -8.49186 over 1458 frames.
+mankevich-183940_2999 mamy nadzieją że na szpad ułatwi zaznajomienie się tym bogato rozbudowanym narzędziem grodom 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_2999 is -8.3323 over 747 frames.
+mankevich-183940_3000 lata z jeden badaczy własnego czasu pierwszym arkuszem kalkulacyjnym i komputerach piersi 
+LOG (gmm-latgen-faster[5.5.709~1-75872]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance mankevich-183940_3000 is -8.59646 over 745 frames.
+LOG (gmm-latgen-faster[5.5.709~1-75872]:main():gmm-latgen-faster.cc:176) Time taken 8.81028s: real-time factor assuming 100 frames/sec is 0.0968376
+LOG (gmm-latgen-faster[5.5.709~1-75872]:main():gmm-latgen-faster.cc:179) Done 10 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.709~1-75872]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -8.57212 over 9098 frames.
+# Accounting: time=8 threads=1
+# Ended (code 0) at Fri Jun 19 02:22:25 +03 2020, elapsed time 8 seconds

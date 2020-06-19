@@ -1,0 +1,1 @@
+Jest to animacja za pomocą ujęć kluczowych i polega ona na zmianie położenia odnośnika dla każdego ujęcia kluczowego. 

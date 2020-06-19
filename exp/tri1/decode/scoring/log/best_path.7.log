@@ -1,0 +1,28 @@
+# lattice-best-path --lm-scale=7 --word-symbol-table=exp/tri1/graph/words.txt "ark:gunzip -c exp/tri1/decode/lat.*.gz|" ark,t:exp/tri1/decode/scoring/7.tra 
+# Started at Fri Jun 19 02:24:21 +03 2020
+#
+lattice-best-path --lm-scale=7 --word-symbol-table=exp/tri1/graph/words.txt 'ark:gunzip -c exp/tri1/decode/lat.*.gz|' ark,t:exp/tri1/decode/scoring/7.tra 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2991, best cost 1084.59 + 54476.6 = 55561.2 over 547 frames.
+mankevich-183940_2991 o płacz per ci iż od na jenże instalowany są aplikacji pomoc ni czy 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2992, best cost 2274.8 + 128181 = 130456 over 1323 frames.
+mankevich-183940_2992 rajdach ma per pomaga automatycznie rozwiązać problemy lub od nimi odwołaniami programów do de is ku którego oznaczenie literowe poległych zmianie na przykład z 8 na de 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2993, best cost 2195.55 + 110304 = 112499 over 1110 frames.
+mankevich-183940_2993 jej lub łut to narzędzie do zmiany po nic i pod stojącej nie tych użytkowników tu że tylko od czas ona czasu uczy moje skorzystać z innego she staje 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2994, best cost 932.664 + 61943 = 62875.7 over 627 frames.
+mankevich-183940_2994 los woli to zachować wrażenie jednolitej przestrzeni dźwiękowej wokół na 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2995, best cost 2304.3 + 113326 = 115630 over 1145 frames.
+mankevich-183940_2995 jedni dźwięk przemieszcza się ze jakimś uderzenie filmowym z nie będą kośćmi na przez centralny do prawe go ten i może on skarby od podłogi do sufitu is for od tym 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2996, best cost 984.808 + 48397.4 = 49382.2 over 485 frames.
+mankevich-183940_2996 brak tę rest ty na jest budowa zestawów głośników do kina domowego 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2997, best cost 1833.17 + 92493.4 = 94326.6 over 911 frames.
+mankevich-183940_2997 zawsze jestem większe sam w for i kilka mało głośników chce ty i tu takie rozwija z stanie jest one mieć na eklektyczną na je 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2998, best cost 2273.55 + 143581 = 145854 over 1458 frames.
+mankevich-183940_2998 nie miesiącu na naszym go ku ze niż czarnym kolejny składnik pakietu biurowego nie oto z ma racji u niech się polski arkusz kalkulacyjny i loki jeden dwa czy 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_2999, best cost 1319.58 + 71233.6 = 72553.1 over 747 frames.
+mankevich-183940_2999 mamy nad je że nasz poradnik łatwiej zaznajomienie się z tym bogato rozbudowanym narzędzie biuro owym 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:99) For utterance mankevich-183940_3000, best cost 1254.84 + 73863.9 = 75118.7 over 745 frames.
+mankevich-183940_3000 ulotne z jeden dwa czy o swego czas o pierwszą arkuszem kalkulacyjnym nie komputerów i ś i 
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:124) Overall cost per frame is 100.49 = 1.80895 [graph] + 98.681 [acoustic] over 9098 frames.
+LOG (lattice-best-path[5.5.709~1-75872]:main():lattice-best-path.cc:128) Done 10 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Fri Jun 19 02:24:21 +03 2020, elapsed time 0 seconds

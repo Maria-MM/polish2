@@ -1,0 +1,1 @@
+Director automatycznie utworzy przejściowe animacje pomiędzy położeniami kluczowymi. 

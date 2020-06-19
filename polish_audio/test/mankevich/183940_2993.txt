@@ -1,0 +1,1 @@
+PQBoot to narzędzie do zmiany partycji bootującej dla tych użytkowników, którzy tylko od czasu do czasu potrzebują skorzystać z innego systemu. 

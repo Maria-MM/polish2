@@ -1,0 +1,1 @@
+Oprócz predefiniowanych , gotowych do użycia obiektów bardziej doświadczony użytkownik ma możliwość dołączania własnych procedur JavaScript. 

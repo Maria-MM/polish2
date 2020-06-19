@@ -1,0 +1,1 @@
+Włączona opcja Ping Check zwiększy szybkość badania. 

@@ -1,0 +1,1 @@
+DriveMapper pomaga automatycznie rozwiązać problemy z błędnymi odwołaniami programów do dysku, którego oznaczenie literowe uległo zmianie, np. z E: na D:. 

@@ -1,0 +1,5744 @@
+!SIL 1.0	sil
+<UNK> 1.0	spn
+żal	1.0	Z a l
+craig	1.0	c r a i g
+no	1.0	n o
+interpretacji	1.0	i n t e r p r e t a c j i
+tysięcy	1.0	t i2 sj eo5 c i2
+przywitaj	1.0	p S i2 v i t a j
+oferty	1.0	o f e r t i2
+dziale	1.0	dzj a l e
+potykam	1.0	p o t i2 k a m
+przerąbała	1.0	p S e r oc5 b a w a
+talent	1.0	t a l e n t
+później	1.0	p u zj n i e j
+świętej	1.0	sj v i eo5 t e j
+uobecniasz	1.0	u o b e c n i a S
+płytkiej	1.0	p w i2 t k i e j
+małgorzata	1.0	m a w g o Z a t a
+czynu	1.0	tS i2 n u
+która	1.0	k t u r a
+uderzenie	1.0	u d e Z e n i e
+spustoszył	1.0	s p u s t o S i2 w
+sceniczna	1.0	s c e n i tS n a
+warunkach	1.0	v a r u n k a h
+graną	1.0	g r a n oc5
+masło	1.0	m a s w o
+czymś	1.0	tS i2 m sj
+liturgicznego	1.0	l j t u r g i tS n e g o
+toczyło	1.0	t o tS i2 w o
+akompaniamencie	1.0	a k o m p a n i a m e n tsj e
+fabryki	1.0	f a b r i2 k i
+oknie	1.0	o k n i e
+przesmyki	1.0	p S e s m i2 k i
+poniósłszy	1.0	p o n i u s w S i2
+budzić	1.0	b u dzj i tsj
+chciałbym	1.0	h tsj a w b i2 m
+drzemie	1.0	d Z e m i e
+akcją	1.0	a k c j oc5
+wyznacza	1.0	v i2 z n a tS a
+patronatem	1.0	p a t r o n a t e m
+próbowałem	1.0	p r u b o v a w e m
+biodrami	1.0	b i o d r a m i
+mycia	1.0	m i2 tsj a
+kropki	1.0	k r o p k i
+mamę	1.0	m a m e
+kartezjuszu	1.0	k a r t e z j u S u
+serio-	1.0	s e r j o
+potraw	1.0	p o t r a v
+przeciw	1.0	p S e tsj i v
+anti	1.0	a n t j
+wykształcona	1.0	v i2 k S t a w c o n a
+puzonie	1.0	p u z o n i e
+faktu	1.0	f a k t u
+niesprawiedliwych	1.0	n i e s p r a v i e d l j v i2 h
+wzywając	1.0	v z i2 v a j oc5 c
+zanim	1.0	z a n i m
+łut	1.0	w u t
+przychodzą	1.0	p S i2 h o dz oc5
+uproś	1.0	u p r o sj
+autorskiego	1.0	a u t o r s k i e g o
+miliona	1.0	m i l j o n a
+środków	1.0	sj r o t k u v
+uczyni	1.0	u tS i2 n i
+spiskowiec	1.0	s p i s k o v i e c
+piwie	1.0	p i v i e
+chcąc	1.0	h c oc5 c
+wzruszyłam	1.0	v z r u S i2 w a m
+nobla	1.0	n o b l a
+odpowiadać	1.0	o d p o v i a d a tsj
+raz	1.0	r a z
+wyrażalne	1.0	v i2 r a Z a l n e
+cieszącego	1.0	tsj e S oc5 c e g o
+służbę	1.0	s w u Z b e
+połączone	1.0	p o w oc5 tS o n e
+wyrobionej	1.0	v i2 r o b i o n e j
+której	1.0	k t u r e j
+przeciętnej	1.0	p S e tsj eo5 t n e j
+ważnym	1.0	v a Z n i2 m
+sztuka	1.0	S t u k a
+estée	1.0	e s t e
+polskimi	1.0	p o l s k i m i
+dłużej	1.0	d w u Z e j
+atakowanego	1.0	a t a k o v a n e g o
+i'm	1.0	i m
+wypowiedzi	1.0	v i2 p o v i e dzj i
+nieco	1.0	n i e c o
+nad	1.0	n a d
+ulubione	1.0	u l u b i o n e
+podróżować	1.0	p o d r u Z o v a tsj
+okrucieństwo	1.0	o k r u tsj e n~ s t f o
+pewności	1.0	p e v n o sj tsj i
+ubóstwa	1.0	u b u s t f a
+młodej	1.0	m w o d e j
+fałsz	1.0	f a w S
+chciałabyś	1.0	h tsj a w a b i2 sj
+noszone	1.0	n o S o n e
+rzadziej	1.0	Z a dzj e j
+www	1.0	v v v
+freuda	1.0	f r e u d a
+jukatan	1.0	j u k a t a n
+powozem	1.0	p o v o z e m
+oszczędności	1.0	o S tS eo5 d n o sj tsj i
+prokuratorem	1.0	p r o k u r a t o r e m
+zaimplementowane	1.0	z a i m p l e m e n t o v a n e
+dolegliwości	1.0	d o l e g l j v o sj tsj i
+wife's	1.0	v i f e s
+godzinie	1.0	g o dzj i n i e
+przyjaźń	1.0	p S i2 j a zj n~
+naturalne	1.0	n a t u r a l n e
+nogi	1.0	n o g i
+tradycyjne	1.0	t r a d i2 c i2 j n e
+sprawne	1.0	s p r a v n e
+rolę	1.0	r o l e
+dziewczyny	1.0	dzj e v tS i2 n i2
+wśród	1.0	v sj r u d
+schodzę	1.0	s h o dz e
+saula	1.0	s a u l a
+zniszczenie	1.0	z n i S tS e n i e
+grobów	1.0	g r o b u v
+legat	1.0	l e g a t
+szerokość	1.0	S e r o k o sj tsj
+wielkość	1.0	v i e l k o sj tsj
+odporności	1.0	o d p o r n o sj tsj i
+wzięto	1.0	v zj eo5 t o
+wysyłali	1.0	v i2 s i2 w a l j
+pierwszym	1.0	p i e r v S i2 m
+największe	1.0	n a j v i eo5 k S e
+tamtym	1.0	t a m t i2 m
+filmowym	1.0	f i l m o v i2 m
+użytkownik	1.0	u Z i2 t k o v n i k
+więcej	1.0	v i eo5 c e j
+wodna	1.0	v o d n a
+instynktów	1.0	i n s t i2 n k t u v
+przystaje	1.0	p S i2 s t a j e
+urana	1.0	u r a n a
+zakopać	1.0	z a k o p a tsj
+that	1.0	t h a t
+łyków	1.0	w i2 k u v
+topniały	1.0	t o p n i a w i2
+fotooferty	1.0	f o t o o f e r t i2
+skórze	1.0	s k u Z e
+ludzkości-	1.0	l u dz k o sj tsj i e
+stały	1.0	s t a w i2
+sadzenia	1.0	s a dz e n i a
+sceny	1.0	s c e n i2
+załamuje	1.0	z a w a m u j e
+mocy	1.0	m o c i2
+krwawnika	1.0	k r v a v n i k a
+błyskawica	1.0	b w i2 s k a v i c a
+przy	1.0	p S i2
+zwierzątka	1.0	z v i e Z oc5 t k a
+daj	1.0	d a j
+komisy	1.0	k o m i s i2
+bojowe	1.0	b o j o v e
+wzrok	1.0	v z r o k
+ekonomiczne	1.0	e k o n o m i tS n e
+odkrywczy	1.0	o t k r i2 v tS i2
+rozbrzmiewało	1.0	r o z b Z m i e v a w o
+odwrotnie-	1.0	o d v r o t n i e e
+udoskonalił	1.0	u d o s k o n a l j w
+namacalna	1.0	n a m a c a l n a
+tle	1.0	t l e
+żoną	1.0	Z o n oc5
+tłuściejsze	1.0	t w u sj tsj e j S e
+does	1.0	d o e s
+dobrodziejstwem	1.0	d o b r o dzj e j s t f e m
+takiej	1.0	t a k i e j
+dziewczyna	1.0	dzj e v tS i2 n a
+księdza	1.0	k sj eo5 dz a
+łza	1.0	w z a
+zapowiedzi	1.0	z a p o v i e dzj i
+programem-	1.0	p r o g r a m e m e
+świnia	1.0	sj v i n i a
+pobratymca	1.0	p o b r a t i2 m c a
+większą	1.0	v i eo5 k S oc5
+pasuje	1.0	p a s u j e
+uśmiechnij	1.0	u sj m i e h n i j
+domowego	1.0	d o m o v e g o
+abstrakcyjną	1.0	a b s t r a k c i2 j n oc5
+przepisywano	1.0	p S e p i s i2 v a n o
+danych	1.0	d a n i2 h
+także	1.0	t a g Z e
+zapalonych	1.0	z a p a l o n i2 h
+święcie	1.0	sj v i eo5 tsj e
+wyjaśnić	1.0	v i2 j a sj n i tsj
+orb	1.0	o r b
+napisane	1.0	n a p i s a n e
+pola	1.0	p o l a
+edessy	1.0	e d e S i2
+mógłby	1.0	m u g w b i2
+mussoliniego	1.0	m u S o l j n i e g o
+własnych	1.0	v w a s n i2 h
+inni	1.0	i n n i
+robić	1.0	r o b i tsj
+bo	1.0	b o
+strojach	1.0	s t r o j a h
+pomorską	1.0	p o m o r s k oc5
+mgnienie	1.0	m g n i e n i e
+wykorzystywane	1.0	v i2 k o Z i2 s t i2 v a n e
+nadzieją	1.0	n a dzj e j oc5
+wykonaj	1.0	v i2 k o n a j
+widziałem	1.0	v i dzj a w e m
+kościelną	1.0	k o sj tsj e l n oc5
+prześpię	1.0	p S e sj p i e
+wielkiego	1.0	v i e l k i e g o
+lektura	1.0	l e k t u r a
+astronom	1.0	a s t r o n o m
+zlicza	1.0	z l j tS a
+książka	1.0	k tsj oc5 Z k a
+podstawówce	1.0	p o d s t a v u v c e
+wspaniałomyślność	1.0	v s p a n i a w o m i2 sj l n o sj tsj
+połowy	1.0	p o w o v i2
+dodatkową	1.0	d o d a t k o v oc5
+nadać	1.0	n a d a tsj
+sympatia	1.0	s i2 m p a t j a
+niechęci	1.0	n i e h eo5 tsj i
+konieczności	1.0	k o n i e tS n o sj tsj i
+dramat	1.0	d r a m a t
+księcia	1.0	k sj eo5 tsj a
+klatkę	1.0	k l a t k e
+niebios	1.0	n i e b i o s
+jeżeli	1.0	j e Z e l j
+piersi	1.0	p i e r sj i
+jeden	1.0	j e d e n
+ideologiczną	1.0	i d e o l o g i tS n oc5
+kreona	1.0	k r e o n a
+zmieścić	1.0	z m i e sj tsj i tsj
+dożywocie	1.0	d o Z i2 v o tsj e
+opowiada	1.0	o p o v i a d a
+gołębia	1.0	g o w eo5 b i a
+kółkach	1.0	k u w k a h
+prezydent	1.0	p r e z i2 d e n t
+manifestować	1.0	m a n i f e s t o v a tsj
+łuk	1.0	w u k
+błyskawice	1.0	b w i2 s k a v i c e
+zakończenie	1.0	z a k o n~ tS e n i e
+rzeź	1.0	Z e zj
+unikam	1.0	u n i k a m
+akcesoria	1.0	a k c e s o r j a
+niezbędnym	1.0	n i e z b eo5 d n i2 m
+słowa	1.0	s w o v a
+wiódł	1.0	v i u d w
+prawdy	1.0	p r a v d i2
+prawie	1.0	p r a v i e
+przekonaniu	1.0	p S e k o n a n i u
+pokusy	1.0	p o k u s i2
+przeświadczenie	1.0	p S e sj v i a d tS e n i e
+zarabiać	1.0	z a r a b i a tsj
+gestem	1.0	g e s t e m
+komputerów	1.0	k o m p u t e r u v
+perswazji	1.0	p e r s v a z j i
+gędził	1.0	g eo5 dzj i w
+czynszowe	1.0	tS i2 n S o v e
+publicznym	1.0	p u b l j tS n i2 m
+wyjdziesz	1.0	v i2 j dzj e S
+dbali	1.0	d b a l j
+rozdzielczości	1.0	r o z dzj e l tS o sj tsj i
+zostali	1.0	z o s t a l j
+wyprostuj	1.0	v i2 p r o s t u j
+refleksji	1.0	r e f l e k s j i
+życiem	1.0	Z i2 tsj e m
+bytu	1.0	b i2 t u
+wziął	1.0	v zj oc5 w
+reagowałeś	1.0	r e a g o v a w e sj
+kwantowymi	1.0	k f a n t o v i2 m i
+aforyzmy	1.0	a f o r i2 z m i2
+niespodzianej	1.0	n i e s p o dzj a n e j
+zakochanych	1.0	z a k o h a n i2 h
+twoja	1.0	t f o j a
+wiersza	1.0	v i e r S a
+ujarzmienie	1.0	u j a Z m i e n i e
+ułatwieniem	1.0	u w a t f i e n i e m
+bestię	1.0	b e s t j e
+startowałaś	1.0	s t a r t o v a w a sj
+zamierzonego	1.0	z a m i e Z o n e g o
+oceniona	1.0	o c e n i o n a
+łez	1.0	w e z
+razie	1.0	r a zj e
+źródło	1.0	zj r u d w o
+uwagę	1.0	u v a g e
+mikrokosmosu	1.0	m i k r o k o s m o s u
+piątym	1.0	p i oc5 t i2 m
+kierownictwo	1.0	k i e r o v n i c t f o
+górną	1.0	g u r n oc5
+jednym	1.0	j e d n i2 m
+przedstawimy	1.0	p S e d s t a v i m i2
+spróbuję	1.0	s p r u b u j e
+sojuszników	1.0	s o j u S n i k u v
+redakcyjny	1.0	r e d a k c i2 j n i2
+wiarę	1.0	v i a r e
+zadowoliłaby	1.0	z a d o v o l j w a b i2
+seks-maniaka	1.0	s e k s m a n i a k a
+grałam	1.0	g r a w a m
+gęsi	1.0	g eo5 sj i
+quentin	1.0	k e n t j n
+mojej	1.0	m o j e j
+owego	1.0	o v e g o
+krwawię	1.0	k r v a v i e
+rozczarowaniem	1.0	r o z tS a r o v a n i e m
+większe	1.0	v i eo5 k S e
+mocnej	1.0	m o c n e j
+skruchę	1.0	s k r u h e
+wyciągnął	1.0	v i2 tsj oc5 g n oc5 w
+wiadomo	1.0	v i a d o m o
+rozprowadziła	1.0	r o z p r o v a dzj i w a
+shoping	1.0	s h o p i n g
+kąpieli	1.0	k oc5 p i e l j
+jutro	1.0	j u t r o
+argumenty	1.0	a r g u m e n t i2
+atrybutami	1.0	a t r i2 b u t a m i
+pełni	1.0	p e w n i
+zdradzisz	1.0	z d r a dzj i S
+zdradzić	1.0	z d r a dzj i tsj
+komie	1.0	k o m i e
+przede	1.0	p S e d e
+ciemniejszych	1.0	tsj e m n i e j S i2 h
+prośby	1.0	p r o sj b i2
+przebaczającym	1.0	p S e b a tS a j oc5 c i2 m
+ekranie	1.0	e k r a n i e
+duże	1.0	d u Z e
+policzki	1.0	p o l j tS k i
+pytać	1.0	p i2 t a tsj
+średni	1.0	sj r e d n i
+chrochodylek	1.0	h r o h o d i2 l e k
+subwoofer	1.0	s u b v o o f e r
+wpływ	1.0	v p w i2 v
+smartsuite	1.0	s m a r t s u i t e
+też	1.0	t e S
+ograł	1.0	o g r a w
+zastosujemy	1.0	z a s t o s u j e m i2
+niesmak	1.0	n i e s m a k
+wakacje	1.0	v a k a c j e
+towarzysząca	1.0	t o v a Z i2 S oc5 c a
+polszczyzną	1.0	p o l S tS i2 z n oc5
+microsoftu	1.0	m i c r o s o f t u
+dokonany	1.0	d o k o n a n i2
+spotkałam	1.0	s p o t k a w a m
+przemawia	1.0	p S e m a v i a
+szczątek	1.0	S tS oc5 t e k
+realna	1.0	r e a l n a
+dzieci	1.0	dzj e tsj i
+dziewczynę	1.0	dzj e v tS i2 n e
+bohra	1.0	b o h r a
+zmienia	1.0	z m i e n i a
+kremy	1.0	k r e m i2
+historycznych	1.0	h j s t o r i2 tS n i2 h
+pisanie	1.0	p i s a n i e
+miecza	1.0	m i e tS a
+rybacy	1.0	r i2 b a c i2
+były	1.0	b i2 w i2
+książki	1.0	k tsj oc5 Z k i
+podejrzanego	1.0	p o d e j Z a n e g o
+listu	1.0	l j s t u
+najwięcej	1.0	n a j v i eo5 c e j
+doświadczyłeś	1.0	d o sj v i a d tS i2 w e sj
+np	1.0	n p
+junacka	1.0	j u n a c k a
+zanik	1.0	z a n i k
+wyznań	1.0	v i2 z n a n~
+koniec	1.0	k o n i e c
+żółwia	1.0	Z u w v i a
+żądny	1.0	Z oc5 d n i2
+mego	1.0	m e g o
+wojennych	1.0	v o j e n n i2 h
+niezbędne	1.0	n i e z b eo5 d n e
+biblioteką	1.0	b i b l j o t e k oc5
+procedur	1.0	p r o c e d u r
+hamburg	1.0	h a m b u r g
+najnowszym	1.0	n a j n o v S i2 m
+niepodzielne	1.0	n i e p o dzj e l n e
+nauczaniem	1.0	n a u tS a n i e m
+dokonywać	1.0	d o k o n i2 v a tsj
+ludy	1.0	l u d i2
+szary	1.0	S a r i2
+raju	1.0	r a j u
+różnorakie	1.0	r u Z n o r a k i e
+są	1.0	s oc5
+chodzić	1.0	h o dzj i tsj
+metr	1.0	m e t r
+pędzeni	1.0	p eo5 dz e n i
+uścisk	1.0	u sj tsj i s k
+przygotowuje	1.0	p S i2 g o t o v u j e
+tajemnic	1.0	t a j e m n i c
+rzucone	1.0	Z u c o n e
+zagradza	1.0	z a g r a dz a
+obejrzenia	1.0	o b e j Z e n i a
+wyrazić	1.0	v i2 r a zj i tsj
+stożkach	1.0	s t o Z k a h
+rozpoczyna	1.0	r o z p o tS i2 n a
+ejże	1.0	e j Z e
+dziesiątym	1.0	dzj e tsj oc5 t i2 m
+śpi	1.0	sj p i
+początku	1.0	p o tS oc5 t k u
+powinnaś	1.0	p o v i n n a sj
+seryjni	1.0	s e r i2 j n i
+morskiej	1.0	m o r s k i e j
+osoba	1.0	o s o b a
+rozprawy	1.0	r o z p r a v i2
+przeszłość	1.0	p S e S w o sj tsj
+skorzystać	1.0	s k o Z i2 s t a tsj
+opiekować	1.0	o p i e k o v a tsj
+filozofem	1.0	f i l o z o f e m
+postrzegał	1.0	p o s t S e g a w
+każe	1.0	k a Z e
+dzieła	1.0	dzj e w a
+przymusem	1.0	p S i2 m u s e m
+koncert	1.0	k o n c e r t
+szczerość	1.0	S tS e r o sj tsj
+zeszłego	1.0	z e S w e g o
+zadawałem	1.0	z a d a v a w e m
+wami	1.0	v a m i
+wzory	1.0	v z o r i2
+wstążek	1.0	v s t oc5 Z e k
+rodzą	1.0	r o dz oc5
+przekroczy	1.0	p S e k r o tS i2
+niekoniecznie	1.0	n i e k o n i e tS n i e
+niezwyciężony	1.0	n i e z v i2 tsj eo5 Z o n i2
+zainteresowań	1.0	z a i n t e r e s o v a n~
+sakrament	1.0	s a k r a m e n t
+wierzyć	1.0	v i e Z i2 tsj
+odejść	1.0	o d e j sj tsj
+zwątpili	1.0	z v oc5 t p i l j
+delikatny	1.0	d e l j k a t n i2
+dobry	1.0	d o b r i2
+bunt	1.0	b u n t
+pozorami	1.0	p o z o r a m i
+widmo	1.0	v i d m o
+niebawem	1.0	n i e b a v e m
+samobójstwo	1.0	s a m o b u j s t f o
+myśli	1.0	m i2 sj l j
+realny	1.0	r e a l n i2
+głównie	1.0	g w u v n i e
+powodów	1.0	p o v o d u v
+cokolwiek	1.0	c o k o l v i e k
+wędrowca	1.0	v eo5 d r o v c a
+pokolenia	1.0	p o k o l e n i a
+celu	1.0	c e l u
+wiec	1.0	v i e c
+zastanawiałem	1.0	z a s t a n a v i a w e m
+jasne	1.0	j a s n e
+lewe	1.0	l e v e
+użytkownicy	1.0	u Z i2 t k o v n i c i2
+światło	1.0	sj v i a t w o
+absurdalnych	1.0	a b s u r d a l n i2 h
+zamknięciu	1.0	z a m k n i eo5 tsj u
+dosłownie	1.0	d o s w o v n i e
+przemyślnie	1.0	p S e m i2 sj l n i e
+dociekania	1.0	d o tsj e k a n i a
+patrzy	1.0	p a t S i2
+ckosmo	1.0	c k o s m o
+zakon	1.0	z a k o n
+możliwość	1.0	m o Z l j v o sj tsj
+atutów	1.0	a t u t u v
+broni	1.0	b r o n i
+postawi	1.0	p o s t a v i
+zabrania	1.0	z a b r a n i a
+nim	1.0	n i m
+przykładzie	1.0	p S i2 k w a dzj e
+niestrudzony	1.0	n i e s t r u dz o n i2
+które	1.0	k t u r e
+mieszkania	1.0	m i e S k a n i a
+osiągnięte	1.0	o tsj oc5 g n i eo5 t e
+inhalacji	1.0	i n h a l a c j i
+potężniejszymi	1.0	p o t eo5 Z n i e j S i2 m i
+systemowe	1.0	s i2 s t e m o v e
+płciowym	1.0	p w tsj o v i2 m
+usłyszeć	1.0	u s w i2 S e tsj
+teraźniejszym	1.0	t e r a zj n i e j S i2 m
+kobiecość	1.0	k o b i e c o sj tsj
+momentu	1.0	m o m e n t u
+pieniądze	1.0	p i e n i oc5 dz e
+nieużytym	1.0	n i e u Z i2 t i2 m
+cudach	1.0	c u d a h
+szczególnych	1.0	S tS e g u l n i2 h
+zleniwiały	1.0	z l e n i v i a w i2
+zatrzymani	1.0	z a t S i2 m a n i
+krzywego	1.0	k S i2 v e g o
+gadacza	1.0	g a d a tS a
+matek	1.0	m a t e k
+wymówek	1.0	v i2 m u v e k
+tożsamy	1.0	t o Z s a m i2
+mistrzowie	1.0	m i s t S o v i e
+wino	1.0	v i n o
+rzeczywistości-	1.0	Z e tS i2 v i s t o sj tsj e
+dostała	1.0	d o s t a w a
+boku	1.0	b o k u
+drgań	1.0	d r g a n~
+praktyczne	1.0	p r a k t i2 tS n e
+pieściłaś	1.0	p i e sj tsj i w a sj
+mariesjew	1.0	m a r j e s j e v
+tajnych	1.0	t a j n i2 h
+rzeczywistość	1.0	Z e tS i2 v i s t o sj tsj
+jakoby	1.0	j a k o b i2
+całkiem	1.0	c a w k i e m
+zdejmuj	1.0	z d e j m u j
+postacie	1.0	p o s t a tsj e
+położenia	1.0	p o w o Z e n i a
+rozstrzygnąć	1.0	r o z s t S i2 g n oc5 tsj
+przegranych	1.0	p S e g r a n i2 h
+suwałk	1.0	s u v a w k
+chętniej	1.0	h eo5 t n i e j
+gończe	1.0	g o n~ tS e
+jeszcze	1.0	j e S tS e
+pirackich	1.0	p i r a c k i h
+śmiercią	1.0	sj m i e r tsj i oc5
+pospieszna	1.0	p o s p i e S n a
+dużą	1.0	d u Z oc5
+kafki	1.0	k a f k i
+wolności	1.0	v o l n o sj tsj i
+białe	1.0	b i a w e
+pracę	1.0	p r a c e
+francisco	1.0	f r a n tsj i s c o
+manifesty	1.0	m a n i f e s t i2
+umykało	1.0	u m i2 k a w o
+poezja	1.0	p o e z j a
+kupuję	1.0	k u p u j e
+pracowicie	1.0	p r a c o v i tsj e
+piętnastego	1.0	p i eo5 t n a s t e g o
+pogardzie	1.0	p o g a r dzj e
+ostatecznym	1.0	o s t a t e tS n i2 m
+pomidorówki	1.0	p o m i d o r u v k i
+świecie	1.0	sj v i e tsj e
+zbiorowa	1.0	z b i o r o v a
+ziemskim	1.0	zj e m s k i m
+amerykańskie	1.0	a m e r i2 k a n~ s k i e
+dziękuję	1.0	dzj eo5 k u j e
+kilka	1.0	k i l k a
+wyglądu	1.0	v i2 g l oc5 d u
+metrów	1.0	m e t r u v
+szła	1.0	S w a
+2	1.0	d
+poznaje	1.0	p o z n a j e
+ogrodem	1.0	o g r o d e m
+kobietę	1.0	k o b i e t e
+jednostki	1.0	j e d n o s t k i
+mnie	1.0	m n i e
+minione	1.0	m i n i o n e
+dochodzi	1.0	d o h o dzj i
+protezy	1.0	p r o t e z i2
+obiera	1.0	o b i e r a
+otwory	1.0	o t f o r i2
+powiekę	1.0	p o v i e k e
+uwodzenia	1.0	u v o dz e n i a
+pochłonięta	1.0	p o h w o n i eo5 t a
+przychwycić	1.0	p S i2 h v i2 tsj i tsj
+zasłanych	1.0	z a s w a n i2 h
+działania	1.0	dzj a w a n i a
+ziemianie	1.0	zj e m i a n i e
+noc	1.0	n o c
+jednolitej	1.0	j e d n o l j t e j
+pantomimą	1.0	p a n t o m i m oc5
+niech	1.0	n i e h
+mówiłaś	1.0	m u v i w a sj
+iż	1.0	i S
+tytuły	1.0	t i2 t u w i2
+zbuntowane	1.0	z b u n t o v a n e
+spotykanej	1.0	s p o t i2 k a n e j
+właśnie	1.0	v w a sj n i e
+urzeczywistnia	1.0	u Z e tS i2 v i s t n i a
+sytuacjom	1.0	s i2 t u a c j o m
+wyruszy	1.0	v i2 r u S i2
+b-17	1.0	b e o sj
+stawiły	1.0	s t a v i w i2
+spowodowane	1.0	s p o v o d o v a n e
+panują	1.0	p a n u j oc5
+bierze	1.0	b i e Z e
+propozycje	1.0	p r o p o z i2 c j e
+akceptację	1.0	a k c e p t a c j e
+rozrywkach	1.0	r o z r i2 v k a h
+każde	1.0	k a Z d e
+ukochany	1.0	u k o h a n i2
+kosiński	1.0	k o sj i n~ s k i
+wprawdzie	1.0	v p r a v dzj e
+wiecznym	1.0	v i e tS n i2 m
+po	1.0	p o
+chrześcijaństwo	1.0	h Z e sj tsj i j a n~ s t f o
+lokomotywy	1.0	l o k o m o t i2 v i2
+zaznajomienie	1.0	z a z n a j o m i e n i e
+płaczącym	1.0	p w a tS oc5 c i2 m
+wybijają	1.0	v i2 b i j a j oc5
+dzieciom	1.0	dzj e tsj o m
+brat	1.0	b r a t
+lśniącymi	1.0	l sj n i oc5 c i2 m i
+wskazywać	1.0	v s k a z i2 v a tsj
+uważaliśmy	1.0	u v a Z a l j sj m i2
+osiemdziesiątych	1.0	o sj e m dzj e tsj oc5 t i2 h
+w	1.0	v
+umie	1.0	u m i e
+znużenia	1.0	z n u Z e n i a
+leibnizu	1.0	l e i b n i z u
+najlepiej	1.0	n a j l e p i e j
+mawsu'at	1.0	m a v s u a t
+żałobną	1.0	Z a w o b n oc5
+krótkometrażowego	1.0	k r u t k o m e t r a Z o v e g o
+więc	1.0	v i eo5 c
+pomogło	1.0	p o m o g w o
+zadaniem	1.0	z a d a n i e m
+starożytnego	1.0	s t a r o Z i2 t n e g o
+domatowa	1.0	d o m a t o v a
+metafizyczny	1.0	m e t a f i z i2 tS n i2
+store.britannica.com	1.0	s t o r e b r j t a n n i c a c o m
+protestu	1.0	p r o t e s t u
+nieoczekiwana	1.0	n i e o tS e k i v a n a
+przejściowe	1.0	p S e j sj tsj o v e
+przekroczyć	1.0	p S e k r o tS i2 tsj
+straszliwe	1.0	s t r a S l j v e
+ciekawej	1.0	tsj e k a v e j
+staram	1.0	s t a r a m
+777	1.0	sj e e
+jakich	1.0	j a k i h
+czai	1.0	tS a i
+drobinkę	1.0	d r o b i n k e
+chyba	1.0	h i2 b a
+próbowałaś	1.0	p r u b o v a w a sj
+własnego	1.0	v w a s n e g o
+warstwie	1.0	v a r s t f i e
+chciałby	1.0	h tsj a w b i2
+powieściowe	1.0	p o v i e sj tsj o v e
+chamfort	1.0	h a m f o r t
+tango"-	1.0	t a n g o
+radosna	1.0	r a d o s n a
+warszawskiej	1.0	v a r S a v s k i e j
+nazbyt	1.0	n a z b i2 t
+er	1.0	e r
+zaistnieć	1.0	z a i s t n i e tsj
+bogiem	1.0	b o g i e m
+rochefoucauld	1.0	r o h e f o u c a u l d
+napisanego	1.0	n a p i s a n e g o
+panny	1.0	p a n n i2
+zbroje	1.0	z b r o j e
+przyjemnością	1.0	p S i2 j e m n o sj tsj oc5
+podlegającego	1.0	p o d l e g a j oc5 c e g o
+wróżenia	1.0	v r u Z e n i a
+polega	1.0	p o l e g a
+li	1.0	l j
+dobrych	1.0	d o b r i2 h
+grupie	1.0	g r u p i e
+czekającej	1.0	tS e k a j oc5 c e j
+myśleć	1.0	m i2 sj l e tsj
+tli	1.0	t l j
+dot	1.0	d o t
+jednak	1.0	j e d n a k
+dosięgnął	1.0	d o sj eo5 g n oc5 w
+pozorem	1.0	p o z o r e m
+pochodach	1.0	p o h o d a h
+rozmawiały	1.0	r o z m a v i a w i2
+waliło	1.0	v a l j w o
+robiłam	1.0	r o b i w a m
+wybiera	1.0	v i2 b i e r a
+samozachowawczy	1.0	s a m o z a h o v a v tS i2
+nową	1.0	n o v oc5
+prostu	1.0	p r o s t u
+filtru	1.0	f i l t r u
+kosmosie	1.0	k o s m o sj e
+check	1.0	h e c k
+zakazywać	1.0	z a k a z i2 v a tsj
+imienia	1.0	i m i e n i a
+przyjaciółmi	1.0	p S i2 j a tsj u w m i
+idiotyczny	1.0	i d j o t i2 tS n i2
+zarówno	1.0	z a r u v n o
+wojskowych	1.0	v o j s k o v i2 h
+cienkie	1.0	tsj e n k i e
+jednakowoż	1.0	j e d n a k o v o S
+92	1.0	eo5 tsj d
+całkowicie	1.0	c a w k o v i tsj e
+pisarskim	1.0	p i s a r s k i m
+sumienia	1.0	s u m i e n i a
+ukrywają	1.0	u k r i2 v a j oc5
+uruchamiamy	1.0	u r u h a m i a m i2
+prasie	1.0	p r a sj e
+oko	1.0	o k o
+nieruchomości	1.0	n i e r u h o m o sj tsj i
+zyskały	1.0	z i2 s k a w i2
+średnią	1.0	sj r e d n i oc5
+narzeczona	1.0	n a Z e tS o n a
+wiernych	1.0	v i e r n i2 h
+wierzących	1.0	v i e Z oc5 c i2 h
+hajduna	1.0	h a j d u n a
+błyszczącym	1.0	b w i2 S tS oc5 c i2 m
+oddaję	1.0	o d d a j e
+leków	1.0	l e k u v
+osobistego	1.0	o s o b i s t e g o
+ukrytą	1.0	u k r i2 t oc5
+luksusowa	1.0	l u k s u s o v a
+otrzymane	1.0	o t S i2 m a n e
+odwrót-	1.0	o d v r u t
+przyczynę	1.0	p S i2 tS i2 n e
+myślała	1.0	m i2 sj l a w a
+artykuły	1.0	a r t i2 k u w i2
+krainie	1.0	k r a i n i e
+mówił	1.0	m u v i w
+magnetofonów	1.0	m a g n e t o f o n u v
+wariatki	1.0	v a r j a t k i
+sportu	1.0	s p o r t u
+tradycji	1.0	t r a d i2 c j i
+zalewa	1.0	z a l e v a
+williama	1.0	v i l l j a m a
+przychodzi	1.0	p S i2 h o dzj i
+dzięki	1.0	dzj eo5 k i
+taktu	1.0	t a k t u
+poobijanych	1.0	p o o b i j a n i2 h
+czystą	1.0	tS i2 s t oc5
+domowi	1.0	d o m o v i
+zapędził	1.0	z a p eo5 dzj i w
+praktycznym	1.0	p r a k t i2 tS n i2 m
+burze	1.0	b u Z e
+for	1.0	f o r
+słuchamy	1.0	s w u h a m i2
+głównych	1.0	g w u v n i2 h
+zrozumieniem	1.0	z r o z u m i e n i e m
+ponurej	1.0	p o n u r e j
+twoimi	1.0	t f o i m i
+stopami	1.0	s t o p a m i
+kina	1.0	k i n a
+cywilizacji	1.0	c i2 v i l j z a c j i
+znalazła	1.0	z n a l a z w a
+the	1.0	t h e
+błędnymi	1.0	b w eo5 d n i2 m i
+chwilka	1.0	h v i l k a
+dodamy	1.0	d o d a m i2
+jeździł	1.0	j e zj dzj i w
+chin	1.0	h j n
+zmarłego	1.0	z m a r w e g o
+rzadkie!-	1.0	Z a t k i e e
+zachować	1.0	z a h o v a tsj
+piórami	1.0	p i u r a m i
+stale	1.0	s t a l e
+bonanzy	1.0	b o n a n z i2
+herbaty	1.0	h e r b a t i2
+homera	1.0	h o m e r a
+planami	1.0	p l a n a m i
+twojej	1.0	t f o j e j
+owładnięta	1.0	o v w a d n i eo5 t a
+zwyciężył	1.0	z v i2 tsj eo5 Z i2 w
+wygrałam	1.0	v i2 g r a w a m
+określona	1.0	o k r e sj l o n a
+odrzuceniem	1.0	o d Z u c e n i e m
+puchatek	1.0	p u h a t e k
+czytał	1.0	tS i2 t a w
+dokładnie	1.0	d o k w a d n i e
+swych	1.0	s v i2 h
+pamięta	1.0	p a m i eo5 t a
+powodu	1.0	p o v o d u
+fakt	1.0	f a k t
+niosącą	1.0	n i o s oc5 c oc5
+czasie	1.0	tS a sj e
+czyhającego	1.0	tS i2 h a j oc5 c e g o
+wf	1.0	v f
+filharmonii	1.0	f i l h a r m o n i i
+zwrócić	1.0	z v r u tsj i tsj
+stałaś	1.0	s t a w a sj
+wysokiego	1.0	v i2 s o k i e g o
+wzruszyłaś	1.0	v z r u S i2 w a sj
+spędziła	1.0	s p eo5 dzj i w a
+dostrzegłby	1.0	d o s t S e g w b i2
+szczęśliwym	1.0	S tS eo5 sj l j v i2 m
+lęk	1.0	l eo5 k
+remake	1.0	r e m a k e
+zganiał	1.0	z g a n i a w
+wciąż	1.0	v tsj oc5 S
+b-29	1.0	b e d eo5 tsj
+istnienia	1.0	i s t n i e n i a
+zdaje	1.0	z d a j e
+bronią	1.0	b r o n i oc5
+przypisana	1.0	p S i2 p i s a n a
+przyczynach	1.0	p S i2 tS i2 n a h
+pogrzebania	1.0	p o g Z e b a n i a
+dziele	1.0	dzj e l e
+użycia	1.0	u Z i2 tsj a
+dźwięki	1.0	dzj v i eo5 k i
+buduje	1.0	b u d u j e
+ujmującą	1.0	u j m u j oc5 c oc5
+zajmujący	1.0	z a j m u j oc5 c i2
+plan	1.0	p l a n
+zostawiając	1.0	z o s t a v i a j oc5 c
+ukojonej	1.0	u k o j o n e j
+gazet	1.0	g a z e t
+mikołaja	1.0	m i k o w a j a
+serialach	1.0	s e r j a l a h
+zamachy	1.0	z a m a h i2
+swoich	1.0	s v o i h
+status	1.0	s t a t u s
+podatków	1.0	p o d a t k u v
+rozumiem	1.0	r o z u m i e m
+próg	1.0	p r u g
+świetna	1.0	sj v i e t n a
+windzie	1.0	v i n dzj e
+magiczną	1.0	m a g i tS n oc5
+śmierci	1.0	sj m i e r tsj i
+daleko	1.0	d a l e k o
+podobnego	1.0	p o d o b n e g o
+traciłam	1.0	t r a tsj i w a m
+sensie	1.0	s e n sj e
+razu	1.0	r a z u
+podwajał	1.0	p o d v a j a w
+siatkowym	1.0	tsj a t k o v i2 m
+witherspoon	1.0	v i t h e r s p o o n
+podnosić	1.0	p o d n o sj i tsj
+państwa	1.0	p a n~ s t f a
+względów	1.0	v z g l eo5 d u v
+facet	1.0	f a c e t
+wywiadowi	1.0	v i2 v i a d o v i
+anarchistkę	1.0	a n a r h j s t k e
+nęcąca	1.0	n eo5 c oc5 c a
+zmarłemu	1.0	z m a r w e m u
+zaciągi	1.0	z a tsj oc5 g i
+kochać	1.0	k o h a tsj
+kręgi	1.0	k r eo5 g i
+furii	1.0	f u r j i
+konspiratorzy	1.0	k o n s p i r a t o Z i2
+gruba	1.0	g r u b a
+przebywa	1.0	p S e b i2 v a
+zasadzie	1.0	z a s a dzj e
+podarować	1.0	p o d a r o v a tsj
+używając	1.0	u Z i2 v a j oc5 c
+wirefusion	1.0	v i r e f u sj o n
+nieskończonych	1.0	n i e s k o n~ tS o n i2 h
+badania	1.0	b a d a n i a
+wagi	1.0	v a g i
+toczonych	1.0	t o tS o n i2 h
+przychodzę	1.0	p S i2 h o dz e
+miłość-	1.0	m i w o sj tsj e
+brakiem	1.0	b r a k i e m
+kalkulacyjny	1.0	k a l k u l a c i2 j n i2
+wypada	1.0	v i2 p a d a
+ziemię	1.0	zj e m i e
+dziedzinie	1.0	dzj e dzj i n i e
+zbawienia	1.0	z b a v i e n i a
+szpad	1.0	S p a d
+robisz	1.0	r o b i S
+od	1.0	o d
+aż	1.0	a S
+gdzież	1.0	g dzj e S
+przybiorą	1.0	p S i2 b i o r oc5
+przymocowane	1.0	p S i2 m o c o v a n e
+rozumu	1.0	r o z u m u
+zmniejsza	1.0	z m n i e j S a
+rozległość	1.0	r o z l e g w o sj tsj
+wspólnej	1.0	v s p u l n e j
+paliłem	1.0	p a l j w e m
+ogródek	1.0	o g r u d e k
+start	1.0	s t a r t
+dziewictwa	1.0	dzj e v i c t f a
+ostatnim	1.0	o s t a t n i m
+iluzji	1.0	i l u z j i
+nieodwołalną	1.0	n i e o d v o w a l n oc5
+poskrzypiałem	1.0	p o s k S i2 p i a w e m
+unikaj	1.0	u n i k a j
+chłopak	1.0	h w o p a k
+ostatni	1.0	o s t a t n i
+talerzem	1.0	t a l e Z e m
+love	1.0	l o f e
+zyskałam	1.0	z i2 s k a w a m
+kresu	1.0	k r e s u
+nasz	1.0	n a S
+podejrzeń	1.0	p o d e j Z e n~
+sprawiedliwości	1.0	s p r a v i e d l j v o sj tsj i
+lasy	1.0	l a s i2
+paranoją	1.0	p a r a n o j oc5
+chciałoby	1.0	h tsj a w o b i2
+domogarow	1.0	d o m o g a r o v
+nabierający	1.0	n a b i e r a j oc5 c i2
+ok	1.0	o k
+emocjonalnych	1.0	e m o c j o n a l n i2 h
+kubusia	1.0	k u b u tsj a
+radośnie	1.0	r a d o sj n i e
+biodrach	1.0	b i o d r a h
+częściej	1.0	tS eo5 sj tsj e j
+kojarzy	1.0	k o j a Z i2
+powodować	1.0	p o v o d o v a tsj
+obiektu	1.0	o b i e k t u
+big	1.0	b i g
+stał	1.0	s t a w
+dziady	1.0	dzj a d i2
+kolejnego	1.0	k o l e j n e g o
+niczym	1.0	n i tS i2 m
+futrzaną	1.0	f u t S a n oc5
+domogarowa	1.0	d o m o g a r o v a
+prosto	1.0	p r o s t o
+skromnie	1.0	s k r o m n i e
+podobnych	1.0	p o d o b n i2 h
+jednocześnie	1.0	j e d n o tS e sj n i e
+ma-	1.0	m a e
+lubi	1.0	l u b i
+literackiego	1.0	l j t e r a c k i e g o
+ważniejsze	1.0	v a Z n i e j S e
+even	1.0	e f e n
+zakochać	1.0	z a k o h a tsj
+popularna	1.0	p o p u l a r n a
+włoch	1.0	v w o h
+zainteresowanie	1.0	z a i n t e r e s o v a n i e
+szerszą	1.0	S e r S oc5
+narzędziem	1.0	n a Z eo5 dzj e m
+103	1.0	s t o S i2
+bywa	1.0	b i2 v a
+zlikwidować	1.0	z l j k f i d o v a tsj
+mistrz	1.0	m i s t S
+grabów	1.0	g r a b u v
+zaprawieni	1.0	z a p r a v i e n i
+spędzonych	1.0	s p eo5 dz o n i2 h
+zrozumiał	1.0	z r o z u m i a w
+dziwi	1.0	dzj i v i
+zabójczym	1.0	z a b u j tS i2 m
+kiszonych	1.0	k i S o n i2 h
+dzieł	1.0	dzj e w
+małego	1.0	m a w e g o
+albumu	1.0	a l b u m u
+potrawa	1.0	p o t r a v a
+przyzwoitości-	1.0	p S i2 z v o i t o sj tsj i e
+chętka	1.0	h eo5 t k a
+współczesności	1.0	v s p u w tS e s n o sj tsj i
+zrobienia	1.0	z r o b i e n i a
+przypuszczać	1.0	p S i2 p u S tS a tsj
+ujęć	1.0	u j eo5 tsj
+głąb	1.0	g w oc5 b
+włoskiego	1.0	v w o s k i e g o
+pułapki	1.0	p u w a p k i
+małe	1.0	m a w e
+wenus	1.0	v e n u s
+jakąkolwiek	1.0	j a k oc5 k o l v i e k
+równię	1.0	r u v n i e
+ciebie	1.0	tsj e b i e
+sprawiedliwość	1.0	s p r a v i e d l j v o sj tsj
+kupującym	1.0	k u p u j oc5 c i2 m
+trzema	1.0	t S e m a
+nieczytany	1.0	n i e tS i2 t a n i2
+miecz	1.0	m i e tS
+dorośli	1.0	d o r o sj l j
+d	1.0	d
+przygotował	1.0	p S i2 g o t o v a w
+inna	1.0	i n n a
+dowodzą	1.0	d o v o dz oc5
+bombowe	1.0	b o m b o v e
+został	1.0	z o s t a w
+nachylił	1.0	n a h i2 l j w
+dobiega	1.0	d o b i e g a
+oblepiony	1.0	o b l e p i o n i2
+eucharystii	1.0	e u h a r i2 s t j i
+rzeczywisty	1.0	Z e tS i2 v i s t i2
+hipercieniutkich	1.0	h j p e r tsj e n i u t k i h
+sytuacja	1.0	s i2 t u a c j a
+nikołajewicza	1.0	n i k o w a j e v i tS a
+kultowym	1.0	k u l t o v i2 m
+koniecznie	1.0	k o n i e tS n i e
+szczęśliwa	1.0	S tS eo5 sj l j v a
+biblijne	1.0	b i b l j j n e
+polowaniu	1.0	p o l o v a n i u
+ręce	1.0	r eo5 c e
+intymne	1.0	i n t i2 m n e
+twoich	1.0	t f o i h
+ud	1.0	u d
+huczy	1.0	h u tS i2
+róża	1.0	r u Z a
+widzimy	1.0	v i dzj i m i2
+formą	1.0	f o r m oc5
+córkę	1.0	c u r k e
+jerzego	1.0	j e Z e g o
+wymyśliłam	1.0	v i2 m i2 sj l j w a m
+zejdź	1.0	z e j dzj
+biedy	1.0	b i e d i2
+uchodził	1.0	u h o dzj i w
+czerpać	1.0	tS e r p a tsj
+przeszukiwała	1.0	p S e S u k i v a w a
+planet	1.0	p l a n e t
+struchlała	1.0	s t r u h l a w a
+nakładam	1.0	n a k w a d a m
+mówi	1.0	m u v i
+drewnianych	1.0	d r e v n i a n i2 h
+równie	1.0	r u v n i e
+zdumiewać	1.0	z d u m i e v a tsj
+ojcze	1.0	o j tS e
+zachodnich	1.0	z a h o d n i h
+głosząc	1.0	g w o S oc5 c
+metafory	1.0	m e t a f o r i2
+rokujące	1.0	r o k u j oc5 c e
+rozwija	1.0	r o z v i j a
+ołowiu	1.0	o w o v i u
+szept	1.0	S e p t
+prousta	1.0	p r o u s t a
+ogromną	1.0	o g r o m n oc5
+czy	1.0	tS i2
+morza	1.0	m o Z a
+kierkegaarda	1.0	k i e r k e g a a r d a
+pomści	1.0	p o m sj tsj i
+idioty	1.0	i d j o t i2
+mogąc	1.0	m o g oc5 c
+obietnicą	1.0	o b i e t n i c oc5
+szyi	1.0	S i2 i
+wystarczy	1.0	v i2 s t a r tS i2
+przyjaciel	1.0	p S i2 j a tsj e l
+szedł	1.0	S e d w
+łowiłem	1.0	w o v i w e m
+umarli	1.0	u m a r l j
+podstawowymi	1.0	p o d s t a v o v i2 m i
+słowiańską	1.0	s w o v i a n~ s k oc5
+morskim	1.0	m o r s k i m
+główny	1.0	g w u v n i2
+surowa	1.0	s u r o v a
+generacja	1.0	g e n e r a c j a
+starokawalerskie	1.0	s t a r o k a v a l e r s k i e
+radio	1.0	r a d j o
+a	1.0	a
+impreza	1.0	i m p r e z a
+lekkomyślny	1.0	l e k k o m i2 sj l n i2
+300	1.0	o t
+wojny	1.0	v o j n i2
+własne	1.0	v w a s n e
+skóry	1.0	s k u r i2
+rozwiązywać	1.0	r o z v i oc5 z i2 v a tsj
+praktyce	1.0	p r a k t i2 c e
+jedynie	1.0	j e d i2 n i e
+zabrał	1.0	z a b r a w
+szkół	1.0	S k u w
+spontaniczny	1.0	s p o n t a n i tS n i2
+zbigniewa	1.0	z b i g n i e v a
+rybczyńskiego	1.0	r i2 b tS i2 n~ s k i e g o
+przezwyciężyć	1.0	p S e z v i2 tsj eo5 Z i2 tsj
+podległych	1.0	p o d l e g w i2 h
+pojednany	1.0	p o j e d n a n i2
+ulicy	1.0	u l j c i2
+dotknęło	1.0	d o t k n eo5 w o
+muły	1.0	m u w i2
+gwałciciel	1.0	g v a w c i tsj e l
+szaty	1.0	S a t i2
+marii	1.0	m a r j i
+tobie	1.0	t o b i e
+rezydentem	1.0	r e z i2 d e n t e m
+słowy	1.0	s w o v i2
+atletami	1.0	a t l e t a m i
+dzisiejszym	1.0	dzj i sj e j S i2 m
+językiem	1.0	j eo5 z i2 k i e m
+cywilizacyjnego	1.0	c i2 v i l j z a c i2 j n e g o
+hemoroidów	1.0	h e m o r o i d u v
+podjąłeś	1.0	p o d j oc5 w e sj
+nieodpartą	1.0	n i e o d p a r t oc5
+grunt	1.0	g r u n t
+ostatnio	1.0	o s t a t n i o
+wreszcie	1.0	v r e S tsj e
+niechaj	1.0	n i e h a j
+uchronić	1.0	u h r o n i tsj
+polami	1.0	p o l a m i
+stendhala	1.0	s t e n d h a l a
+zatem	1.0	z a t e m
+zakorzenione	1.0	z a k o Z e n i o n e
+dla	1.0	d l a
+by	1.0	b i2
+siecią	1.0	sj e tsj oc5
+hokejowego	1.0	h o k e j o v e g o
+conieco	1.0	c o n i e c o
+zakazuje	1.0	z a k a z u j e
+warunki	1.0	v a r u n k i
+wstępie	1.0	v s t eo5 p i e
+powinien	1.0	p o v i n i e n
+skupionej	1.0	s k u p i o n e j
+tuszem	1.0	t u S e m
+wiemy	1.0	v i e m i2
+uduchowioną	1.0	u d u h o v i o n oc5
+interaktywne	1.0	i n t e r a k t i2 v n e
+to-	1.0	t o
+krem	1.0	k r e m
+idealną	1.0	i d e a l n oc5
+zobaczyć	1.0	z o b a tS i2 tsj
+przygotowany	1.0	p S i2 g o t o v a n i2
+przyjaciela	1.0	p S i2 j a tsj e l a
+wyrzec	1.0	v i2 Z e c
+wyszło	1.0	v i2 S w o
+kawałki	1.0	k a v a w k i
+ubierała	1.0	u b i e r a w a
+udzielić	1.0	u dzj e l j tsj
+może	1.0	m o Z e
+wspieranie	1.0	v s p i e r a n i e
+przeklęty	1.0	p S e k l eo5 t i2
+dysku	1.0	d i2 s k u
+naukowiec	1.0	n a u k o v i e c
+optymizmu	1.0	o p t i2 m i z m u
+baletem	1.0	b a l e t e m
+używam	1.0	u Z i2 v a m
+leczy	1.0	l e tS i2
+udaną	1.0	u d a n oc5
+molestowania	1.0	m o l e s t o v a n i a
+serii	1.0	s e r j i
+mówią	1.0	m u v i oc5
+mcintosh	1.0	m tsj i n t o s h
+nią	1.0	n i oc5
+wyznaniem	1.0	v i2 z n a n i e m
+dbać	1.0	d b a tsj
+czasu	1.0	tS a s u
+perspektywy	1.0	p e r s p e k t i2 v i2
+potomnym	1.0	p o t o m n i2 m
+plwocina	1.0	p l v o tsj i n a
+znanej	1.0	z n a n e j
+kurtynę	1.0	k u r t i2 n e
+banku	1.0	b a n k u
+piszę	1.0	p i S e
+wszechstronnie	1.0	v S e h s t r o n n i e
+zdaniach	1.0	z d a n i a h
+encyklopedii	1.0	e n c i2 k l o p e d j i
+prawni	1.0	p r a v n i
+tytuł	1.0	t i2 t u w
+wiem	1.0	v i e m
+taśmie	1.0	t a sj m i e
+obok	1.0	o b o k
+francuskiej	1.0	f r a n c u s k i e j
+chociaż	1.0	h o tsj a S
+zafałszowanie	1.0	z a f a w S o v a n i e
+oryginału	1.0	o r i2 g i n a w u
+urodzenia	1.0	u r o dz e n i a
+książce	1.0	k tsj oc5 Z c e
+doświadczasz	1.0	d o sj v i a d tS a S
+rezygnacji	1.0	r e z i2 g n a c j i
+nieszczęścia	1.0	n i e S tS eo5 sj tsj a
+biedni	1.0	b i e d n i
+graf	1.0	g r a f
+odległym	1.0	o d l e g w i2 m
+historyczne	1.0	h j s t o r i2 tS n e
+miejsce	1.0	m i e j s c e
+przytrafiło	1.0	p S i2 t r a f i w o
+wannie	1.0	v a n n i e
+zginając	1.0	z g i n a j oc5 c
+wspaniały	1.0	v s p a n i a w i2
+wielkości	1.0	v i e l k o sj tsj i
+myszkina-	1.0	m i2 S k i n a e
+sprawia	1.0	s p r a v i a
+wynoszenie	1.0	v i2 n o S e n i e
+odleciał	1.0	o d l e tsj a w
+hillary	1.0	h j l l a r i2
+określić-	1.0	o k r e sj l j tsj e
+rest	1.0	r e s t
+r	1.0	r
+starokawalerskich	1.0	s t a r o k a v a l e r s k i h
+problemami	1.0	p r o b l e m a m i
+mury	1.0	m u r i2
+dębowych	1.0	d eo5 b o v i2 h
+pani	1.0	p a n i
+sponsorowi	1.0	s p o n s o r o v i
+dzisiaj	1.0	dzj i tsj a j
+trwoni	1.0	t r v o n i
+jawna	1.0	j a v n a
+wargi	1.0	v a r g i
+klawesynie	1.0	k l a v e s i2 n i e
+kolorowej	1.0	k o l o r o v e j
+100	1.0	s t o t
+krążka	1.0	k r oc5 Z k a
+istniejące	1.0	i s t n i e j oc5 c e
+eksperci	1.0	e k s p e r tsj i
+1	1.0	s t
+wzorce	1.0	v z o r c e
+wynalazcy	1.0	v i2 n a l a z c i2
+najdrobniejsza	1.0	n a j d r o b n i e j S a
+jednej	1.0	j e d n e j
+telewizji	1.0	t e l e v i z j i
+kordiana	1.0	k o r d j a n a
+wayne	1.0	v a i2 n e
+twoje	1.0	t f o j e
+pozwoli	1.0	p o z v o l j
+dążeniu	1.0	d oc5 Z e n i u
+wraz	1.0	v r a z
+zrezygnowała	1.0	z r e z i2 g n o v a w a
+teoria	1.0	t e o r j a
+nawilżający	1.0	n a v i l Z a j oc5 c i2
+wódz	1.0	v u dz
+literki	1.0	l j t e r k i
+zwykle	1.0	z v i2 k l e
+wstają	1.0	v s t a j oc5
+stąpać	1.0	s t oc5 p a tsj
+have	1.0	h a f e
+wosk	1.0	v o s k
+rzekomej	1.0	Z e k o m e j
+trader.pl	1.0	t r a d e r p l
+dano	1.0	d a n o
+ustrzec	1.0	u s t S e c
+za	1.0	z a
+robimy	1.0	r o b i m i2
+5	1.0	n tsj
+ufać	1.0	u f a tsj
+absurd	1.0	a b s u r d
+gdyby	1.0	g d i2 b i2
+stuprocentowych	1.0	s t u p r o c e n t o v i2 h
+prywatny	1.0	p r i2 v a t n i2
+igrać	1.0	i g r a tsj
+kłopot	1.0	k w o p o t
+pisarza	1.0	p i s a Z a
+faktycznie	1.0	f a k t i2 tS n i e
+wiedziony	1.0	v i e dzj o n i2
+właściwie	1.0	v w a sj tsj i v i e
+cnoty	1.0	c n o t i2
+manierę	1.0	m a n i e r e
+lolkiem	1.0	l o l k i e m
+umierania	1.0	u m i e r a n i a
+pisałem	1.0	p i s a w e m
+kontekst	1.0	k o n t e k s t
+twojego	1.0	t f o j e g o
+pępkiem	1.0	p eo5 p k i e m
+uczesanie	1.0	u tS e s a n i e
+publiczni	1.0	p u b l j tS n i
+kostiumów	1.0	k o s t j u m u v
+muszą	1.0	m u S oc5
+przeprowadzać	1.0	p S e p r o v a dz a tsj
+pokolenie	1.0	p o k o l e n i e
+przypadku	1.0	p S i2 p a t k u
+rodzaju	1.0	r o dz a j u
+zagrałaś	1.0	z a g r a w a sj
+ostatniej	1.0	o s t a t n i e j
+rozgrywa	1.0	r o z g r i2 v a
+nam	1.0	n a m
+życia	1.0	Z i2 tsj a
+deski	1.0	d e s k i
+mechaniczna	1.0	m e h a n i tS n a
+uczucia	1.0	u tS u tsj a
+jaw	1.0	j a v
+twierdzimy	1.0	t f i e r dzj i m i2
+doznawszy	1.0	d o z n a v S i2
+rzędu	1.0	Z eo5 d u
+wcielił	1.0	v tsj e l j w
+nowiem	1.0	n o v i e m
+który	1.0	k t u r i2
+niemców	1.0	n i e m c u v
+pokazują	1.0	p o k a z u j oc5
+serię	1.0	s e r j e
+wypędzony	1.0	v i2 p eo5 dz o n i2
+odczuwamy	1.0	o d tS u v a m i2
+pełnym	1.0	p e w n i2 m
+sposoby	1.0	s p o s o b i2
+południowych	1.0	p o w u d n i o v i2 h
+rozwiązaniem	1.0	r o z v i oc5 z a n i e m
+źródła	1.0	zj r u d w a
+szóstą	1.0	S u s t oc5
+chcą	1.0	h c oc5
+kosmetyków	1.0	k o s m e t i2 k u v
+wewnętrznie	1.0	v e v n eo5 t S n i e
+zawsze	1.0	z a v S e
+wędrując	1.0	v eo5 d r u j oc5 c
+wiarą	1.0	v i a r oc5
+biochemik	1.0	b i o h e m i k
+zające	1.0	z a j oc5 c e
+pomalowała	1.0	p o m a l o v a w a
+kwiatów	1.0	k f i a t u v
+działalności	1.0	dzj a w a l n o sj tsj i
+reasumując	1.0	r e a s u m u j oc5 c
+prawdę	1.0	p r a v d e
+rozmowy	1.0	r o z m o v i2
+tancerką	1.0	t a n c e r k oc5
+wieży	1.0	v i e Z i2
+książkę	1.0	k tsj oc5 Z k e
+niepotrzebującym	1.0	n i e p o t S e b u j oc5 c i2 m
+czynienia	1.0	tS i2 n i e n i a
+wyszukiwarki	1.0	v i2 S u k i v a r k i
+udowodnienie	1.0	u d o v o d n i e n i e
+cesarza-	1.0	c e s a Z a e
+zasypia	1.0	z a s i2 p i a
+odbywać	1.0	o d b i2 v a tsj
+wystawione	1.0	v i2 s t a v i o n e
+instrukcja	1.0	i n s t r u k c j a
+figurę	1.0	f i g u r e
+utkanym	1.0	u t k a n i2 m
+poznaniem	1.0	p o z n a n i e m
+świętego	1.0	sj v i eo5 t e g o
+wyglądasz	1.0	v i2 g l oc5 d a S
+lokalnej	1.0	l o k a l n e j
+neuschwanstein	1.0	n e u s h v a n s t e i n
+twoją	1.0	t f o j oc5
+tym	1.0	t i2 m
+europy	1.0	e u r o p i2
+doznając	1.0	d o z n a j oc5 c
+wichry	1.0	v i h r i2
+pojawia	1.0	p o j a v i a
+łabędzie	1.0	w a b eo5 dzj e
+ważny	1.0	v a Z n i2
+mi	1.0	m i
+młot	1.0	m w o t
+och	1.0	o h
+będziemy	1.0	b eo5 dzj e m i2
+niepodzielną	1.0	n i e p o dzj e l n oc5
+iluzoryczna	1.0	i l u z o r i2 tS n a
+kręcących	1.0	k r eo5 c oc5 c i2 h
+granic	1.0	g r a n i c
+doświadczeniu	1.0	d o sj v i a d tS e n i u
+prozac	1.0	p r o z a c
+postępowania-	1.0	p o s t eo5 p o v a n i a e
+nieogarnione	1.0	n i e o g a r n i o n e
+wieści	1.0	v i e sj tsj i
+powtarzając	1.0	p o v t a Z a j oc5 c
+naładowanych	1.0	n a w a d o v a n i2 h
+wisły	1.0	v i s w i2
+rozsądku	1.0	r o z s oc5 t k u
+jelenich	1.0	j e l e n i h
+zbudował	1.0	z b u d o v a w
+zawodowa	1.0	z a v o d o v a
+dzieckiem	1.0	dzj e c k i e m
+targać	1.0	t a r g a tsj
+ulotne	1.0	u l o t n e
+znika	1.0	z n i k a
+artystów	1.0	a r t i2 s t u v
+dzień	1.0	dzj e n~
+południowe	1.0	p o w u d n i o v e
+pomyśle	1.0	p o m i2 sj l e
+6	1.0	tsj e
+powiedz	1.0	p o v i e dz
+d)-	1.0	d e
+zginął	1.0	z g i n oc5 w
+polskiego	1.0	p o l s k i e g o
+pecha	1.0	p e h a
+łatwo	1.0	w a t f o
+wszelkiego	1.0	v S e l k i e g o
+dłonie	1.0	d w o n i e
+kozła	1.0	k o z w a
+równoległego	1.0	r u v n o l e g w e g o
+kafkowski	1.0	k a f k o v s k i
+jenże	1.0	j e n Z e
+uzyskać	1.0	u z i2 s k a tsj
+wzmocnić	1.0	v z m o c n i tsj
+dziwnie	1.0	dzj i v n i e
+potrzebują	1.0	p o t S e b u j oc5
+zapartym	1.0	z a p a r t i2 m
+kochankami	1.0	k o h a n k a m i
+widzenia	1.0	v i dz e n i a
+najpierw	1.0	n a j p i e r v
+uczynił	1.0	u tS i2 n i w
+896	1.0	o sj eo5 tsj tsj e
+osadzoną	1.0	o s a dz o n oc5
+boisz	1.0	b o i S
+instynkt	1.0	i n s t i2 n k t
+mówić	1.0	m u v i tsj
+historia	1.0	h j s t o r j a
+stref	1.0	s t r e f
+piętrze	1.0	p i eo5 t S e
+wieść	1.0	v i e sj tsj
+archiwizacją	1.0	a r h j v i z a c j oc5
+wojennej	1.0	v o j e n n e j
+niewiele	1.0	n i e v i e l e
+karierę	1.0	k a r j e r e
+romansów	1.0	r o m a n s u v
+emerytowany	1.0	e m e r i2 t o v a n i2
+oczu	1.0	o tS u
+problemy	1.0	p r o b l e m i2
+nikogo	1.0	n i k o g o
+doszedł	1.0	d o S e d w
+odkryto	1.0	o t k r i2 t o
+wyjechać	1.0	v i2 j e h a tsj
+litaka	1.0	l j t a k a
+tłumacz	1.0	t w u m a tS
+żartuje	1.0	Z a r t u j e
+pewno	1.0	p e v n o
+niebieskiemu	1.0	n i e b i e s k i e m u
+czeka	1.0	tS e k a
+stron	1.0	s t r o n
+swym	1.0	s v i2 m
+żyje	1.0	Z i2 j e
+doświadczenia	1.0	d o sj v i a d tS e n i a
+epokę	1.0	e p o k e
+brakujące	1.0	b r a k u j oc5 c e
+potrafimy	1.0	p o t r a f i m i2
+sprawić	1.0	s p r a v i tsj
+animacja	1.0	a n i m a c j a
+dzikie	1.0	dzj i k i e
+zamiast	1.0	z a m i a s t
+jesteście	1.0	j e s t e sj tsj e
+winy	1.0	v i n i2
+rewolucję	1.0	r e v o l u c j e
+klucz	1.0	k l u tS
+papież	1.0	p a p i e S
+straszliwą	1.0	s t r a S l j v oc5
+andrzej	1.0	a n d Z e j
+n	1.0	n
+szczęście	1.0	S tS eo5 sj tsj e
+ponieważ	1.0	p o n i e v a S
+książkach	1.0	k tsj oc5 Z k a h
+wracam	1.0	v r a c a m
+błahym	1.0	b w a h i2 m
+rokiem	1.0	r o k i e m
+tych	1.0	t i2 h
+dalekich	1.0	d a l e k i h
+margrafom	1.0	m a r g r a f o m
+uprawianie	1.0	u p r a v i a n i e
+wiadomości	1.0	v i a d o m o sj tsj i
+dało	1.0	d a w o
+pochłonięte	1.0	p o h w o n i eo5 t e
+hierarchię	1.0	h j e r a r h j e
+wydającą	1.0	v i2 d a j oc5 c oc5
+udało	1.0	u d a w o
+alkoholicy	1.0	a l k o h o l j c i2
+organizacji	1.0	o r g a n i z a c j i
+niewymagającym	1.0	n i e v i2 m a g a j oc5 c i2 m
+kolidować	1.0	k o l j d o v a tsj
+kolorów	1.0	k o l o r u v
+przekroczył	1.0	p S e k r o tS i2 w
+śpiewka	1.0	sj p i e v k a
+porażki	1.0	p o r a Z k i
+wytatuowałeś	1.0	v i2 t a t u o v a w e sj
+oscar	1.0	o s c a r
+boju	1.0	b o j u
+chałupniczym	1.0	h a w u p n i tS i2 m
+pornografię	1.0	p o r n o g r a f i e
+szybkość	1.0	S i2 b k o sj tsj
+przypadkowe	1.0	p S i2 p a t k o v e
+język	1.0	j eo5 z i2 k
+skąd	1.0	s k oc5 d
+wyprowadzając	1.0	v i2 p r o v a dz a j oc5 c
+messyny	1.0	m e S i2 n i2
+tajlandzka	1.0	t a j l a n dz k a
+spoczywa	1.0	s p o tS i2 v a
+twoim	1.0	t f o i m
+czynności	1.0	tS i2 n n o sj tsj i
+informacji	1.0	i n f o r m a c j i
+nakrycia	1.0	n a k r i2 tsj a
+wysnuć	1.0	v i2 s n u tsj
+wystawił	1.0	v i2 s t a v i w
+b-1b	1.0	b e tS t b
+krzyża	1.0	k S i2 Z a
+kobiecych	1.0	k o b i e c i2 h
+rytuałem	1.0	r i2 t u a w e m
+żałośnie	1.0	Z a w o sj n i e
+kołysany	1.0	k o w i2 s a n i2
+wajdzie	1.0	v a j dzj e
+trzeba	1.0	t S e b a
+postąpisz	1.0	p o s t oc5 p i S
+pisarz	1.0	p i s a S
+mówiąc	1.0	m u v i oc5 c
+zaszczepiona	1.0	z a S tS e p i o n a
+ujarzmił	1.0	u j a Z m i w
+orfeuszu	1.0	o r f e u S u
+cichego	1.0	tsj i h e g o
+niewyrażalny	1.0	n i e v i2 r a Z a l n i2
+pan	1.0	p a n
+tchnie	1.0	t h n i e
+gry	1.0	g r i2
+włóczęga	1.0	v w u tS eo5 g a
+bylibyśmy	1.0	b i2 l j b i2 sj m i2
+one	1.0	o n e
+oczyma	1.0	o tS i2 m a
+dni	1.0	d n i
+skaner	1.0	s k a n e r
+silnym	1.0	sj i l n i2 m
+podciągaj	1.0	p o d tsj oc5 g a j
+zapoznać	1.0	z a p o z n a tsj
+kolumn	1.0	k o l u m n
+pracowników	1.0	p r a c o v n i k u v
+pracujące	1.0	p r a c u j oc5 c e
+soli	1.0	s o l j
+aktorem	1.0	a k t o r e m
+życia-	1.0	Z i2 tsj a e
+wielkie	1.0	v i e l k i e
+drogę	1.0	d r o g e
+wyszywaniu	1.0	v i2 S i2 v a n i u
+słowiański	1.0	s w o v i a n~ s k i
+wyprawy	1.0	v i2 p r a v i2
+okien	1.0	o k i e n
+wnętrza	1.0	v n eo5 t S a
+doświadczeniami	1.0	d o sj v i a d tS e n i a m i
+o	1.0	o
+gero	1.0	g e r o
+przyjaciółki	1.0	p S i2 j a tsj u w k i
+ludźmi	1.0	l u dzj m i
+pokoje	1.0	p o k o j e
+rzadkości	1.0	Z a t k o sj tsj i
+szkolnej	1.0	S k o l n e j
+łatwiej	1.0	w a t f i e j
+kości	1.0	k o sj tsj i
+pójdziemy	1.0	p u j dzj e m i2
+szkołę	1.0	S k o w e
+problemów	1.0	p r o b l e m u v
+jął	1.0	j oc5 w
+pozytywnie	1.0	p o z i2 t i2 v n i e
+strun	1.0	s t r u n
+nieślubny	1.0	n i e sj l u b n i2
+skrzą	1.0	s k S oc5
+chardina	1.0	h a r d j n a
+zacząłem	1.0	z a tS oc5 w e m
+sprowadzał	1.0	s p r o v a dz a w
+zwierciadłem	1.0	z v i e r tsj a d w e m
+maszyny	1.0	m a S i2 n i2
+stołku	1.0	s t o w k u
+upstrzonym	1.0	u p s t S o n i2 m
+palenia	1.0	p a l e n i a
+spać	1.0	s p a tsj
+nałożysz	1.0	n a w o Z i2 S
+miłośników	1.0	m i w o sj n i k u v
+obejrzeć	1.0	o b e j Z e tsj
+milczeniem	1.0	m i l tS e n i e m
+wiek	1.0	v i e k
+kluczowego	1.0	k l u tS o v e g o
+oczom	1.0	o tS o m
+kluczowymi	1.0	k l u tS o v i2 m i
+zosia	1.0	z o tsj a
+depresji	1.0	d e p r e s j i
+jestem	1.0	j e s t e m
+wleźć	1.0	v l e zj tsj
+śmiertelników	1.0	sj m i e r t e l n i k u v
+strażniczko	1.0	s t r a Z n i tS k o
+kolejkowe	1.0	k o l e j k o v e
+krótki	1.0	k r u t k i
+uratować	1.0	u r a t o v a tsj
+składankę	1.0	s k w a d a n k e
+pokładzie	1.0	p o k w a dzj e
+najbliższej	1.0	n a j b l j Z S e j
+bohater	1.0	b o h a t e r
+metafizyka	1.0	m e t a f i z i2 k a
+cesarz	1.0	c e s a S
+radiu	1.0	r a d j u
+obwałował	1.0	o b v a w o v a w
+rozpoczęcie	1.0	r o z p o tS eo5 tsj e
+lutyki	1.0	l u t i2 k i
+uznawaniu	1.0	u z n a v a n i u
+wideo	1.0	v i d e o
+postawisz	1.0	p o s t a v i S
+braterskiej	1.0	b r a t e r s k i e j
+zdjęciu-	1.0	z d j eo5 tsj u
+obnażał	1.0	o b n a Z a w
+systemu	1.0	s i2 s t e m u
+utworzą	1.0	u t f o Z oc5
+nazwana	1.0	n a z v a n a
+przedziwną	1.0	p S e dzj i v n oc5
+polskiej-	1.0	p o l s k i e j e
+herrenchiemsee	1.0	h e r r e n h j e m s e e
+grać	1.0	g r a tsj
+arystotelesie	1.0	a r i2 s t o t e l e sj e
+ludzkiej	1.0	l u dz k i e j
+intuicją	1.0	i n t u i c j oc5
+żadnej	1.0	Z a d n e j
+staraj	1.0	s t a r a j
+ramion	1.0	r a m i o n
+poetykę	1.0	p o e t i2 k e
+ta	1.0	t a
+akt	1.0	a k t
+ofiary	1.0	o f i a r i2
+uległo	1.0	u l e g w o
+przenosili	1.0	p S e n o sj i l j
+poległych	1.0	p o l e g w i2 h
+krążki	1.0	k r oc5 Z k i
+stulecia	1.0	s t u l e tsj a
+sposób	1.0	s p o s u b
+fragmenty	1.0	f r a g m e n t i2
+ubierać	1.0	u b i e r a tsj
+kalkulacyjnym	1.0	k a l k u l a c i2 j n i2 m
+princess	1.0	p r j n c e S
+skład	1.0	s k w a d
+pewne	1.0	p e v n e
+oceną	1.0	o c e n oc5
+załogi	1.0	z a w o g i
+zdarzyć	1.0	z d a Z i2 tsj
+chce	1.0	h c e
+rybaków	1.0	r i2 b a k u v
+agresji	1.0	a g r e s j i
+chwilą	1.0	h v i l oc5
+przyjaciółką	1.0	p S i2 j a tsj u w k oc5
+żadnego	1.0	Z a d n e g o
+jego	1.0	j e g o
+modlił	1.0	m o d l j w
+rzut	1.0	Z u t
+rok	1.0	r o k
+wozów	1.0	v o z u v
+liście	1.0	l j sj tsj e
+poszukującym	1.0	p o S u k u j oc5 c i2 m
+aktorów	1.0	a k t o r u v
+kolorze	1.0	k o l o Z e
+jedno	1.0	j e d n o
+blisko	1.0	b l j s k o
+uodparnia	1.0	u o d p a r n i a
+żyła	1.0	Z i2 w a
+jej	1.0	j e j
+rodzić	1.0	r o dzj i tsj
+przedstawia	1.0	p S e d s t a v i a
+dzieciństwo	1.0	dzj e tsj i n~ s t f o
+planu	1.0	p l a n u
+łagodni	1.0	w a g o d n i
+niższości	1.0	n i Z S o sj tsj i
+klęsce	1.0	k l eo5 s c e
+nieznanej	1.0	n i e z n a n e j
+tradycyjnie	1.0	t r a d i2 c i2 j n i e
+opiekuńczy	1.0	o p i e k u n~ tS i2
+obliczeń	1.0	o b l j tS e n~
+jesteś	1.0	j e s t e sj
+spracowaną	1.0	s p r a c o v a n oc5
+kwestię	1.0	k f e s t j e
+stronicami	1.0	s t r o n i c a m i
+punktu	1.0	p u n k t u
+niccolo	1.0	n i c c o l o
+miałam	1.0	m i a w a m
+oczywiście	1.0	o tS i2 v i sj tsj e
+postaci	1.0	p o s t a tsj i
+wiecie	1.0	v i e tsj e
+ucieka	1.0	u tsj e k a
+małych	1.0	m a w i2 h
+wysokości	1.0	v i2 s o k o sj tsj i
+złem	1.0	z w e m
+osiągnięcie	1.0	o tsj oc5 g n i eo5 tsj e
+kamienice	1.0	k a m i e n i c e
+pieczołowicie	1.0	p i e tS o w o v i tsj e
+dziwki	1.0	dzj i v k i
+dowód	1.0	d o v u d
+sklepionym	1.0	s k l e p i o n i2 m
+7	1.0	e
+ojczyzna	1.0	o j tS i2 z n a
+innego	1.0	i n n e g o
+sprawiło	1.0	s p r a v i w o
+działa	1.0	dzj a w a
+filmie	1.0	f i l m i e
+jedynki	1.0	j e d i2 n k i
+zajmującą	1.0	z a j m u j oc5 c oc5
+ladena	1.0	l a d e n a
+podręczniki	1.0	p o d r eo5 tS n i k i
+podobnym	1.0	p o d o b n i2 m
+zepsutej	1.0	z e p s u t e j
+przebiegać	1.0	p S e b i e g a tsj
+podsuniętym	1.0	p o d s u n i eo5 t i2 m
+położyć	1.0	p o w o Z i2 tsj
+okazja	1.0	o k a z j a
+psem	1.0	p s e m
+liberalizm	1.0	l j b e r a l j z m
+bbc	1.0	b b c
+sasami	1.0	s a s a m i
+windsurfingowej	1.0	v i n d s u r f i n g o v e j
+przygodę	1.0	p S i2 g o d e
+glow	1.0	g l o v
+szczędzą	1.0	S tS eo5 dz oc5
+manii	1.0	m a n i i
+tysiące	1.0	t i2 tsj oc5 c e
+ciąg	1.0	tsj oc5 g
+wybrzeże	1.0	v i2 b Z e Z e
+oparami	1.0	o p a r a m i
+dziwnych	1.0	dzj i v n i2 h
+tyrana	1.0	t i2 r a n a
+matką	1.0	m a t k oc5
+itza	1.0	i t z a
+szansę	1.0	S a n s e
+buntu	1.0	b u n t u
+zastanawiam	1.0	z a s t a n a v i a m
+uczucie	1.0	u tS u tsj e
+głosimy	1.0	g w o sj i m i2
+wsze	1.0	v S e
+testów	1.0	t e s t u v
+partycji	1.0	p a r t i2 c j i
+leczenia	1.0	l e tS e n i a
+płonących	1.0	p w o n oc5 c i2 h
+rozróżnić	1.0	r o z r u Z n i tsj
+niedowagę	1.0	n i e d o v a g e
+archiwizacji-	1.0	a r h j v i z a c j i e
+podążył	1.0	p o d oc5 Z i2 w
+krążenia	1.0	k r oc5 Z e n i a
+franza	1.0	f r a n z a
+takiego	1.0	t a k i e g o
+roku	1.0	r o k u
+duchem	1.0	d u h e m
+oskarżony	1.0	o s k a r Z o n i2
+rouge	1.0	r o u g e
+złoża	1.0	z w o Z a
+przypisując	1.0	p S i2 p i s u j oc5 c
+podobno	1.0	p o d o b n o
+lęku	1.0	l eo5 k u
+natura	1.0	n a t u r a
+władca	1.0	v w a d c a
+ogień	1.0	o g i e n~
+istotę	1.0	i s t o t e
+chatka	1.0	h a t k a
+brudne	1.0	b r u d n e
+przypomnieć	1.0	p S i2 p o m n i e tsj
+postrzegana	1.0	p o s t S e g a n a
+buki	1.0	b u k i
+ławrze	1.0	w a v Z e
+upływ	1.0	u p w i2 v
+joni	1.0	j o n i
+odmaterializował	1.0	o d m a t e r j a l j z o v a w
+miarą	1.0	m i a r oc5
+poznać	1.0	p o z n a tsj
+wypływają	1.0	v i2 p w i2 v a j oc5
+urlop	1.0	u r l o p
+kompleks	1.0	k o m p l e k s
+aberracją	1.0	a b e r r a c j oc5
+puzon	1.0	p u z o n
+przemyka	1.0	p S e m i2 k a
+nimfomanki	1.0	n i m f o m a n k i
+ładną	1.0	w a d n oc5
+cztery	1.0	tS t e r i2
+rzuciła	1.0	Z u tsj i w a
+istnienie	1.0	i s t n i e n i e
+dziecko	1.0	dzj e c k o
+jakim	1.0	j a k i m
+waragi-	1.0	v a r a g i e
+kielich	1.0	k i e l j h
+wszechmocy	1.0	v S e h m o c i2
+kolejne	1.0	k o l e j n e
+odetchnęły	1.0	o d e t h n eo5 w i2
+prywatnym	1.0	p r i2 v a t n i2 m
+nosisz	1.0	n o sj i S
+sprząta	1.0	s p S oc5 t a
+she	1.0	s h e
+zegar	1.0	z e g a r
+nacisku	1.0	n a tsj i s k u
+ruch	1.0	r u h
+kto	1.0	k t o
+najgorsza	1.0	n a j g o r S a
+słodkimi	1.0	s w o t k i m i
+ojciec	1.0	o j tsj e c
+dworu	1.0	d v o r u
+miotał	1.0	m i o t a w
+rozważnie	1.0	r o z v a Z n i e
+proces	1.0	p r o c e s
+pozwolił	1.0	p o z v o l j w
+zdrowiu-	1.0	z d r o v i u
+okolicach	1.0	o k o l j c a h
+łukasz	1.0	w u k a S
+skarby	1.0	s k a r b i2
+bodaj	1.0	b o d a j
+celem	1.0	c e l e m
+ciała	1.0	tsj a w a
+zostały	1.0	z o s t a w i2
+inch)-	1.0	i n c h
+domu	1.0	d o m u
+nowa	1.0	n o v a
+tłumaczyła	1.0	t w u m a tS i2 w a
+b-52	1.0	b e p i d
+niemieckiemu	1.0	n i e m i e c k i e m u
+zgodziliby	1.0	z g o dzj i l j b i2
+wbrew	1.0	v b r e v
+rozrywek	1.0	r o z r i2 v e k
+zastąpić	1.0	z a s t oc5 p i tsj
+parallel	1.0	p a r a l l e l
+szli	1.0	S l j
+skuteczniejsza	1.0	s k u t e tS n i e j S a
+sekretów	1.0	s e k r e t u v
+odpoczynek	1.0	o d p o tS i2 n e k
+spalić	1.0	s p a l j tsj
+dociekań	1.0	d o tsj e k a n~
+usa	1.0	u s a
+zachwytach	1.0	z a h v i2 t a h
+osobnik	1.0	o s o b n i k
+znamy	1.0	z n a m i2
+malowany	1.0	m a l o v a n i2
+ową	1.0	o v oc5
+gdzieś	1.0	g dzj e sj
+przypomnienie	1.0	p S i2 p o m n i e n i e
+połączyłem	1.0	p o w oc5 tS i2 w e m
+bowiem	1.0	b o v i e m
+kreskówki	1.0	k r e s k u v k i
+czasy	1.0	tS a s i2
+kwaśnica	1.0	k f a sj n i c a
+przeciwnikami	1.0	p S e tsj i v n i k a m i
+trzynastozgłoskowcem	1.0	t S i2 n a s t o z g w o s k o v c e m
+wydają	1.0	v i2 d a j oc5
+nieistnienia	1.0	n i e i s t n i e n i a
+koledzy	1.0	k o l e dz i2
+uważałam	1.0	u v a Z a w a m
+beatrycze	1.0	b e a t r i2 tS e
+przynoszą	1.0	p S i2 n o S oc5
+czterech	1.0	tS t e r e h
+zawierają	1.0	z a v i e r a j oc5
+rozkwitająca	1.0	r o z k f i t a j oc5 c a
+czole	1.0	tS o l e
+studia	1.0	s t u d j a
+wielkim	1.0	v i e l k i m
+kostiumowych	1.0	k o s t j u m o v i2 h
+dziadek	1.0	dzj i a d e k
+przerwa	1.0	p S e r v a
+mogłam	1.0	m o g w a m
+deser	1.0	d e s e r
+kidzeną	1.0	k i dz e n oc5
+przezorny	1.0	p S e z o r n i2
+licznych	1.0	l j tS n i2 h
+pośrednictwem	1.0	p o sj r e d n i c t f e m
+słodkiego	1.0	s w o t k i e g o
+programy	1.0	p r o g r a m i2
+wtedy	1.0	v t e d i2
+powołani	1.0	p o v o w a n i
+wiązania	1.0	v i oc5 z a n i a
+podejrzana	1.0	p o d e j Z a n a
+doradza	1.0	d o r a dz a
+roznosząc	1.0	r o z n o S oc5 c
+wynosi	1.0	v i2 n o sj i
+działanie	1.0	dzj a w a n i e
+schizofrenii	1.0	s h j z o f r e n i i
+prowadzi	1.0	p r o v a dzj i
+następnie	1.0	n a s t eo5 p n i e
+kierując	1.0	k i e r u j oc5 c
+trudnością	1.0	t r u d n o sj tsj oc5
+otwartymi	1.0	o t f a r t i2 m i
+dziać	1.0	dzj a tsj
+aktor	1.0	a k t o r
+mieście	1.0	m i e sj tsj e
+wzięła	1.0	v zj eo5 w a
+poprawkę	1.0	p o p r a v k e
+absolutnie	1.0	a b s o l u t n i e
+porozumienie	1.0	p o r o z u m i e n i e
+poznawania	1.0	p o z n a v a n i a
+rojowiska	1.0	r o j o v i s k a
+nic	1.0	n i c
+kształtuje	1.0	k S t a w t u j e
+ustach	1.0	u s t a h
+większy	1.0	v i eo5 k S i2
+meursaulta	1.0	m e u r s a u l t a
+miłość	1.0	m i w o sj tsj
+katalogu	1.0	k a t a l o g u
+nudą	1.0	n u d oc5
+nowego	1.0	n o v e g o
+myślowym	1.0	m i2 sj l o v i2 m
+skoncentrować	1.0	s k o n c e n t r o v a tsj
+grzeszności	1.0	g Z e S n o sj tsj i
+przemyt	1.0	p S e m i2 t
+bezinteresowności	1.0	b e zj i n t e r e s o v n o sj tsj i
+wyjątkowo	1.0	v i2 j oc5 t k o v o
+okazje	1.0	o k a z j e
+olejki	1.0	o l e j k i
+zaznaczamy	1.0	z a z n a tS a m i2
+kręciło	1.0	k r eo5 tsj i w o
+przygotuj	1.0	p S i2 g o t u j
+miałyby	1.0	m i a w i2 b i2
+męstwa	1.0	m eo5 s t f a
+czarnym	1.0	tS a r n i2 m
+śmigłowca	1.0	sj m i g w o v c a
+medialnego	1.0	m e d j a l n e g o
+poznaliśmy	1.0	p o z n a l j sj m i2
+kultem	1.0	k u l t e m
+dołączymy	1.0	d o w oc5 tS i2 m i2
+nieosiągalnego	1.0	n i e o tsj oc5 g a l n e g o
+rozpaczliwie	1.0	r o z p a tS l j v i e
+podobnie-	1.0	p o d o b n i e e
+ping	1.0	p i n g
+szlachetności	1.0	S l a h e t n o sj tsj i
+spełniło	1.0	s p e w n i w o
+pod	1.0	p o d
+spróbować	1.0	s p r u b o v a tsj
+wywiadu	1.0	v i2 v i a d u
+przeciwko	1.0	p S e tsj i v k o
+prądem	1.0	p r oc5 d e m
+świadomość	1.0	sj v i a d o m o sj tsj
+bajtów	1.0	b a j t u v
+cieniu	1.0	tsj e n i u
+dbała	1.0	d b a w a
+głównego	1.0	g w u v n e g o
+środku	1.0	sj r o t k u
+wierny	1.0	v i e r n i2
+edenu	1.0	e d e n u
+ścisłości	1.0	sj tsj i s w o sj tsj i
+bolkiem	1.0	b o l k i e m
+pozostanie	1.0	p o z o s t a n i e
+jasno	1.0	j a s n o
+zwłaszcza	1.0	z v w a S tS a
+precz	1.0	p r e tS
+ń	1.0	n~
+pozostającym	1.0	p o z o s t a j oc5 c i2 m
+doświadczył	1.0	d o sj v i a d tS i2 w
+sercu	1.0	s e r c u
+ambasady	1.0	a m b a s a d i2
+zmysłowo	1.0	z m i2 s w o v o
+zagłada	1.0	z a g w a d a
+pamiętniki	1.0	p a m i eo5 t n i k i
+nieraz	1.0	n i e r a z
+miłości	1.0	m i w o sj tsj i
+paradzie	1.0	p a r a dzj e
+wypad	1.0	v i2 p a d
+firma	1.0	f i r m a
+przykład	1.0	p S i2 k w a d
+prezentują	1.0	p r e z e n t u j oc5
+1-2-3	1.0	s t e d e S i2
+may	1.0	m a i2
+pierwszą	1.0	p i e r v S oc5
+przedmiotem	1.0	p S e d m i o t e m
+codziennie	1.0	c o dzj e n n i e
+idzie	1.0	i dzj e
+cezary	1.0	c e z a r i2
+żalu	1.0	Z a l u
+poruszała	1.0	p o r u S a w a
+przeklętą	1.0	p S e k l eo5 t oc5
+przenikają	1.0	p S e n i k a j oc5
+nieśli	1.0	n i e sj l j
+wergilego	1.0	v e r g i l e g o
+50	1.0	p i t
+magazynu	1.0	m a g a z i2 n u
+obrazie	1.0	o b r a zj e
+było	1.0	b i2 w o
+uwolnił	1.0	u v o l n i w
+sierpnia	1.0	sj e r p n i a
+gangów	1.0	g a n g u v
+okrucieństwa	1.0	o k r u tsj e n~ s t f a
+swojego	1.0	s v o j e g o
+tabelki	1.0	t a b e l k i
+oznacza	1.0	o z n a tS a
+kamienny	1.0	k a m i e n n i2
+przyrost	1.0	p S i2 r o s t
+wysoko	1.0	v i2 s o k o
+kawę	1.0	k a v e
+peace	1.0	p e a c e
+zbyt	1.0	z b i2 t
+spełnione	1.0	s p e w n i o n e
+łzy	1.0	w z i2
+je	1.0	j e
+lewego	1.0	l e v e g o
+da	1.0	d a
+wpadają	1.0	v p a d a j oc5
+otwarci	1.0	o t f a r tsj i
+zrozumieliśmy	1.0	z r o z u m i e l j sj m i2
+ideały	1.0	i d e a w i2
+zmartwychwstanie	1.0	z m a r t f i2 h v s t a n i e
+watch	1.0	v a t h
+wąwozy	1.0	v oc5 v o z i2
+spłodzili	1.0	s p w o dzj i l j
+opór	1.0	o p u r
+trzy	1.0	t S i2
+ku	1.0	k u
+lokomocji	1.0	l o k o m o c j i
+pieśń	1.0	p i e sj n~
+wykorzystywany	1.0	v i2 k o Z i2 s t i2 v a n i2
+roli	1.0	r o l j
+czasem	1.0	tS a s e m
+rozpaczy	1.0	r o z p a tS i2
+postanowiło	1.0	p o s t a n o v i w o
+wadze	1.0	v a dz e
+udostępniają	1.0	u d o s t eo5 p n i a j oc5
+kobiety	1.0	k o b i e t i2
+zdjęcia	1.0	z d j eo5 tsj a
+cosmo	1.0	c o s m o
+mięśnie	1.0	m i eo5 sj n i e
+zamku	1.0	z a m k u
+misternie	1.0	m i s t e r n i e
+obu	1.0	o b u
+współczesnej	1.0	v s p u w tS e s n e j
+1998	1.0	v i eo5 t eo5 tsj e
+wszystkie	1.0	v S i2 s t k i e
+znajomym	1.0	z n a j o m i2 m
+obcy	1.0	o b c i2
+żony	1.0	Z o n i2
+pstryk	1.0	p s t r i2 k
+jeśli	1.0	j e sj l j
+byt	1.0	b i2 t
+wręcz	1.0	v r eo5 tS
+rozstawionymi	1.0	r o z s t a v i o n i2 m i
+zbladł	1.0	z b l a d w
+autentyczności	1.0	a u t e n t i2 tS n o sj tsj i
+słuchać	1.0	s w u h a tsj
+lekcja	1.0	l e k c j a
+gronie	1.0	g r o n i e
+czującej	1.0	tS u j oc5 c e j
+króla	1.0	k r u l a
+doskonalić	1.0	d o s k o n a l j tsj
+cesarzowi	1.0	c e s a Z o v i
+niego	1.0	n i e g o
+wokół	1.0	v o k u w
+ręką	1.0	r eo5 k oc5
+niezwyciężonego	1.0	n i e z v i2 tsj eo5 Z o n e g o
+zatrudnionemu	1.0	z a t r u d n i o n e m u
+napady	1.0	n a p a d i2
+każda	1.0	k a Z d a
+zwiedzić	1.0	z v i e dzj i tsj
+wpisane	1.0	v p i s a n e
+kiedykolwiek	1.0	k i e d i2 k o l v i e k
+prawda	1.0	p r a v d a
+ułatwi	1.0	u w a t f i
+różne	1.0	r u Z n e
+odtąd	1.0	o d t oc5 d
+g	1.0	g
+wojownik	1.0	v o j o v n i k
+przeoczy	1.0	p S e o tS i2
+metodę	1.0	m e t o d e
+oparcie	1.0	o p a r tsj e
+mam	1.0	m a m
+gel	1.0	g e l
+przemieniła	1.0	p S e m i e n i w a
+taką	1.0	t a k oc5
+młoda	1.0	m w o d a
+piątą	1.0	p i oc5 t oc5
+sebastiana	1.0	s e b a s t j a n a
+racjonalnie	1.0	r a c j o n a l n i e
+okolicznościach	1.0	o k o l j tS n o sj tsj a h
+spraw	1.0	s p r a v
+shi-king	1.0	s h j k i n g
+przypomina	1.0	p S i2 p o m i n a
+zgadzam	1.0	z g a dz a m
+kolacja	1.0	k o l a c j a
+należałoby	1.0	n a l e Z a w o b i2
+hohenlohe	1.0	h o h e n l o h e
+dziennikarzom	1.0	dzj e n n i k a Z o m
+francuzem	1.0	f r a n c u z e m
+podszczuje	1.0	p o d S tS u j e
+oka	1.0	o k a
+litości	1.0	l j t o sj tsj i
+mową	1.0	m o v oc5
+rękach	1.0	r eo5 k a h
+postać	1.0	p o s t a tsj
+dantego	1.0	d a n t e g o
+głową	1.0	g w o v oc5
+końca	1.0	k o n~ c a
+taka	1.0	t a k a
+jedynaczką	1.0	j e d i2 n a tS k oc5
+plecy	1.0	p l e c i2
+rozmiarów	1.0	r o z m i a r u v
+szybko	1.0	S i2 b k o
+nawyki	1.0	n a v i2 k i
+technikami	1.0	t e h n i k a m i
+rzucić	1.0	Z u tsj i tsj
+sklepie	1.0	s k l e p i e
+powiedzą	1.0	p o v i e dz oc5
+majów-	1.0	m a j u v
+oddać	1.0	o d d a tsj
+kończy	1.0	k o n~ tS i2
+wróć	1.0	v r u tsj
+katastroficznie	1.0	k a t a s t r o f i tS n i e
+zmierzch	1.0	z m i e Z h
+pojęcia	1.0	p o j eo5 tsj a
+urodzony	1.0	u r o dz o n i2
+się	1.0	sj i e
+ukaże	1.0	u k a Z e
+przedstawienie	1.0	p S e d s t a v i e n i e
+ruskina	1.0	r u s k i n a
+dopuszcza	1.0	d o p u S tS a
+ofierze	1.0	o f i e Z e
+director	1.0	d j r e c t o r
+skakać	1.0	s k a k a tsj
+czuły	1.0	tS u w i2
+tabliczkę	1.0	t a b l j tS k e
+głęboką	1.0	g w eo5 b o k oc5
+dziobie	1.0	dzj o b i e
+modlitwę	1.0	m o d l j t f e
+p	1.0	p
+pojąwszy	1.0	p o j oc5 v S i2
+dreamweavera-	1.0	d r e a m v e a f e r a e
+mamy	1.0	m a m i2
+ryju	1.0	r i2 j u
+przekroczone	1.0	p S e k r o tS o n e
+wystarczająca	1.0	v i2 s t a r tS a j oc5 c a
+zapewnia	1.0	z a p e v n i a
+myślisz	1.0	m i2 sj l j S
+skazany	1.0	s k a z a n i2
+przyciągniesz	1.0	p S i2 tsj oc5 g n i e S
+korzyści	1.0	k o Z i2 sj tsj i
+cieni	1.0	tsj e n i
+przeciętny	1.0	p S e tsj eo5 t n i2
+sobą	1.0	s o b oc5
+elle	1.0	e l l e
+pieniędzy	1.0	p i e n i eo5 dz i2
+wypączkowywanie	1.0	v i2 p oc5 tS k o v i2 v a n i e
+leciały	1.0	l e tsj a w i2
+duszy	1.0	d u S i2
+wiejącego	1.0	v i e j oc5 c e g o
+organizm	1.0	o r g a n i z m
+drgające	1.0	d r g a j oc5 c e
+śmieci	1.0	sj m i e tsj i
+los	1.0	l o s
+arcydzieł	1.0	a r c i2 dzj e w
+zwłok	1.0	z v w o k
+narasta	1.0	n a r a s t a
+rozpoznaje	1.0	r o z p o z n a j e
+stosunki	1.0	s t o s u n k i
+powiedzenia	1.0	p o v i e dz e n i a
+obecność	1.0	o b e c n o sj tsj
+dawidowi	1.0	d a v i d o v i
+50-metrowy	1.0	p i t e m e t r o v i2
+uczą	1.0	u tS oc5
+budzą	1.0	b u dz oc5
+wpływają	1.0	v p w i2 v a j oc5
+przeklęta	1.0	p S e k l eo5 t a
+okazuje	1.0	o k a z u j e
+ćwiczenie	1.0	tsj v i tS e n i e
+nimfomania	1.0	n i m f o m a n i a
+śmiertelnika	1.0	sj m i e r t e l n i k a
+bezradność	1.0	b e z r a d n o sj tsj
+potrzebne	1.0	p o t S e b n e
+stało	1.0	s t a w o
+tragedii	1.0	t r a g e d j i
+kobietą	1.0	k o b i e t oc5
+użyciem	1.0	u Z i2 tsj e m
+wiku	1.0	v i k u
+dodatku	1.0	d o d a t k u
+l	1.0	l
+boga	1.0	b o g a
+wiedzieć	1.0	v i e dzj e tsj
+grekom	1.0	g r e k o m
+menda	1.0	m e n d a
+wynika	1.0	v i2 n i k a
+milczeć	1.0	m i l tS e tsj
+góry	1.0	g u r i2
+skierował	1.0	s k i e r o v a w
+dwadzieścia	1.0	d v a dzj e sj tsj a
+podatny	1.0	p o d a t n i2
+zmiany	1.0	z m i a n i2
+ostatnich	1.0	o s t a t n i h
+napotkałeś	1.0	n a p o t k a w e sj
+poświęca	1.0	p o sj v i eo5 c a
+mięsa	1.0	m i eo5 s a
+niecnym	1.0	n i e c n i2 m
+rozstania	1.0	r o z s t a n i a
+starej	1.0	s t a r e j
+120	1.0	s t o d t
+odręcznie	1.0	o d r eo5 tS n i e
+odkryć	1.0	o t k r i2 tsj
+matko	1.0	m a t k o
+obmyty	1.0	o b m i2 t i2
+pragniemy	1.0	p r a g n i e m i2
+rozwiązanie	1.0	r o z v i oc5 z a n i e
+układem	1.0	u k w a d e m
+transclucide	1.0	t r a n s c l u tsj i d e
+firmach	1.0	f i r m a h
+wierzący	1.0	v i e Z oc5 c i2
+tamtych	1.0	t a m t i2 h
+małżeństwo	1.0	m a w Z e n~ s t f o
+badaczy	1.0	b a d a tS i2
+poradnik	1.0	p o r a d n i k
+8	1.0	e
+kraju	1.0	k r a j u
+programów	1.0	p r o g r a m u v
+groźne	1.0	g r o zj n e
+miedzi	1.0	m i e dzj i
+zwyczaju	1.0	z v i2 tS a j u
+kałem	1.0	k a w e m
+ludzkich	1.0	l u dz k i h
+doceniony	1.0	d o c e n i o n i2
+postanowił	1.0	p o s t a n o v i w
+skórach	1.0	s k u r a h
+pogoni	1.0	p o g o n i
+arystoteles	1.0	a r i2 s t o t e l e s
+książę	1.0	k tsj oc5 Z e
+poznawanie	1.0	p o z n a v a n i e
+bolesława	1.0	b o l e s w a v a
+jasna	1.0	j a s n a
+podłogi	1.0	p o d w o g i
+dziadkiem	1.0	dzj a t k i e m
+popędem	1.0	p o p eo5 d e m
+narzędzia	1.0	n a Z eo5 dzj a
+dłoni	1.0	d w o n i
+lustro	1.0	l u s t r o
+wodę	1.0	v o d e
+naszej	1.0	n a S e j
+oryginalny	1.0	o r i2 g i n a l n i2
+zawodowca-	1.0	z a v o d o v c a e
+policzków	1.0	p o l j tS k u v
+listy	1.0	l j s t i2
+bramy	1.0	b r a m i2
+różnią	1.0	r u Z n i oc5
+lata	1.0	l a t a
+chaotyczna	1.0	h a o t i2 tS n a
+szpecące	1.0	S p e c oc5 c e
+oporni	1.0	o p o r n i
+spotyka	1.0	s p o t i2 k a
+szczęściu	1.0	S tS eo5 sj tsj u
+mężczyzn	1.0	m eo5 Z tS i2 z n
+pozostałe	1.0	p o z o s t a w e
+drużyny	1.0	d r u Z i2 n i2
+muzycznie	1.0	m u z i2 tS n i e
+zbuntowaną	1.0	z b u n t o v a n oc5
+zgromadzone	1.0	z g r o m a dz o n e
+oczy	1.0	o tS i2
+dali	1.0	d a l j
+długi	1.0	d w u g i
+wypuściła	1.0	v i2 p u sj tsj i w a
+de	1.0	d e
+cierpię	1.0	tsj e r p i e
+deskę	1.0	d e s k e
+byle	1.0	b i2 l e
+przetrwa	1.0	p S e t r v a
+pustkowia	1.0	p u s t k o v i a
+zmartwychwstania	1.0	z m a r t f i2 h v s t a n i a
+nawet	1.0	n a v e t
+prezydenta	1.0	p r e z i2 d e n t a
+stronach	1.0	s t r o n a h
+donosy-	1.0	d o n o s i2
+spodziewajmy	1.0	s p o dzj e v a j m i2
+doskonale	1.0	d o s k o n a l e
+trud	1.0	t r u d
+rozległej	1.0	r o z l e g w e j
+znamię	1.0	z n a m i e
+dość	1.0	d o sj tsj
+wyodrębnił	1.0	v i2 o d r eo5 b n i w
+najmniej	1.0	n a j m n i e j
+trupiego	1.0	t r u p i e g o
+żalów	1.0	Z a l u v
+punkty	1.0	p u n k t i2
+porcie	1.0	p o r tsj e
+epoki	1.0	e p o k i
+pryncypialność	1.0	p r i2 n c i2 p i a l n o sj tsj
+alkoholu-	1.0	a l k o h o l u
+pomiędzy	1.0	p o m i eo5 dz i2
+wybranego	1.0	v i2 b r a n e g o
+zbawić	1.0	z b a v i tsj
+sprowadzona	1.0	s p r o v a dz o n a
+niebyt	1.0	n i e b i2 t
+ręku	1.0	r eo5 k u
+trzewikami	1.0	t S e v i k a m i
+rybackie	1.0	r i2 b a c k i e
+wszystkę	1.0	v S i2 s t k e
+albert	1.0	a l b e r t
+zachowuje	1.0	z a h o v u j e
+walecznie	1.0	v a l e tS n i e
+przyznam	1.0	p S i2 z n a m
+dzisiejszej	1.0	dzj i sj e j S e j
+kijem	1.0	k i j e m
+ułomna	1.0	u w o m n a
+przechwalają	1.0	p S e h v a l a j oc5
+funkcje	1.0	f u n k c j e
+świadomy	1.0	sj v i a d o m i2
+san	1.0	s a n
+książęcej	1.0	k tsj oc5 Z eo5 c e j
+wizjoner	1.0	v i z j o n e r
+samym	1.0	s a m i2 m
+ekspansywne	1.0	e k s p a n s i2 v n e
+wypełnieniem	1.0	v i2 p e w n i e n i e m
+cennych	1.0	c e n n i2 h
+oddziaływania	1.0	o d dzj a w i2 v a n i a
+węgły	1.0	v eo5 g w i2
+zmywanie	1.0	z m i2 v a n i e
+zyskasz	1.0	z i2 s k a S
+sprawiać	1.0	s p r a v i a tsj
+trudności	1.0	t r u d n o sj tsj i
+ideału	1.0	i d e a w u
+spoglądam	1.0	s p o g l oc5 d a m
+ulu	1.0	u l u
+blizny	1.0	b l j z n i2
+komputerze	1.0	k o m p u t e Z e
+rozpusty	1.0	r o z p u s t i2
+przysiadł	1.0	p S i2 tsj a d w
+nocach	1.0	n o c a h
+życie	1.0	Z i2 tsj e
+chłopi-	1.0	h w o p e e
+otwartym	1.0	o t f a r t i2 m
+nieograniczone	1.0	n i e o g r a n i tS o n e
+pozycji	1.0	p o z i2 c j i
+tonacji	1.0	t o n a c j i
+burzycielce	1.0	b u Z i2 tsj e l c e
+gest	1.0	g e s t
+dawnych	1.0	d a v n i2 h
+naukowych	1.0	n a u k o v i2 h
+okładki	1.0	o k w a t k i
+sukcesem	1.0	s u k c e s e m
+samych	1.0	s a m i2 h
+określa	1.0	o k r e sj l a
+polskiej	1.0	p o l s k i e j
+wprawiając	1.0	v p r a v i a j oc5 c
+tłumaczenie	1.0	t w u m a tS e n i e
+y	1.0	i2
+łączności	1.0	w oc5 tS n o sj tsj i
+ulegniesz	1.0	u l e g n i e S
+miłe	1.0	m i w e
+znieść	1.0	z n i e sj tsj
+uśmiechnął	1.0	u sj m i e h n oc5 w
+ciemnościach	1.0	tsj e m n o sj tsj a h
+spojrzeć	1.0	s p o j Z e tsj
+bazyliszka	1.0	b a z i2 l j S k a
+dpi	1.0	d p i
+uprawiają	1.0	u p r a v i a j oc5
+księgi	1.0	k sj eo5 g i
+in	1.0	i n
+którym	1.0	k t u r i2 m
+wrogów	1.0	v r o g u v
+sam	1.0	s a m
+dziesiątego	1.0	dzj e tsj oc5 t e g o
+niemce	1.0	n i e m c e
+udzielają	1.0	u dzj e l a j oc5
+głowę	1.0	g w o v e
+sy	1.0	s i2
+pozbawić	1.0	p o z b a v i tsj
+woda	1.0	v o d a
+dzisiejszych	1.0	dzj i sj e j S i2 h
+zaopatrując	1.0	z a o p a t r u j oc5 c
+przyjemności-	1.0	p S i2 j e m n o sj tsj e
+kormorany	1.0	k o r m o r a n i2
+kontakty	1.0	k o n t a k t i2
+ono	1.0	o n o
+cara	1.0	c a r a
+pooperacyjnej	1.0	p o o p e r a c i2 j n e j
+przekonywał	1.0	p S e k o n i2 v a w
+zwalczanego	1.0	z v a l tS a n e g o
+uniwersalnym	1.0	u n i v e r s a l n i2 m
+brak	1.0	b r a k
+starają	1.0	s t a r a j oc5
+nieboską	1.0	n i e b o s k oc5
+cóż	1.0	c u S
+chromosomalnie	1.0	h r o m o s o m a l n i e
+prawego	1.0	p r a v e g o
+józefa	1.0	j u z e f a
+pojednanego	1.0	p o j e d n a n e g o
+swoimi	1.0	s v o i m i
+okna	1.0	o k n a
+zajmuje	1.0	z a j m u j e
+ze	1.0	z e
+wówczas	1.0	v u v tS a s
+podbija	1.0	p o d b i j a
+wypływały"-	1.0	v i2 p w i2 v a w i2
+pożyczyłem	1.0	p o Z i2 tS i2 w e m
+animacji	1.0	a n i m a c j i
+wypadłaś	1.0	v i2 p a d w a sj
+kilkoma	1.0	k i l k o m a
+szybowców	1.0	S i2 b o v c u v
+duchową	1.0	d u h o v oc5
+nieprzyjaciół	1.0	n i e p S i2 j a tsj u w
+została	1.0	z o s t a w a
+psalm	1.0	p s a l m
+wyrwał	1.0	v i2 r v a w
+źródłem	1.0	zj r u d w e m
+mieczach	1.0	m i e tS a h
+niebiańska	1.0	n i e b i a n~ s k a
+zamykał	1.0	z a m i2 k a w
+można	1.0	m o Z n a
+utwór	1.0	u t f u r
+wspólnym	1.0	v s p u l n i2 m
+aniołowie	1.0	a n i o w o v i e
+absurdalna	1.0	a b s u r d a l n a
+spacerów	1.0	s p a c e r u v
+katarzyna	1.0	k a t a Z i2 n a
+franco	1.0	f r a n c o
+poznanego	1.0	p o z n a n e g o
+świata	1.0	sj v i a t a
+lancer	1.0	l a n c e r
+stań	1.0	s t a n~
+modlitwą	1.0	m o d l j t f oc5
+pierś	1.0	p i e r sj
+reprezentowała	1.0	r e p r e z e n t o v a w a
+apostolskiego	1.0	a p o s t o l s k i e g o
+rybka:-	1.0	r i2 b k a e
+dostojewskiego	1.0	d o s t o j e v s k i e g o
+wcześniej	1.0	v tS e sj n i e j
+szczera	1.0	S tS e r a
+seksualnie	1.0	s e k s u a l n i e
+upiłem	1.0	u p i w e m
+bogarodzicy	1.0	b o g a r o dzj i c i2
+k	1.0	k
+ponoć	1.0	p o n o tsj
+niż	1.0	n i S
+przyrządzić	1.0	p S i2 Z oc5 dzj i tsj
+niepotrzebnych	1.0	n i e p o t S e b n i2 h
+rodu	1.0	r o d u
+słynne	1.0	s w i2 n n e
+wydarzeniem	1.0	v i2 d a Z e n i e m
+źrenicę	1.0	zj r e n i c e
+arcydziełami	1.0	a r c i2 dzj e w a m i
+troszkę	1.0	t r o S k e
+bawi	1.0	b a v i
+zuchwała	1.0	z u h v a w a
+ty	1.0	t i2
+ministerstwa	1.0	m i n i s t e r s t f a
+wcześniejszego	1.0	v tS e sj n i e j S e g o
+dałeś	1.0	d a w e sj
+dniach	1.0	d n i a h
+jałowca	1.0	j a w o v c a
+nauczysz	1.0	n a u tS i2 S
+grzmoty	1.0	g Z m o t i2
+końcowym	1.0	k o n~ c o v i2 m
+lauder	1.0	l a u d e r
+16	1.0	s t tsj e
+wyłania	1.0	v i2 w a n i a
+pora	1.0	p o r a
+bezstronni	1.0	b e z s t r o n n i
+sklepieniem	1.0	s k l e p i e n i e m
+straszliwszy	1.0	s t r a S l j v S i2
+laty	1.0	l a t i2
+nikt	1.0	n i k t
+wszechmogącym	1.0	v S e h m o g oc5 c i2 m
+woli	1.0	v o l j
+pewnie	1.0	p e v n i e
+zainteresował	1.0	z a i n t e r e s o v a w
+zmarł	1.0	z m a r w
+przyjął	1.0	p S i2 j oc5 w
+odbierana	1.0	o d b i e r a n a
+głośników-satelitów	1.0	g w o sj n i k u v s a t e l j t u v
+moralności	1.0	m o r a l n o sj tsj i
+prorodzinne	1.0	p r o r o dzj i n n e
+niemieckie	1.0	n i e m i e c k i e
+drabinkę	1.0	d r a b i n k e
+staje	1.0	s t a j e
+współczesnym	1.0	v s p u w tS e s n i2 m
+doprowadzających	1.0	d o p r o v a dz a j oc5 c i2 h
+ażeby	1.0	a Z e b i2
+horrory	1.0	h o r r o r i2
+coelho	1.0	c o e l h o
+zachowanie	1.0	z a h o v a n i e
+mógł	1.0	m u g w
+jakichś	1.0	j a k i h sj
+wyleczy	1.0	v i2 l e tS i2
+masywnych	1.0	m a s i2 v n i2 h
+dunin	1.0	d u n i n
+przed	1.0	p S e d
+informację	1.0	i n f o r m a c j e
+rozbudował	1.0	r o z b u d o v a w
+paskudna	1.0	p a s k u d n a
+przestajemy	1.0	p S e s t a j e m i2
+najlepszym	1.0	n a j l e p S i2 m
+próbowałeś	1.0	p r u b o v a w e sj
+on-the-loose	1.0	o n t h e l o o s e
+nury	1.0	n u r i2
+tradycyjnie-	1.0	t r a d i2 c i2 j n i e e
+pracowity	1.0	p r a c o v i t i2
+twórca	1.0	t f u r c a
+villa	1.0	f i l l a
+powojennej	1.0	p o v o j e n n e j
+mignęło	1.0	m i g n eo5 w o
+cząstki	1.0	tS oc5 s t k i
+mogła	1.0	m o g w a
+zaczynają	1.0	z a tS i2 n a j oc5
+odmienne	1.0	o d m i e n n e
+krwawej	1.0	k r v a v e j
+warszawski	1.0	v a r S a v s k i
+prawa	1.0	p r a v a
+naszego	1.0	n a S e g o
+światowej	1.0	sj v i a t o v e j
+sobą-	1.0	s o b oc5 e
+światem	1.0	sj v i a t e m
+stratofortress	1.0	s t r a t o f o r t r e S
+wyraźniej	1.0	v i2 r a zj n i e j
+milion	1.0	m i l j o n
+dodania	1.0	d o d a n i a
+artystą	1.0	a r t i2 s t oc5
+shimmering	1.0	s h j m m e r j n g
+my	1.0	m i2
+tworem	1.0	t f o r e m
+udowodnił	1.0	u d o v o d n i w
+przemkną	1.0	p S e m k n oc5
+trudne	1.0	t r u d n e
+modlimy	1.0	m o d l j m i2
+wytrzeźwieję	1.0	v i2 t S e zj v i e j e
+wychodzi	1.0	v i2 h o dzj i
+nawyków	1.0	n a v i2 k u v
+wiekach	1.0	v i e k a h
+bruno	1.0	b r u n o
+zawiedzionej	1.0	z a v i e dzj o n e j
+prawicy	1.0	p r a v i c i2
+produkujących	1.0	p r o d u k u j oc5 c i2 h
+napisać	1.0	n a p i s a tsj
+łupy	1.0	w u p i2
+niemożliwą	1.0	n i e m o Z l j v oc5
+potrzeby	1.0	p o t S e b i2
+głównej	1.0	g w u v n e j
+wersje	1.0	v e r s j e
+łupem	1.0	w u p e m
+sebastian	1.0	s e b a s t j a n
+głęboko	1.0	g w eo5 b o k o
+wołanie	1.0	v o w a n i e
+świętości	1.0	sj v i eo5 t o sj tsj i
+wojciecha	1.0	v o j tsj e h a
+szkołą	1.0	S k o w oc5
+ksiąg	1.0	k tsj oc5 g
+podróży	1.0	p o d r u Z i2
+badacz	1.0	b a d a tS
+powierzchowność	1.0	p o v i e Z h o v n o sj tsj
+torturować	1.0	t o r t u r o v a tsj
+uobecnia	1.0	u o b e c n i a
+zmarłych	1.0	z m a r w i2 h
+żyją	1.0	Z i2 j oc5
+uderzał	1.0	u d e Z a w
+niewyobrażalne	1.0	n i e v i2 o b r a Z a l n e
+podejrzewać	1.0	p o d e j Z e v a tsj
+dynamikę	1.0	d i2 n a m i k e
+zabójczą	1.0	z a b u j tS oc5
+ponad	1.0	p o n a d
+jakoś	1.0	j a k o sj
+przepadłego	1.0	p S e p a d w e g o
+opłaca	1.0	o p w a c a
+leszczyny	1.0	l e S tS i2 n i2
+cel	1.0	c e l
+wobec	1.0	v o b e c
+schachingera	1.0	s h a h j n g e r a
+układałem	1.0	u k w a d a w e m
+dawna	1.0	d a v n a
+wstydzi	1.0	v s t i2 dzj i
+stalina	1.0	s t a l j n a
+machiavelli	1.0	m a h j a f e l l j
+zniszczył	1.0	z n i S tS i2 w
+koniec-	1.0	k o n i e c e
+odsuwają	1.0	o d s u v a j oc5
+stoi	1.0	s t o i
+zbudujemy	1.0	z b u d u j e m i2
+bólem	1.0	b u l e m
+chwyć	1.0	h v i2 tsj
+obszar	1.0	o b S a r
+stronie	1.0	s t r o n i e
+nich	1.0	n i h
+zabezpieczyć	1.0	z a b e z p i e tS i2 tsj
+ogłoszeń	1.0	o g w o S e n~
+zalaniem	1.0	z a l a n i e m
+królestwo	1.0	k r u l e s t f o
+młodocianej	1.0	m w o d o tsj a n e j
+błąd	1.0	b w oc5 d
+powiedział	1.0	p o v i e dzj a w
+kontrolę	1.0	k o n t r o l e
+tomasz	1.0	t o m a S
+bogu	1.0	b o g u
+wskazówka	1.0	v s k a z u v k a
+ujęcia	1.0	u j eo5 tsj a
+fosy	1.0	f o s i2
+mocą	1.0	m o c oc5
+wierzą	1.0	v i e Z oc5
+predefiniowanych	1.0	p r e d e f i n i o v a n i2 h
+obnażony	1.0	o b n a Z o n i2
+jaką	1.0	j a k oc5
+kontroli	1.0	k o n t r o l j
+kubuś	1.0	k u b u sj
+norek	1.0	n o r e k
+otwarta	1.0	o t f a r t a
+negatywne	1.0	n e g a t i2 v n e
+m	1.0	m
+szlachtę	1.0	S l a h t e
+włochatą	1.0	v w o h a t oc5
+do	1.0	d o
+znajdziesz	1.0	z n a j dzj e S
+tys	1.0	t i2 s
+złotego	1.0	z w o t e g o
+programie	1.0	p r o g r a m i e
+wpływa	1.0	v p w i2 v a
+mogę	1.0	m o g e
+pyłku	1.0	p i2 w k u
+rogu	1.0	r o g u
+przetoczyć	1.0	p S e t o tS i2 tsj
+gospodynią	1.0	g o s p o d i2 n i oc5
+powstaje	1.0	p o v s t a j e
+turyngii	1.0	t u r i2 n g i i
+przepowiadać	1.0	p S e p o v i a d a tsj
+chelsea	1.0	h e l s e a
+błędnik	1.0	b w eo5 d n i k
+prezydentem	1.0	p r e z i2 d e n t e m
+nieobecność	1.0	n i e o b e c n o sj tsj
+pielęgnacji	1.0	p i e l eo5 g n a c j i
+wersja	1.0	v e r s j a
+naprawdę	1.0	n a p r a v d e
+przyjaciół	1.0	p S i2 j a tsj u w
+powinniśmy	1.0	p o v i n n i sj m i2
+wykształcenie	1.0	v i2 k S t a w c e n i e
+falować	1.0	f a l o v a tsj
+żywi	1.0	Z i2 v i
+goethe	1.0	g o e t h e
+ciemnoczerwonym	1.0	tsj e m n o tS e r v o n i2 m
+sytuacje	1.0	s i2 t u a c j e
+martwe	1.0	m a r t f e
+osobą	1.0	o s o b oc5
+jest	1.0	j e s t
+miała	1.0	m i a w a
+przyszłości	1.0	p S i2 S w o sj tsj i
+zechcę	1.0	z e h c e
+swoją	1.0	s v o j oc5
+piekło	1.0	p i e k w o
+pokorny	1.0	p o k o r n i2
+typowo	1.0	t i2 p o v o
+rainer	1.0	r a i n e r
+silniejszy	1.0	sj i l n i e j S i2
+przykrości	1.0	p S i2 k r o sj tsj i
+tekst	1.0	t e k s t
+cichy	1.0	tsj i h i2
+waszego	1.0	v a S e g o
+zdjęcie	1.0	z d j eo5 tsj e
+władzy	1.0	v w a dz i2
+okazali	1.0	o k a z a l j
+przekonaj	1.0	p S e k o n a j
+biorę	1.0	b i o r e
+diamentów	1.0	d j a m e n t u v
+sytuacjach	1.0	s i2 t u a c j a h
+hormony	1.0	h o r m o n i2
+swój	1.0	s v u j
+moment	1.0	m o m e n t
+nicość	1.0	n i c o sj tsj
+operacja	1.0	o p e r a c j a
+is	1.0	i s
+cierpi	1.0	tsj e r p i
+namagnesowana	1.0	n a m a g n e s o v a n a
+martwej	1.0	m a r t f e j
+swego	1.0	s v e g o
+artysty	1.0	a r t i2 s t i2
+zanurzonych	1.0	z a n u Z o n i2 h
+urody	1.0	u r o d i2
+usytuowany	1.0	u s i2 t u o v a n i2
+tożsamości	1.0	t o Z s a m o sj tsj i
+cosmodziewczyny	1.0	c o s m o dzj e v tS i2 n i2
+zamachowi	1.0	z a m a h o v i
+rilke	1.0	r j l k e
+panelu	1.0	p a n e l u
+niesłychanie	1.0	n i e s w i2 h a n i e
+zbrodniczą	1.0	z b r o d n i tS oc5
+stuprocentowa	1.0	s t u p r o c e n t o v a
+zakręcił	1.0	z a k r eo5 tsj i w
+użyteczność	1.0	u Z i2 t e tS n o sj tsj
+aktorstwo	1.0	a k t o r s t f o
+dwieście	1.0	d v i e sj tsj e
+raczej	1.0	r a tS e j
+klamry	1.0	k l a m r i2
+captif	1.0	c a p t j f
+ogarnąć	1.0	o g a r n oc5 tsj
+ogranicza	1.0	o g r a n i tS a
+brzmiały	1.0	b Z m i a w i2
+względem	1.0	v z g l eo5 d e m
+ochroniarze	1.0	o h r o n i a Z e
+panie	1.0	p a n i e
+zresztą	1.0	z r e S t oc5
+milne'a	1.0	m i l n e a
+teatr	1.0	t e a t r
+zobaczę	1.0	z o b a tS e
+znaleźć	1.0	z n a l e zj tsj
+organy	1.0	o r g a n i2
+enhanced	1.0	e n h a n c e d
+genialną	1.0	g e n i a l n oc5
+wzroku	1.0	v z r o k u
+szalała	1.0	S a l a w a
+emocji	1.0	e m o c j i
+wyłaniają	1.0	v i2 w a n i a j oc5
+stadionie	1.0	s t a d j o n i e
+innym	1.0	i n n i2 m
+naukom	1.0	n a u k o m
+kogo	1.0	k o g o
+kilkadziesiąt	1.0	k i l k a dzj e tsj oc5 t
+zaradzić	1.0	z a r a dzj i tsj
+pomieszczeń	1.0	p o m i e S tS e n~
+przejrzał	1.0	p S e j Z a w
+spokojnie	1.0	s p o k o j n i e
+sygnałów	1.0	s i2 g n a w u v
+kochając	1.0	k o h a j oc5 c
+chętnie	1.0	h eo5 t n i e
+ucisku	1.0	u tsj i s k u
+rozpływa	1.0	r o z p w i2 v a
+skruszony	1.0	s k r u S o n i2
+kąpielowych	1.0	k oc5 p i e l o v i2 h
+moje	1.0	m o j e
+komedia	1.0	k o m e d j a
+wiatr	1.0	v i a t r
+samotna	1.0	s a m o t n a
+obawom	1.0	o b a v o m
+pożerał	1.0	p o Z e r a w
+krescencjusz	1.0	k r e s c e n c j u S
+zdania	1.0	z d a n i a
+tyrolu	1.0	t i2 r o l u
+konkretnym	1.0	k o n k r e t n i2 m
+stare	1.0	s t a r e
+pełnego	1.0	p e w n e g o
+grodom	1.0	g r o d o m
+sprytna	1.0	s p r i2 t n a
+iwan	1.0	i v a n
+pochłaniających	1.0	p o h w a n i a j oc5 c i2 h
+dorobku	1.0	d o r o b k u
+komornicy	1.0	k o m o r n i c i2
+latach	1.0	l a t a h
+przychodniom	1.0	p S i2 h o d n i o m
+bryłami	1.0	b r i2 w a m i
+drożynami	1.0	d r o Z i2 n a m i
+trąbka-	1.0	t r oc5 b k a e
+prostoty	1.0	p r o s t o t i2
+popołudnia	1.0	p o p o w u d n i a
+słowiańskiego	1.0	s w o v i a n~ s k i e g o
+skinął	1.0	s k i n oc5 w
+krwawą	1.0	k r v a v oc5
+istnieć	1.0	i s t n i e tsj
+istnieje	1.0	i s t n i e j e
+romansu	1.0	r o m a n s u
+hitlera-	1.0	h j t l e r a e
+dolarów	1.0	d o l a r u v
+płakał-	1.0	p w a k a w e
+pachnącej	1.0	p a h n oc5 c e j
+niewyrażalnego	1.0	n i e v i2 r a Z a l n e g o
+arabski	1.0	a r a b s k i
+morską	1.0	m o r s k oc5
+sznureczkami	1.0	S n u r e tS k a m i
+koziołków	1.0	k o zj o w k u v
+ludzkość	1.0	l u dz k o sj tsj
+rozpoczął	1.0	r o z p o tS oc5 w
+von	1.0	f o n
+odnośnikiem	1.0	o d n o sj n i k i e m
+przetrwać	1.0	p S e t r v a tsj
+odwołaniami	1.0	o d v o w a n i a m i
+ogromne	1.0	o g r o m n e
+rozmawiałeś	1.0	r o z m a v i a w e sj
+zwalany	1.0	z v a l a n i2
+molestowani	1.0	m o l e s t o v a n i
+politycznych	1.0	p o l j t i2 tS n i2 h
+faktem	1.0	f a k t e m
+przeżywać	1.0	p S e Z i2 v a tsj
+potrawach	1.0	p o t r a v a h
+popijają	1.0	p o p i j a j oc5
+tour	1.0	t o u r
+dubbingiem	1.0	d u b b i n g i e m
+pomyślałam	1.0	p o m i2 sj l a w a m
+krzyżakom	1.0	k S i2 Z a k o m
+opcja	1.0	o p c j a
+umysłu	1.0	u m i2 s w u
+choroby	1.0	h o r o b i2
+moim	1.0	m o i m
+ona	1.0	o n a
+wszystkimi	1.0	v S i2 s t k i m i
+głogowa	1.0	g w o g o v a
+przyrostowe	1.0	p S i2 r o s t o v e
+postradał	1.0	p o s t r a d a w
+bezpośrednio	1.0	b e z p o sj r e d n i o
+czujesz	1.0	tS u j e S
+postępuje	1.0	p o s t eo5 p u j e
+prawdzie	1.0	p r a v dzj e
+grzegorz	1.0	g Z e g o S
+nazywa	1.0	n a z i2 v a
+przekazywał	1.0	p S e k a z i2 v a w
+entuzjastów	1.0	e n t u z j a s t u v
+którą	1.0	k t u r oc5
+nazwał	1.0	n a z v a w
+żona	1.0	Z o n a
+masowo	1.0	m a s o v o
+scena	1.0	s c e n a
+musi	1.0	m u sj i
+najśw	1.0	n a j sj v
+kończyć	1.0	k o n~ tS i2 tsj
+przerwę	1.0	p S e r v e
+strzemiona	1.0	s t S e m i o n a
+liczy	1.0	l j tS i2
+javascript	1.0	j a f a s c r j p t
+ciekawszy	1.0	tsj e k a v S i2
+resztę	1.0	r e S t e
+obliczem	1.0	o b l j tS e m
+części	1.0	tS eo5 sj tsj i
+uznanie	1.0	u z n a n i e
+ścianach	1.0	sj tsj a n a h
+magda	1.0	m a g d a
+pogłowia	1.0	p o g w o v i a
+bogato	1.0	b o g a t o
+przekonają	1.0	p S e k o n a j oc5
+niechlubnie	1.0	n i e h l u b n i e
+musiały	1.0	m u tsj a w i2
+opiekę	1.0	o p i e k e
+mitu	1.0	m i t u
+znalezienia	1.0	z n a l e zj e n i a
+zapewniają	1.0	z a p e v n i a j oc5
+telekomunikacji	1.0	t e l e k o m u n i k a c j i
+przeszkadzał	1.0	p S e S k a dz a w
+starego	1.0	s t a r e g o
+niżej	1.0	n i Z e j
+wpuszczali	1.0	v p u S tS a l j
+studium	1.0	s t u d j u m
+zbliżamy	1.0	z b l j Z a m i2
+osama	1.0	o s a m a
+co	1.0	c o
+diamonds	1.0	d j a m o n d s
+standardowo	1.0	s t a n d a r d o v o
+szeleśći	1.0	S e l e sj tsj i
+ojczyźnie	1.0	o j tS i2 zj n i e
+owym	1.0	o v i2 m
+jakby	1.0	j a k b i2
+jakość	1.0	j a k o sj tsj
+papieski	1.0	p a p i e s k i
+zabłąkanych	1.0	z a b w oc5 k a n i2 h
+śmiech	1.0	sj m i e h
+biurowym	1.0	b i u r o v i2 m
+swe	1.0	s v e
+granice	1.0	g r a n i c e
+łkającego	1.0	w k a j oc5 c e g o
+opuszczając	1.0	o p u S tS a j oc5 c
+obojętnością	1.0	o b o j eo5 t n o sj tsj oc5
+godności	1.0	g o d n o sj tsj i
+twego	1.0	t f e g o
+miesiącami	1.0	m i e tsj oc5 c a m i
+pisali	1.0	p i s a l j
+pojawiła	1.0	p o j a v i w a
+moi	1.0	m o i
+gwardzistami	1.0	g v a r dzj i s t a m i
+oczami	1.0	o tS a m i
+dorosłego	1.0	d o r o s w e g o
+nazwij	1.0	n a z v i j
+poznał	1.0	p o z n a w
+skaczących	1.0	s k a tS oc5 c i2 h
+znacie	1.0	z n a tsj e
+pomorski	1.0	p o m o r s k i
+honorowej	1.0	h o n o r o v e j
+zagrali	1.0	z a g r a l j
+fucking	1.0	f u c k i n g
+ostateczna	1.0	o s t a t e tS n a
+myślom	1.0	m i2 sj l o m
+religijnej	1.0	r e l j g i j n e j
+sława	1.0	s w a v a
+repertuaru	1.0	r e p e r t u a r u
+takich	1.0	t a k i h
+nakapał	1.0	n a k a p a w
+wszelkich	1.0	v S e l k i h
+strachu	1.0	s t r a h u
+gwiazdy	1.0	g v i a z d i2
+któryś	1.0	k t u r i2 sj
+fantazją	1.0	f a n t a z j oc5
+wyłoni	1.0	v i2 w o n i
+dostarczał	1.0	d o s t a r tS a w
+wytwornego	1.0	v i2 t f o r n e g o
+4	1.0	tS t
+23	1.0	d S i2
+płacisz	1.0	p w a tsj i S
+makijażystka	1.0	m a k i j a Z i2 s t k a
+19	1.0	s t eo5 tsj
+ciasta	1.0	tsj a s t a
+zagradzały	1.0	z a g r a dz a w i2
+wyjeżdża	1.0	v i2 j e Z dZ a
+środkami	1.0	sj r o t k a m i
+straconego	1.0	s t r a c o n e g o
+obrotów	1.0	o b r o t u v
+wpływu	1.0	v p w i2 v u
+naukowcy	1.0	n a u k o v c i2
+używają	1.0	u Z i2 v a j oc5
+pierwsze	1.0	p i e r v S e
+żadnym	1.0	Z a d n i2 m
+znowu	1.0	z n o v u
+akcji	1.0	a k c j i
+zyskują	1.0	z i2 s k u j oc5
+wynalazek	1.0	v i2 n a l a z e k
+jerozolimie-	1.0	j e r o z o l j m i e e
+ociężale	1.0	o tsj eo5 Z a l e
+powoływać	1.0	p o v o w i2 v a tsj
+zegarek	1.0	z e g a r e k
+para	1.0	p a r a
+porównuję	1.0	p o r u v n u j e
+nieustanną	1.0	n i e u s t a n n oc5
+zaczęło	1.0	z a tS eo5 w o
+duchowe	1.0	d u h o v e
+fausta	1.0	f a u s t a
+święte	1.0	sj v i eo5 t e
+myślnika	1.0	m i2 sj l n i k a
+pozornie	1.0	p o z o r n i e
+brzydka	1.0	b Z i2 t k a
+trzymaj	1.0	t S i2 m a j
+obietnice	1.0	o b i e t n i c e
+kupię	1.0	k u p i e
+tenisiści	1.0	t e n i s i sj tsj i
+niewykluczone-	1.0	n i e v i2 k l u tS o n e e
+chciało	1.0	h tsj a w o
+słuch	1.0	s w u h
+telefon	1.0	t e l e f o n
+wodorostów	1.0	v o d o r o s t u v
+wojskami	1.0	v o j s k a m i
+skłonności	1.0	s k w o n n o sj tsj i
+teatru	1.0	t e a t r u
+skomplikowanej	1.0	s k o m p l j k o v a n e j
+ukończony	1.0	u k o n~ tS o n i2
+utożsamiają	1.0	u t o Z s a m i a j oc5
+wygasła-	1.0	v i2 g a s w a e
+afryce	1.0	a f r i2 c e
+odwiedził	1.0	o d v i e dzj i w
+garść	1.0	g a r sj tsj
+odchodzić	1.0	o d h o dzj i tsj
+pokazuje	1.0	p o k a z u j e
+pustce	1.0	p u s t c e
+synów	1.0	s i2 n u v
+zastąpił	1.0	z a s t oc5 p i w
+gwarantuje	1.0	g v a r a n t u j e
+związane	1.0	z v i oc5 z a n e
+wstrząsnęło	1.0	v s t S oc5 s n eo5 w o
+niszczą	1.0	n i S tS oc5
+obiekty	1.0	o b i e k t i2
+piaski	1.0	p i a s k i
+pigułkę	1.0	p i g u w k e
+szczegół	1.0	S tS e g u w
+powieść	1.0	p o v i e sj tsj
+potęgę	1.0	p o t eo5 g e
+ludzi	1.0	l u dzj i
+szczęśliwej	1.0	S tS eo5 sj l j v e j
+perspektywom	1.0	p e r s p e k t i2 v o m
+sypiasz	1.0	s i2 p i a S
+prawe	1.0	p r a v e
+królestwa	1.0	k r u l e s t f a
+chytre	1.0	h i2 t r e
+pośród	1.0	p o sj r u d
+idą	1.0	i d oc5
+prusy	1.0	p r u s i2
+wyznawca	1.0	v i2 z n a v c a
+zapłacze	1.0	z a p w a tS e
+tydzień-	1.0	t i2 dzj e n~ e
+ekstrawagancji	1.0	e k s t r a v a g a n c j i
+przyjrzyj	1.0	p S i2 j Z i2 j
+jakichkolwiek	1.0	j a k i h k o l v i e k
+narzędzie	1.0	n a Z eo5 dzj e
+ciasto	1.0	tsj a s t o
+komputer	1.0	k o m p u t e r
+kochają	1.0	k o h a j oc5
+olimpiady	1.0	o l j m p i a d i2
+pozostają	1.0	p o z o s t a j oc5
+poznanie	1.0	p o z n a n i e
+motoryzacja	1.0	m o t o r i2 z a c j a
+kolorowego	1.0	k o l o r o v e g o
+zaprezentowałam	1.0	z a p r e z e n t o v a w a m
+wędrówki	1.0	v eo5 d r u v k i
+roztacza	1.0	r o z t a tS a
+uznać	1.0	u z n a tsj
+facetów	1.0	f a c e t u v
+oprócz	1.0	o p r u tS
+roślin	1.0	r o sj l j n
+loren	1.0	l o r e n
+romansować	1.0	r o m a n s o v a tsj
+warunkiem	1.0	v a r u n k i e m
+pokuty	1.0	p o k u t i2
+milimetr	1.0	m i l j m e t r
+młody	1.0	m w o d i2
+phillippe	1.0	p h j l l j p p e
+mieszkaniu	1.0	m i e S k a n i u
+wydaniem	1.0	v i2 d a n i e m
+pokaże	1.0	p o k a Z e
+żadne	1.0	Z a d n e
+bym	1.0	b i2 m
+diabeł	1.0	d j a b e w
+rozdzierającego	1.0	r o z dzj e r a j oc5 c e g o
+traktowane	1.0	t r a k t o v a n e
+mocarstwo	1.0	m o c a r s t f o
+zaabsorbowanej	1.0	z a a b s o r b o v a n e j
+wrzuceniem	1.0	v Z u c e n i e m
+komputerach	1.0	k o m p u t e r a h
+wcześniejsze	1.0	v tS e sj n i e j S e
+inaczej	1.0	i n a tS e j
+podającą	1.0	p o d a j oc5 c oc5
+sto	1.0	s t o
+watteau	1.0	v a t t e a u
+brzuch	1.0	b Z u h
+proszę	1.0	p r o S e
+związków	1.0	z v i oc5 z k u v
+murów	1.0	m u r u v
+mną	1.0	m n oc5
+image	1.0	i m a g e
+sofoklesa	1.0	s o f o k l e s a
+tu	1.0	t u
+wizerunek	1.0	v i z e r u n e k
+głębokości	1.0	g w eo5 b o k o sj tsj i
+wielka-	1.0	v i e l k a e
+zmęczony	1.0	z m eo5 tS o n i2
+zdanie	1.0	z d a n i e
+chrapiesz	1.0	h r a p i e S
+ludzka	1.0	l u dz k a
+strzaskali	1.0	s t S a s k a l j
+żegnają	1.0	Z e g n a j oc5
+graficzne	1.0	g r a f i tS n e
+posłuszny	1.0	p o s w u S n i2
+chłop	1.0	h w o p
+właściwości	1.0	v w a sj tsj i v o sj tsj i
+sen	1.0	s e n
+zerwania	1.0	z e r v a n i a
+plotzke	1.0	p l o t z k e
+oto	1.0	o t o
+ostatnia	1.0	o s t a t n i a
+uda	1.0	u d a
+umiał	1.0	u m i a w
+pannie	1.0	p a n n i e
+stosowane	1.0	s t o s o v a n e
+skraju	1.0	s k r a j u
+makijaż	1.0	m a k i j a S
+przewodnik	1.0	p S e v o d n i k
+olejków	1.0	o l e j k u v
+wyjściowego	1.0	v i2 j sj tsj o v e g o
+litych	1.0	l j t i2 h
+podjęły	1.0	p o d j eo5 w i2
+młodsze	1.0	m w o d S e
+dopiero	1.0	d o p i e r o
+podejrzałem	1.0	p o d e j Z a w e m
+przeszkadza	1.0	p S e S k a dz a
+klątwę	1.0	k l oc5 t f e
+ognista	1.0	o g n i s t a
+załatwiłem	1.0	z a w a t f i w e m
+tradycja	1.0	t r a d i2 c j a
+kocha	1.0	k o h a
+znakami	1.0	z n a k a m i
+doskonałego	1.0	d o s k o n a w e g o
+niezliczone	1.0	n i e z l j tS o n e
+ogłosił	1.0	o g w o sj i w
+tanga	1.0	t a n g a
+zarazem	1.0	z a r a z e m
+382	1.0	S i2 o sj d
+ogólny	1.0	o g u l n i2
+widzisz	1.0	v i dzj i S
+ciemności	1.0	tsj e m n o sj tsj i
+artystycznych	1.0	a r t i2 s t i2 tS n i2 h
+wyglądacie	1.0	v i2 g l oc5 d a tsj e
+chwilę	1.0	h v i l e
+odpowiedzi	1.0	o d p o v i e dzj i
+szczególne	1.0	S tS e g u l n e
+lewą	1.0	l e v oc5
+zimno	1.0	zj i m n o
+zdaniem	1.0	z d a n i e m
+zasypiam	1.0	z a s i2 p i a m
+łaskawą	1.0	w a s k a v oc5
+całkowite	1.0	c a w k o v i t e
+podglądać	1.0	p o d g l oc5 d a tsj
+prostą	1.0	p r o s t oc5
+misiuro	1.0	m i sj i u r o
+gęstnieje	1.0	g eo5 s t n i e j e
+rozpacz	1.0	r o z p a tS
+polityki	1.0	p o l j t i2 k i
+skupienia	1.0	s k u p i e n i a
+tworzenia	1.0	t f o Z e n i a
+dawid	1.0	d a v i d
+odczuwa	1.0	o d tS u v a
+otulił	1.0	o t u l j w
+wziąć	1.0	v zj oc5 tsj
+rzeczywiście	1.0	Z e tS i2 v i sj tsj e
+fasady	1.0	f a s a d i2
+minutach	1.0	m i n u t a h
+obronić	1.0	o b r o n i tsj
+chodził	1.0	h o dzj i w
+międzyludzkie	1.0	m i eo5 dz i2 l u dz k i e
+niemiara	1.0	n i e m i a r a
+niosące	1.0	n i o s oc5 c e
+barw	1.0	b a r v
+rewolucji	1.0	r e v o l u c j i
+bezsensownej	1.0	b e z s e n s o v n e j
+zawieść	1.0	z a v i e sj tsj
+oddali	1.0	o d d a l j
+1999	1.0	v i eo5 t eo5 tsj eo5 tsj
+imprezy	1.0	i m p r e z i2
+wodzie	1.0	v o dzj e
+latają	1.0	l a t a j oc5
+indywidualnych	1.0	i n d i2 v i d u a l n i2 h
+zamówić	1.0	z a m u v i tsj
+wie	1.0	v i e
+poczuła	1.0	p o tS u w a
+klawisz	1.0	k l a v i S
+obiecujące	1.0	o b i e c u j oc5 c e
+rozkrzyżowanymi	1.0	r o z k S i2 Z o v a n i2 m i
+wracała	1.0	v r a c a w a
+wszelakim	1.0	v S e l a k i m
+ten	1.0	t e n
+horyzonty	1.0	h o r i2 z o n t i2
+powiedziane	1.0	p o v i e dzj a n e
+rozważamy	1.0	r o z v a Z a m i2
+50-metre	1.0	p i t m e t r e
+wyznana	1.0	v i2 z n a n a
+izby	1.0	i z b i2
+wyraźnie	1.0	v i2 r a zj n i e
+pozwalającym	1.0	p o z v a l a j oc5 c i2 m
+ogarniętej	1.0	o g a r n i eo5 t e j
+liturgiii	1.0	l j t u r g i i i
+zaletą	1.0	z a l e t oc5
+chama	1.0	h a m a
+naszych	1.0	n a S i2 h
+niewygód	1.0	n i e v i2 g u d
+pierwszej	1.0	p i e r v S e j
+obliczu	1.0	o b l j tS u
+ale	1.0	a l e
+słuchacze	1.0	s w u h a tS e
+rodziny	1.0	r o dzj i n i2
+dociera	1.0	d o tsj e r a
+bestselleru	1.0	b e s t s e l l e r u
+epoce	1.0	e p o c e
+picie	1.0	p i tsj e
+depresję	1.0	d e p r e s j e
+siedział	1.0	sj e dzj a w
+długości	1.0	d w u g o sj tsj i
+lepiej-	1.0	l e p i e j e
+stanowią	1.0	s t a n o v i oc5
+wcale	1.0	v c a l e
+majątkowych	1.0	m a j oc5 t k o v i2 h
+śmierć-	1.0	sj m i e r tsj e
+skórę	1.0	s k u r e
+wolałabym	1.0	v o l a w a b i2 m
+agitacja	1.0	a g i t a c j a
+utratą	1.0	u t r a t oc5
+sartre	1.0	s a r t r e
+otwiera	1.0	o t f i e r a
+usypano	1.0	u s i2 p a n o
+wydartych	1.0	v i2 d a r t i2 h
+kiełpie	1.0	k i e w p i e
+sternika	1.0	s t e r n i k a
+miał	1.0	m i a w
+niekiedy	1.0	n i e k i e d i2
+pirat	1.0	p i r a t
+idziemy	1.0	i dzj e m i2
+szacuje	1.0	S a c u j e
+spełnić	1.0	s p e w n i tsj
+ja-	1.0	j a e
+kocham	1.0	k o h a m
+włosy	1.0	v w o s i2
+wymagają	1.0	v i2 m a g a j oc5
+jesteśmy	1.0	j e s t e sj m i2
+rozumem	1.0	r o z u m e m
+modne	1.0	m o d n e
+talentu	1.0	t a l e n t u
+marie	1.0	m a r j e
+płacz	1.0	p w a tS
+dwory	1.0	d v o r i2
+ktoś	1.0	k t o sj
+zupy	1.0	z u p i2
+krokodylek	1.0	k r o k o d i2 l e k
+męskie-	1.0	m eo5 s k i e e
+fiodora	1.0	f i o d o r a
+niweczyły	1.0	n i v e tS i2 w i2
+albo	1.0	a l b o
+symbole	1.0	s i2 m b o l e
+każdego	1.0	k a Z d e g o
+zrozumiałe	1.0	z r o z u m i a w e
+smutek	1.0	s m u t e k
+wyobraźni	1.0	v i2 o b r a zj n i
+znalazł	1.0	z n a l a z w
+pozbawioną	1.0	p o z b a v i o n oc5
+nieskończoną	1.0	n i e s k o n~ tS o n oc5
+spojrzeniem	1.0	s p o j Z e n i e m
+chorobę	1.0	h o r o b e
+muzyce	1.0	m u z i2 c e
+spotkanie	1.0	s p o t k a n i e
+nasza	1.0	n a S a
+go	1.0	g o
+drżała	1.0	d r Z a w a
+rozłożony	1.0	r o z w o Z o n i2
+amerykance	1.0	a m e r i2 k a n c e
+pisarską	1.0	p i s a r s k oc5
+zawód	1.0	z a v u d
+idealnie	1.0	i d e a l n i e
+obmierzły	1.0	o b m i e Z w i2
+żel	1.0	Z e l
+zwiększy	1.0	z v i eo5 k S i2
+między	1.0	m i eo5 dz i2
+indziej	1.0	i n dzj e j
+obfitość	1.0	o b f i t o sj tsj
+zauważyłem	1.0	z a u v a Z i2 w e m
+stała	1.0	s t a w a
+zaśpiewają	1.0	z a sj p i e v a j oc5
+pragnie	1.0	p r a g n i e
+sterowania	1.0	s t e r o v a n i a
+nośnikiem	1.0	n o sj n i k i e m
+wyrasta	1.0	v i2 r a s t a
+najgłośniejszym	1.0	n a j g w o sj n i e j S i2 m
+wymijającą	1.0	v i2 m i j a j oc5 c oc5
+wystarczył	1.0	v i2 s t a r tS i2 w
+wesprzeć	1.0	v e s p S e tsj
+opadły	1.0	o p a d w i2
+blask	1.0	b l a s k
+martwą	1.0	m a r t f oc5
+jadło	1.0	j a d w o
+matematycznej	1.0	m a t e m a t i2 tS n e j
+naszą	1.0	n a S oc5
+gównem	1.0	g u v n e m
+niepogrzebane	1.0	n i e p o g Z e b a n e
+la	1.0	l a
+zdań	1.0	z d a n~
+dodaj	1.0	d o d a j
+głębiej	1.0	g w eo5 b i e j
+zabłysnąć	1.0	z a b w i2 s n oc5 tsj
+polifoniczne	1.0	p o l j f o n i tS n e
+zaplanowanego	1.0	z a p l a n o v a n e g o
+jezus	1.0	j e z u s
+chełmna	1.0	h e w m n a
+prawideł	1.0	p r a v i d e w
+użytkowników	1.0	u Z i2 t k o v n i k u v
+żyć	1.0	Z i2 tsj
+byłbym	1.0	b i2 w b i2 m
+mieszankę	1.0	m i e S a n k e
+ilością	1.0	i l o sj tsj oc5
+karmy	1.0	k a r m i2
+postanowienia	1.0	p o s t a n o v i e n i a
+poznawać	1.0	p o z n a v a tsj
+wszystkim	1.0	v S i2 s t k i m
+insygnia	1.0	i n s i2 g n i a
+odwet-	1.0	o d v e t
+modlitwa	1.0	m o d l j t f a
+dźwięk	1.0	dzj v i eo5 k
+bezpiecznie	1.0	b e z p i e tS n i e
+wdzierała	1.0	v dzj e r a w a
+kapeluszy	1.0	k a p e l u S i2
+rozpoznać	1.0	r o z p o z n a tsj
+drzwi	1.0	d Z v i
+miłą	1.0	m i w oc5
+rolników	1.0	r o l n i k u v
+spektakl	1.0	s p e k t a k l
+ciemnością	1.0	tsj e m n o sj tsj oc5
+dlatego	1.0	d l a t e g o
+pytanie	1.0	p i2 t a n i e
+pół	1.0	p u w
+wcielić	1.0	v tsj e l j tsj
+najczęściej	1.0	n a j tS eo5 sj tsj e j
+nawozem	1.0	n a v o z e m
+daje	1.0	d a j e
+15	1.0	s t n tsj
+wyposażonych	1.0	v i2 p o s a Z o n i2 h
+tworzyć	1.0	t f o Z i2 tsj
+niemożliwe	1.0	n i e m o Z l j v e
+tańcujące	1.0	t a n~ c u j oc5 c e
+początek	1.0	p o tS oc5 t e k
+wjazd	1.0	v j a z d
+bożych	1.0	b o Z i2 h
+trzynastego	1.0	t S i2 n a s t e g o
+samotności	1.0	s a m o t n o sj tsj i
+cia	1.0	tsj a
+sekrety	1.0	s e k r e t i2
+ciekawą	1.0	tsj e k a v oc5
+rozmaitości	1.0	r o z m a i t o sj tsj i
+innych	1.0	i n n i2 h
+nigdzie	1.0	n i g dzj e
+wes	1.0	v e s
+lustrze	1.0	l u s t S e
+nagle	1.0	n a g l e
+we	1.0	v e
+wyrazem	1.0	v i2 r a z e m
+osiągnę	1.0	o tsj oc5 g n e
+kultury	1.0	k u l t u r i2
+l'oreal	1.0	l o r e a l
+państwowej	1.0	p a n~ s t f o v e j
+wariant	1.0	v a r j a n t
+fragonarda	1.0	f r a g o n a r d a
+kariera	1.0	k a r j e r a
+wroga	1.0	v r o g a
+aktualnym	1.0	a k t u a l n i2 m
+piszczel	1.0	p i S tS e l
+udźwignie	1.0	u dzj v i g n i e
+2,3	1.0	d S i2
+wprost	1.0	v p r o s t
+przyszłość	1.0	p S i2 S w o sj tsj
+zdmuchnąć	1.0	z d m u h n oc5 tsj
+niewielkich	1.0	n i e v i e l k i h
+niezapomniane	1.0	n i e z a p o m n i a n e
+kosmosu	1.0	k o s m o s u
+ciekawa	1.0	tsj e k a v a
+ukradkiem	1.0	u k r a t k i e m
+broń	1.0	b r o n~
+17	1.0	s t e
+chrztu	1.0	h Z t u
+ostępów	1.0	o s t eo5 p u v
+doświadczony	1.0	d o sj v i a d tS o n i2
+adwokatem	1.0	a d v o k a t e m
+podnosząca	1.0	p o d n o S oc5 c a
+wiedzą	1.0	v i e dz oc5
+scenie	1.0	s c e n i e
+efekt	1.0	e f e k t
+tylko	1.0	t i2 l k o
+proste	1.0	p r o s t e
+zaczął	1.0	z a tS oc5 w
+św	1.0	sj v
+zostaje	1.0	z o s t a j e
+musiałem	1.0	m u tsj a w e m
+wygrywała	1.0	v i2 g r i2 v a w a
+operuje	1.0	o p e r u j e
+krainę	1.0	k r a i n e
+walki	1.0	v a l k i
+oblężeniach	1.0	o b l eo5 Z e n i a h
+historii	1.0	h j s t o r j i
+wygnieciesz	1.0	v i2 g n i e tsj e S
+centralny	1.0	c e n t r a l n i2
+drżące	1.0	d r Z oc5 c e
+krwi	1.0	k r v i
+słońca	1.0	s w o n~ c a
+adaptacja	1.0	a d a p t a c j a
+mullins	1.0	m u l l j n s
+scenografię	1.0	s c e n o g r a f i e
+chemiczny	1.0	h e m i tS n i2
+związku	1.0	z v i oc5 z k u
+zauważ	1.0	z a u v a S
+uśmiechu	1.0	u sj m i e h u
+wszechświatów	1.0	v S e h sj v i a t u v
+przydatne	1.0	p S i2 d a t n e
+wykazały	1.0	v i2 k a z a w i2
+gazetą	1.0	g a z e t oc5
+sieczkowska	1.0	sj e tS k o v s k a
+niebycie	1.0	n i e b i2 tsj e
+chichen	1.0	h j h e n
+zadaniom	1.0	z a d a n i o m
+stan	1.0	s t a n
+niby	1.0	n i b i2
+sztuką	1.0	S t u k oc5
+bogów	1.0	b o g u v
+przypadkowych	1.0	p S i2 p a t k o v i2 h
+interesować	1.0	i n t e r e s o v a tsj
+bóg	1.0	b u g
+pochówku	1.0	p o h u v k u
+wypiera	1.0	v i2 p i e r a
+włączona	1.0	v w oc5 tS o n a
+duma	1.0	d u m a
+pastować	1.0	p a s t o v a tsj
+zwykłego	1.0	z v i2 k w e g o
+sprawom	1.0	s p r a v o m
+użyła	1.0	u Z i2 w a
+przetargi	1.0	p S e t a r g i
+wagę	1.0	v a g e
+radosną	1.0	r a d o s n oc5
+wydawały	1.0	v i2 d a v a w i2
+brzydkie	1.0	b Z i2 t k i e
+trzymać	1.0	t S i2 m a tsj
+łamać	1.0	w a m a tsj
+widok	1.0	v i d o k
+znakiem	1.0	z n a k i e m
+postawienie	1.0	p o s t a v i e n i e
+sądem	1.0	s oc5 d e m
+wywlekli	1.0	v i2 v l e k l j
+ii	1.0	i i
+królewski	1.0	k r u l e v s k i
+nadawało	1.0	n a d a v a w o
+pyszne	1.0	p i2 S n e
+podbity	1.0	p o d b i t i2
+życiu	1.0	Z i2 tsj u
+obiektywny	1.0	o b i e k t i2 v n i2
+przemyślną	1.0	p S e m i2 sj l n oc5
+kolejną	1.0	k o l e j n oc5
+spodziewasz	1.0	s p o dzj e v a S
+ręka	1.0	r eo5 k a
+śnisz	1.0	sj n i S
+arystokrata	1.0	a r i2 s t o k r a t a
+nadużywania	1.0	n a d u Z i2 v a n i a
+rozwagę	1.0	r o z v a g e
+radości	1.0	r a d o sj tsj i
+kompleksu	1.0	k o m p l e k s u
+jednozdaniowej	1.0	j e d n o z d a n i o v e j
+obraz	1.0	o b r a z
+powtarzanie	1.0	p o v t a Z a n i e
+zwierzęcą	1.0	z v i e Z eo5 c oc5
+rozbiegli	1.0	r o z b i e g l j
+pastelowej	1.0	p a s t e l o v e j
+mieć	1.0	m i e tsj
+wzmógł	1.0	v z m u g w
+stu	1.0	s t u
+zamianę	1.0	z a m i a n e
+piękną	1.0	p i eo5 k n oc5
+tyran	1.0	t i2 r a n
+bułhakowa	1.0	b u w h a k o v a
+wszak	1.0	v S a k
+kroki	1.0	k r o k i
+identyczna	1.0	i d e n t i2 tS n a
+współpracowali	1.0	v s p u w p r a c o v a l j
+nowej	1.0	n o v e j
+wojtku	1.0	v o j t k u
+zaszczepiać	1.0	z a S tS e p i a tsj
+pewni	1.0	p e v n i
+wypadku	1.0	v i2 p a t k u
+drugi	1.0	d r u g i
+utracą	1.0	u t r a c oc5
+wyspiańskiego	1.0	v i2 s p i a n~ s k i e g o
+podobnej	1.0	p o d o b n e j
+jakimś	1.0	j a k i m sj
+bohaterów-	1.0	b o h a t e r u v
+składnik	1.0	s k w a d n i k
+simów	1.0	sj i m u v
+rzęsy	1.0	Z eo5 s i2
+tchnienie	1.0	t h n i e n i e
+słowian	1.0	s w o v i a n
+nieliczni	1.0	n i e l j tS n i
+miara	1.0	m i a r a
+oddanego	1.0	o d d a n e g o
+wiele	1.0	v i e l e
+pewnego	1.0	p e v n e g o
+znawcy	1.0	z n a v c i2
+ponętna	1.0	p o n eo5 t n a
+powszechna	1.0	p o v S e h n a
+zafundowaliśmy	1.0	z a f u n d o v a l j sj m i2
+twarzy	1.0	t f a Z i2
+b-2	1.0	b e o d
+pierwszy	1.0	p i e r v S i2
+leczą	1.0	l e tS oc5
+her	1.0	h e r
+zda	1.0	z d a
+heisenberga	1.0	h e i s e n b e r g a
+błysk	1.0	b w i2 s k
+struktura	1.0	s t r u k t u r a
+owiń	1.0	o v i n~
+sypkim	1.0	s i2 p k i m
+bolesną	1.0	b o l e s n oc5
+wody	1.0	v o d i2
+komentatorzy	1.0	k o m e n t a t o Z i2
+zrekompensować	1.0	z r e k o m p e n s o v a tsj
+nie	1.0	n i e
+twórcy	1.0	t f u r c i2
+stanem	1.0	s t a n e m
+szkole	1.0	S k o l e
+kartkach	1.0	k a r t k a h
+wyobraziłam	1.0	v i2 o b r a zj i w a m
+ciekawsze	1.0	tsj e k a v S e
+dużo	1.0	d u Z o
+tarcia	1.0	t a r tsj a
+świat	1.0	sj v i a t
+dumanie	1.0	d u m a n i e
+czegoś	1.0	tS e g o sj
+zmaganiach	1.0	z m a g a n i a h
+tak	1.0	t a k
+seksu	1.0	s e k s u
+korbę	1.0	k o r b e
+oczywistym	1.0	o tS i2 v i s t i2 m
+ma	1.0	m a
+każdym	1.0	k a Z d i2 m
+iluminacja	1.0	i l u m i n a c j a
+kolana	1.0	k o l a n a
+wymiar	1.0	v i2 m i a r
+futro	1.0	f u t r o
+wiedział	1.0	v i e dzj a w
+chcę	1.0	h c e
+wyślizgane	1.0	v i2 sj l j z g a n e
+kamienne	1.0	k a m i e n n e
+okrążała	1.0	o k r oc5 Z a w a
+ulokowanej	1.0	u l o k o v a n e j
+smażonych	1.0	s m a Z o n i2 h
+zostać	1.0	z o s t a tsj
+przodu	1.0	p S o d u
+testujący	1.0	t e s t u j oc5 c i2
+lat	1.0	l a t
+pląsająca	1.0	p l oc5 s a j oc5 c a
+tyle	1.0	t i2 l e
+wyczerpię	1.0	v i2 tS e r p i e
+pytam	1.0	p i2 t a m
+wymaga	1.0	v i2 m a g a
+odłogiem	1.0	o d w o g i e m
+spostrzeżenia	1.0	s p o s t S e Z e n i a
+nieprzezroczystości	1.0	n i e p S e z r o tS i2 s t o sj tsj i
+milczenia	1.0	m i l tS e n i a
+peruk	1.0	p e r u k
+myśleniu	1.0	m i2 sj l e n i u
+szczery	1.0	S tS e r i2
+przemienił	1.0	p S e m i e n i w
+otworem	1.0	o t f o r e m
+towarzysz	1.0	t o v a Z i2 S
+kiwają	1.0	k i v a j oc5
+młodsza	1.0	m w o d S a
+głos	1.0	g w o s
+znajdzie	1.0	z n a j dzj e
+czekającą	1.0	tS e k a j oc5 c oc5
+szczególnie	1.0	S tS e g u l n i e
+piany	1.0	p i a n i2
+drzew	1.0	d Z e v
+tamten	1.0	t a m t e n
+romantyczne	1.0	r o m a n t i2 tS n e
+kategoriach	1.0	k a t e g o r j a h
+niebiesiech	1.0	n i e b i e sj e h
+nieczytelna	1.0	n i e tS i2 t e l n a
+italią	1.0	i t a l j oc5
+człowieka	1.0	tS w o v i e k a
+scenę	1.0	s c e n e
+robi	1.0	r o b i
+przyjętej	1.0	p S i2 j eo5 t e j
+zapraszając	1.0	z a p r a S a j oc5 c
+biorą	1.0	b i o r oc5
+zaułka	1.0	z a u w k a
+ciężarów	1.0	tsj eo5 Z a r u v
+muskaj	1.0	m u s k a j
+figury	1.0	f i g u r i2
+misiury	1.0	m i sj u r i2
+gigantyczną	1.0	g i g a n t i2 tS n oc5
+miód	1.0	m i u d
+seks	1.0	s e k s
+łaskawe	1.0	w a s k a v e
+doskonałe	1.0	d o s k o n a w e
+lirę	1.0	l j r e
+teraz	1.0	t e r a z
+telewizyjnych	1.0	t e l e v i z i2 j n i2 h
+uważam	1.0	u v a Z a m
+kawy	1.0	k a v i2
+najprościej	1.0	n a j p r o sj tsj e j
+domagają	1.0	d o m a g a j oc5
+aleksiej	1.0	a l e k sj e j
+starym	1.0	s t a r i2 m
+filtry	1.0	f i l t r i2
+per	1.0	p e r
+sprawnie	1.0	s p r a v n i e
+obejrzysz	1.0	o b e j Z i2 S
+spłacheć	1.0	s p w a h e tsj
+pogarda-	1.0	p o g a r d a e
+johnston	1.0	j o h n s t o n
+obozu	1.0	o b o z u
+wacława	1.0	v a c w a v a
+kwiaty	1.0	k f i a t i2
+grafomanią	1.0	g r a f o m a n i oc5
+kitzbuhl	1.0	k i t z b u h l
+zdarzało	1.0	z d a Z a w o
+zostawiam	1.0	z o s t a v i a m
+ludzkie	1.0	l u dz k i e
+przycisk2_1	1.0	p S i2 tsj i s k d v a tS t
+poczytnością	1.0	p o tS i2 t n o sj tsj oc5
+gierka	1.0	g i e r k a
+wittgenstein	1.0	v i t t g e n s t e i n
+poznając	1.0	p o z n a j oc5 c
+odrobiną	1.0	o d r o b i n oc5
+ziemiom	1.0	zj e m i o m
+angleberta	1.0	a n g l e b e r t a
+przypadek	1.0	p S i2 p a d e k
+jedną	1.0	j e d n oc5
+chińskiemu	1.0	h j n~ s k i e m u
+czyny	1.0	tS i2 n i2
+otaczane	1.0	o t a tS a n e
+przycisnął	1.0	p S i2 tsj i s n oc5 w
+piętra	1.0	p i eo5 t r a
+poszukiwania	1.0	p o S u k i v a n i a
+dziw	1.0	dzj i v
+zażywa	1.0	z a Z i2 v a
+wprowadźmy	1.0	v p r o v a dzj m i2
+instruujecie	1.0	i n s t r u u j e tsj e
+zawiódł	1.0	z a v i u d w
+realnym	1.0	r e a l n i2 m
+możliwości	1.0	m o Z l j v o sj tsj i
+blush	1.0	b l u s h
+pisania	1.0	p i s a n i a
+przypadkach	1.0	p S i2 p a t k a h
+bootującej	1.0	b o o t u j oc5 c e j
+zrobić	1.0	z r o b i tsj
+boją	1.0	b o j oc5
+złorzeczenie	1.0	z w o Z e tS e n i e
+rękę	1.0	r eo5 k e
+łoskotem	1.0	w o s k o t e m
+elementarne	1.0	e l e m e n t a r n e
+wierząc	1.0	v i e Z oc5 c
+nastroił	1.0	n a s t r o i w
+złudzeń	1.0	z w u dz e n~
+zerkać	1.0	z e r k a tsj
+drivemapper	1.0	d r j f e m a p p e r
+wszystkiego	1.0	v S i2 s t k i e g o
+czeluści	1.0	tS e l u sj tsj i
+ode	1.0	o d e
+dalekie	1.0	d a l e k i e
+zmiana	1.0	z m i a n a
+odważyłem	1.0	o d v a Z i2 w e m
+krzywdy	1.0	k S i2 v d i2
+he	1.0	h e
+zjedzeniu	1.0	z j e dz e n i u
+dziennikarzy	1.0	dzj e n n i k a Z i2
+ofert	1.0	o f e r t
+pierwsza	1.0	p i e r v S a
+ohydny	1.0	o h i2 d n i2
+całym	1.0	c a w i2 m
+samego	1.0	s a m e g o
+myśl	1.0	m i2 sj l
+pozycja	1.0	p o z i2 c j a
+zdobył	1.0	z d o b i2 w
+miało	1.0	m i a w o
+grzechu	1.0	g Z e h u
+wieku	1.0	v i e k u
+zza	1.0	z z a
+suchej	1.0	s u h e j
+stopy	1.0	s t o p i2
+policzkach	1.0	p o l j tS k a h
+this	1.0	t h j s
+lecz	1.0	l e tS
+wzajemnego	1.0	v z a j e m n e g o
+pomidorówką	1.0	p o m i d o r u v k oc5
+utworzyliśmy	1.0	u t f o Z i2 l j sj m i2
+pytania	1.0	p i2 t a n i a
+pomyślałem	1.0	p o m i2 sj l a w e m
+możliwy	1.0	m o Z l j v i2
+tryb	1.0	t r i2 b
+błędnym	1.0	b w eo5 d n i2 m
+zwracamy	1.0	z v r a c a m i2
+reżyserem	1.0	r e Z i2 s e r e m
+przygotowałam	1.0	p S i2 g o t o v a w a m
+pirata	1.0	p i r a t a
+bełku	1.0	b e w k u
+metafora	1.0	m e t a f o r a
+bramą	1.0	b r a m oc5
+obsługi	1.0	o b s w u g i
+ról	1.0	r u l
+niepyszni	1.0	n i e p i2 S n i
+sufitu	1.0	s u f i t u
+możesz	1.0	m o Z e S
+drzewa	1.0	d Z e v a
+przyspieszać	1.0	p S i2 s p i e S a tsj
+duchowego	1.0	d u h o v e g o
+zastawił	1.0	z a s t a v i w
+brzmi	1.0	b Z m i
+wypełnić	1.0	v i2 p e w n i tsj
+zatrzymanych	1.0	z a t S i2 m a n i2 h
+jakiś	1.0	j a k i sj
+śledztwo	1.0	sj l e dz t f o
+poczujesz	1.0	p o tS u j e S
+złudzenia	1.0	z w u dz e n i a
+wciągnij	1.0	v tsj oc5 g n i j
+starożytne	1.0	s t a r o Z i2 t n e
+chroni	1.0	h r o n i
+annette	1.0	a n n e t t e
+fizyki	1.0	f i z i2 k i
+chwilami	1.0	h v i l a m i
+polskie	1.0	p o l s k i e
+podbródek	1.0	p o d b r u d e k
+psa	1.0	p s a
+zakrawa	1.0	z a k r a v a
+jakiegoś	1.0	j a k i e g o sj
+jazda	1.0	j a z d a
+hipoteza	1.0	h j p o t e z a
+puchar	1.0	p u h a r
+jakaś	1.0	j a k a sj
+ho	1.0	h o
+podnoszenie	1.0	p o d n o S e n i e
+obrazy	1.0	o b r a z i2
+97	1.0	eo5 t e
+20	1.0	d t
+systemem	1.0	s i2 s t e m e m
+cichutku	1.0	tsj i h u t k u
+momenty	1.0	m o m e n t i2
+docierają	1.0	d o tsj e r a j oc5
+miejsca	1.0	m i e j s c a
+teorią	1.0	t e o r j oc5
+skasowanie	1.0	s k a s o v a n i e
+odważnych	1.0	o d v a Z n i2 h
+ludzie	1.0	l u dzj e
+masowymi	1.0	m a s o v i2 m i
+starcia	1.0	s t a r tsj a
+religijny	1.0	r e l j g i j n i2
+zadawać	1.0	z a d a v a tsj
+modlitwy	1.0	m o d l j t f i2
+spostrzegłem	1.0	s p o s t S e g w e m
+mało	1.0	m a w o
+około	1.0	o k o w o
+elementy	1.0	e l e m e n t i2
+niecną	1.0	n i e c n oc5
+zrobiłaś	1.0	z r o b i w a sj
+widziałaś	1.0	v i dzj a w a sj
+tarcic	1.0	t a r tsj i c
+obudziła	1.0	o b u dzj i w a
+których	1.0	k t u r i2 h
+buntowniczy	1.0	b u n t o v n i tS i2
+miniaturowym	1.0	m i n i a t u r o v i2 m
+jakieś	1.0	j a k i e sj
+obcowanie	1.0	o b c o v a n i e
+przysypanie	1.0	p S i2 s i2 p a n i e
+dotyczą	1.0	d o t i2 tS oc5
+zalewała	1.0	z a l e v a w a
+dotyk	1.0	d o t i2 k
+reese	1.0	r e e s e
+przemocy	1.0	p S e m o c i2
+szybkich	1.0	S i2 b k i h
+powstając	1.0	p o v s t a j oc5 c
+wrażliwości	1.0	v r a Z l j v o sj tsj i
+zdobyć	1.0	z d o b i2 tsj
+wytępienie	1.0	v i2 t eo5 p i e n i e
+przesuwamy	1.0	p S e s u v a m i2
+raną	1.0	r a n oc5
+złożonej	1.0	z w o Z o n e j
+pomagać	1.0	p o m a g a tsj
+długo	1.0	d w u g o
+fragmentami	1.0	f r a g m e n t a m i
+przebywają	1.0	p S e b i2 v a j oc5
+dlaczego	1.0	d l a tS e g o
+aktywnego	1.0	a k t i2 v n e g o
+rozwiązania	1.0	r o z v i oc5 z a n i a
+żelastwa	1.0	Z e l a s t f a
+sjl	1.0	s j l
+czucie	1.0	tS u tsj e
+polegają	1.0	p o l e g a j oc5
+nimi	1.0	n i m i
+niespodzianki	1.0	n i e s p o dzj a n k i
+stole	1.0	s t o l e
+wniosku	1.0	v n i o s k u
+polchowa	1.0	p o l h o v a
+najlepszą	1.0	n a j l e p S oc5
+utratę	1.0	u t r a t e
+projekt	1.0	p r o j e k t
+potworem	1.0	p o t f o r e m
+otwartego	1.0	o t f a r t e g o
+współpracowników	1.0	v s p u w p r a c o v n i k u v
+im	1.0	i m
+poprosił	1.0	p o p r o sj i w
+biurowego	1.0	b i u r o v e g o
+bezbrzeżniej	1.0	b e z b Z e Z n i e j
+czuje	1.0	tS u j e
+pracy	1.0	p r a c i2
+tammona	1.0	t a m m o n a
+kolejnych	1.0	k o l e j n i2 h
+cię	1.0	tsj i e
+podatku	1.0	p o d a t k u
+wysłany	1.0	v i2 s w a n i2
+doświadczałeś	1.0	d o sj v i a d tS a w e sj
+nicości	1.0	n i c o sj tsj i
+wieczności	1.0	v i e tS n o sj tsj i
+przestrzeń	1.0	p S e s t S e n~
+kopalni	1.0	k o p a l n i
+urządzenie	1.0	u Z oc5 dz e n i e
+włos	1.0	v w o s
+steczkowska	1.0	s t e tS k o v s k a
+często	1.0	tS eo5 s t o
+przepisywali	1.0	p S e p i s i2 v a l j
+zaradcze	1.0	z a r a d tS e
+wrażenie	1.0	v r a Z e n i e
+notowałem	1.0	n o t o v a w e m
+źrenice	1.0	zj r e n i c e
+głośników	1.0	g w o sj n i k u v
+shop	1.0	s h o p
+płycie	1.0	p w i2 tsj e
+zamkniętych-	1.0	z a m k n i eo5 t i2 h e
+łososi	1.0	w o s o sj i
+cantilena	1.0	c a n t j l e n a
+wzruszyło	1.0	v z r u S i2 w o
+marynarki	1.0	m a r i2 n a r k i
+księgą	1.0	k sj eo5 g oc5
+odsłonięcie	1.0	o d s w o n i eo5 tsj e
+zawarciu	1.0	z a v a r tsj u
+czasów	1.0	tS a s u v
+pochodzi	1.0	p o h o dzj i
+sukcesu	1.0	s u k c e s u
+lotus	1.0	l o t u s
+węża	1.0	v eo5 Z a
+ing	1.0	i n g
+sens	1.0	s e n s
+problemem	1.0	p r o b l e m e m
+razy	1.0	r a z i2
+przebaczałeś	1.0	p S e b a tS a w e sj
+wojtek	1.0	v o j t e k
+fotograficznej	1.0	f o t o g r a f i tS n e j
+wiekuisty	1.0	v i e k u i s t i2
+traktuje	1.0	t r a k t u j e
+kobiet	1.0	k o b i e t
+chińczycy	1.0	h j n~ tS i2 c i2
+zapisów	1.0	z a p i s u v
+ówdzie	1.0	u v dzj e
+funkcją	1.0	f u n k c j oc5
+filmów	1.0	f i l m u v
+potęgi	1.0	p o t eo5 g i
+świece	1.0	sj v i e c e
+kota	1.0	k o t a
+przeżywając	1.0	p S e Z i2 v a j oc5 c
+model	1.0	m o d e l
+dialektycznie	1.0	d j a l e k t i2 tS n i e
+okaże	1.0	o k a Z e
+akuszera	1.0	a k u S e r a
+stanowił	1.0	s t a n o v i w
+ojczyzny	1.0	o j tS i2 z n i2
+daleka	1.0	d a l e k a
+brudów	1.0	b r u d u v
+ubrany	1.0	u b r a n i2
+stalowe	1.0	s t a l o v e
+krescencjusza	1.0	k r e s c e n c j u S a
+ciągu	1.0	tsj oc5 g u
+kaszubi	1.0	k a S u b i
+najniższy	1.0	n a j n i Z S i2
+związkiem	1.0	z v i oc5 z k i e m
+galaktyk	1.0	g a l a k t i2 k
+cosmowskazówka	1.0	c o s m o v s k a z u v k a
+obozowisk	1.0	o b o z o v i s k
+pqboot	1.0	p k b o o t
+jakąś	1.0	j a k oc5 sj
+reakcji	1.0	r e a k c j i
+gmach	1.0	g m a h
+eurydyce	1.0	e u r i2 d i2 c e
+obraca	1.0	o b r a c a
+reagujesz	1.0	r e a g u j e S
+kiedyś	1.0	k i e d i2 sj
+uczestników	1.0	u tS e s t n i k u v
+opuszczała	1.0	o p u S tS a w a
+poeta	1.0	p o e t a
+męki	1.0	m eo5 k i
+bytów	1.0	b i2 t u v
+życzliwość	1.0	Z i2 tS l j v o sj tsj
+dziesiątkuje	1.0	dzj e tsj oc5 t k u j e
+czytelnik	1.0	tS i2 t e l n i k
+lutym	1.0	l u t i2 m
+sił	1.0	sj i w
+krańce	1.0	k r a n~ c e
+jeleń	1.0	j e l e n~
+siera	1.0	sj e r a
+chciała	1.0	h tsj a w a
+delikatnie	1.0	d e l j k a t n i e
+dieta	1.0	d j e t a
+ostatnią	1.0	o s t a t n i oc5
+animacje	1.0	a n i m a c j e
+męskim	1.0	m eo5 s k i m
+dziwaczny	1.0	dzj i v a tS n i2
+metodycznemu	1.0	m e t o d i2 tS n e m u
+trzecia	1.0	t S e tsj a
+musiało	1.0	m u tsj a w o
+zainteresowania	1.0	z a i n t e r e s o v a n i a
+byłem	1.0	b i2 w e m
+nieprzegotowanej	1.0	n i e p S e g o t o v a n e j
+lata-	1.0	l a t a e
+zadowolenia	1.0	z a d o v o l e n i a
+kopią	1.0	k o p i oc5
+pomoże	1.0	p o m o Z e
+przyrostowej-	1.0	p S i2 r o s t o v e j e
+nabierzesz	1.0	n a b i e Z e S
+punkt	1.0	p u n k t
+tytułem	1.0	t i2 t u w e m
+dziwami	1.0	dzj i v a m i
+znajomi	1.0	z n a j o m i
+przykładam	1.0	p S i2 k w a d a m
+nigdy	1.0	n i g d i2
+rozmaite	1.0	r o z m a i t e
+wstrzymany	1.0	v s t S i2 m a n i2
+stać	1.0	s t a tsj
+kolano	1.0	k o l a n o
+banalną	1.0	b a n a l n oc5
+odbicie	1.0	o d b i tsj e
+telewizorem	1.0	t e l e v i z o r e m
+pytali	1.0	p i2 t a l j
+jaki	1.0	j a k i
+olbrzymi	1.0	o l b Z i2 m i
+ostatnie	1.0	o s t a t n i e
+końcu	1.0	k o n~ c u
+underwear	1.0	u n d e r v e a r
+boski	1.0	b o s k i
+spokój	1.0	s p o k u j
+zyskuje	1.0	z i2 s k u j e
+profesjonalnie	1.0	p r o f e s j o n a l n i e
+jean	1.0	j e a n
+podpisywać	1.0	p o d p i s i2 v a tsj
+idealnym	1.0	i d e a l n i2 m
+kumulacji	1.0	k u m u l a c j i
+fatalną	1.0	f a t a l n oc5
+komunię	1.0	k o m u n i e
+gęby	1.0	g eo5 b i2
+zwolennikom	1.0	z v o l e n n i k o m
+historię	1.0	h j s t o r j e
+rozwiązać	1.0	r o z v i oc5 z a tsj
+wojnę	1.0	v o j n e
+opierał	1.0	o p i e r a w
+uniknąć	1.0	u n i k n oc5 tsj
+straszliwie	1.0	s t r a S l j v i e
+feynmana	1.0	f e i2 n m a n a
+zamczyska	1.0	z a m tS i2 s k a
+pewnej	1.0	p e v n e j
+korzystam	1.0	k o Z i2 s t a m
+czyśćca	1.0	tS i2 sj tsj c a
+not	1.0	n o t
+straciła	1.0	s t r a tsj i w a
+absolutnym	1.0	a b s o l u t n i2 m
+świąt	1.0	sj v i oc5 t
+czuję	1.0	tS u j e
+regionalnych	1.0	r e g i o n a l n i2 h
+gaszę	1.0	g a S e
+rozproszonych	1.0	r o z p r o S o n i2 h
+świńskim	1.0	sj v i n~ s k i m
+sprytnym	1.0	s p r i2 t n i2 m
+wiary	1.0	v i a r i2
+odbędzie	1.0	o d b eo5 dzj e
+byliśmy	1.0	b i2 l j sj m i2
+zewnętrzny	1.0	z e v n eo5 t S n i2
+ludzkości	1.0	l u dz k o sj tsj i
+prezentację	1.0	p r e z e n t a c j e
+murami	1.0	m u r a m i
+wydobycia	1.0	v i2 d o b i2 tsj a
+imię	1.0	i m i e
+odpoczynku	1.0	o d p o tS i2 n k u
+tajny	1.0	t a j n i2
+krwistych	1.0	k r v i s t i2 h
+ponosi	1.0	p o n o sj i
+paul	1.0	p a u l
+sądzić	1.0	s oc5 dzj i tsj
+profesjonalnych	1.0	p r o f e s j o n a l n i2 h
+zachowań	1.0	z a h o v a n~
+wartości	1.0	v a r t o sj tsj i
+kostiumach	1.0	k o s t j u m a h
+zagadnienie	1.0	z a g a d n i e n i e
+udają	1.0	u d a j oc5
+futurystyczna	1.0	f u t u r i2 s t i2 tS n a
+mówienia	1.0	m u v i e n i a
+wstydu	1.0	v s t i2 d u
+annie	1.0	a n n i e
+rozbiję	1.0	r o z b i j e
+patrzcie	1.0	p a t S tsj e
+wytarte	1.0	v i2 t a r t e
+zielonego	1.0	zj e l o n e g o
+niespokojny	1.0	n i e s p o k o j n i2
+pozostawić	1.0	p o z o s t a v i tsj
+progi	1.0	p r o g i
+porażony	1.0	p o r a Z o n i2
+byłoby	1.0	b i2 w o b i2
+urodziło	1.0	u r o dzj i w o
+obejmuje	1.0	o b e j m u j e
+zachowywać	1.0	z a h o v i2 v a tsj
+i	1.0	i
+stuleci	1.0	s t u l e tsj i
+łaszyńskich	1.0	w a S i2 n~ s k i h
+przekonana	1.0	p S e k o n a n a
+krewniak	1.0	k r e v n i a k
+piękniejszy	1.0	p i eo5 k n i e j S i2
+muszę	1.0	m u S e
+wybrzeżach	1.0	v i2 b Z e Z a h
+odpadłaś	1.0	o d p a d w a sj
+dłońmi	1.0	d w o n~ m i
+barwnika	1.0	b a r v n i k a
+długa	1.0	d w u g a
+przeszłości	1.0	p S e S w o sj tsj i
+zmianie	1.0	z m i a n i e
+powiada	1.0	p o v i a d a
+zabijał	1.0	z a b i j a w
+wrażliwość	1.0	v r a Z l j v o sj tsj
+brałam	1.0	b r a w a m
+inne	1.0	i n n e
+kolacje	1.0	k o l a c j e
+razem	1.0	r a z e m
+znaczącym	1.0	z n a tS oc5 c i2 m
+szanowany	1.0	S a n o v a n i2
+prozaiczny	1.0	p r o z a i tS n i2
+obdarzonych	1.0	o b d a Z o n i2 h
+przemianę	1.0	p S e m i a n e
+życzenie	1.0	Z i2 tS e n i e
+wykazał	1.0	v i2 k a z a w
+procesu	1.0	p r o c e s u
+wytropiła	1.0	v i2 t r o p i w a
+oglądałaś	1.0	o g l oc5 d a w a sj
+pracownicy	1.0	p r a c o v n i c i2
+tworzeniem	1.0	t f o Z e n i e m
+przekazach	1.0	p S e k a z a h
+zdarza	1.0	z d a Z a
+nas	1.0	n a s
+wydaje	1.0	v i2 d a j e
+śmierć	1.0	sj m i e r tsj
+należą	1.0	n a l e Z oc5
+krzątał	1.0	k S oc5 t a w
+nauki	1.0	n a u k i
+przystąpimy	1.0	p S i2 s t oc5 p i m i2
+czele	1.0	tS e l e
+poszukiwacz	1.0	p o S u k i v a tS
+oni	1.0	o n i
+ekspresji	1.0	e k s p r e s j i
+poczuć	1.0	p o tS u tsj
+kimś-	1.0	k i m sj e
+zabrzmi	1.0	z a b Z m i
+utworzy	1.0	u t f o Z i2
+przedostatni	1.0	p S e d o s t a t n i
+państwowego	1.0	p a n~ s t f o v e g o
+3	1.0	S i2
+swobodna	1.0	s v o b o d n a
+polski	1.0	p o l s k i
+przekroczenie	1.0	p S e k r o tS e n i e
+komtur	1.0	k o m t u r
+aparat	1.0	a p a r a t
+określonego	1.0	o k r e sj l o n e g o
+wolno	1.0	v o l n o
+ziemia	1.0	zj e m i a
+wietnamie	1.0	v i e t n a m i e
+równi	1.0	r u v n i
+punktem	1.0	p u n k t e m
+umyciu	1.0	u m i2 tsj u
+ramionami	1.0	r a m i o n a m i
+górnej	1.0	g u r n e j
+gdera:-	1.0	g d e r a e
+szanowani	1.0	S a n o v a n i
+specjalnego	1.0	s p e c j a l n e g o
+gomułki	1.0	g o m u w k i
+wysiadają	1.0	v i2 tsj a d a j oc5
+70	1.0	sj t
+ckm	1.0	c k m
+bawary	1.0	b a v a r i2
+przeżywałeś	1.0	p S e Z i2 v a w e sj
+spaść	1.0	s p a sj tsj
+teksty	1.0	t e k s t i2
+chaosie	1.0	h a o sj e
+mór	1.0	m u r
+ciało	1.0	tsj a w o
+potwierdzi	1.0	p o t f i e r dzj i
+królewic	1.0	k r u l e v i c
+możliwościach	1.0	m o Z l j v o sj tsj a h
+potrafi	1.0	p o t r a f i
+działy	1.0	dzj a w i2
+żertwę	1.0	Z e r t f e
+owszem	1.0	o v S e m
+była	1.0	b i2 w a
+młodzieńca	1.0	m w o dzj e n~ c a
+itd	1.0	i t d
+podziemnego	1.0	p o dzj e m n e g o
+stara	1.0	s t a r a
+merkury	1.0	m e r k u r i2
+szefową	1.0	S e f o v oc5
+zaś	1.0	z a sj
+młodego	1.0	m w o d e g o
+drzwiach	1.0	d Z v i a h
+nagięty	1.0	n a g i eo5 t i2
+przyjaciołom	1.0	p S i2 j a tsj o w o m
+podłoża	1.0	p o d w o Z a
+kuchennej	1.0	k u h e n n e j
+powstrzymać	1.0	p o v s t S i2 m a tsj
+przywróceniu	1.0	p S i2 v r u c e n i u
+segmentach	1.0	s e g m e n t a h
+otworzyło	1.0	o t f o Z i2 w o
+budzi	1.0	b u dzj i
+kołatał	1.0	k o w a t a w
+szanse	1.0	S a n s e
+sześciuset	1.0	S e sj tsj u s e t
+miliardów	1.0	m i l j a r d u v
+mądrości	1.0	m oc5 d r o sj tsj i
+każdą	1.0	k a Z d oc5
+modułu	1.0	m o d u w u
+niewzruszalną	1.0	n i e v z r u S a l n oc5
+niosą	1.0	n i o s oc5
+inny	1.0	i n n i2
+substancji	1.0	s u b s t a n c j i
+pięciu	1.0	p i eo5 tsj u
+przemieniające	1.0	p S e m i e n i a j oc5 c e
+niektórych	1.0	n i e k t u r i2 h
+janusza	1.0	j a n u S a
+loki	1.0	l o k i
+sami	1.0	s a m i
+zmielonych	1.0	z m i e l o n i2 h
+musimy	1.0	m u sj i m i2
+niedoczytanej	1.0	n i e d o tS i2 t a n e j
+gdy	1.0	g d i2
+najbardziej	1.0	n a j b a r dzj e j
+powrócił	1.0	p o v r u tsj i w
+krzyż	1.0	k S i2 S
+felietony	1.0	f e l j e t o n i2
+żeby	1.0	Z e b i2
+opromienione	1.0	o p r o m i e n i o n e
+łabą	1.0	w a b oc5
+chodzi	1.0	h o dzj i
+dusza	1.0	d u S a
+fair	1.0	f a i r
+wiedząc	1.0	v i e dz oc5 c
+stworzeniu	1.0	s t f o Z e n i u
+wstąpić	1.0	v s t oc5 p i tsj
+uniknąłby	1.0	u n i k n oc5 w b i2
+sądzą	1.0	s oc5 dz oc5
+upodobał	1.0	u p o d o b a w
+nieba	1.0	n i e b a
+wywołaną	1.0	v i2 v o w a n oc5
+rozpalania	1.0	r o z p a l a n i a
+jezu	1.0	j e z u
+zdobywał	1.0	z d o b i2 v a w
+odbywa	1.0	o d b i2 v a
+skończy	1.0	s k o n~ tS i2
+samochodowe	1.0	s a m o h o d o v e
+integralny	1.0	i n t e g r a l n i2
+faulkner	1.0	f a u l k n e r
+zapisał	1.0	z a p i s a w
+niejeden	1.0	n i e j e d e n
+oglądali	1.0	o g l oc5 d a l j
+paru	1.0	p a r u
+ludziom	1.0	l u dzj o m
+prawo	1.0	p r a v o
+fantastycznie	1.0	f a n t a s t i2 tS n i e
+wydarzenia	1.0	v i2 d a Z e n i a
+skandalu	1.0	s k a n d a l u
+true	1.0	t r u e
+obowiązkami	1.0	o b o v i oc5 z k a m i
+odrzuceniu	1.0	o d Z u c e n i u
+powieściowy	1.0	p o v i e sj tsj o v i2
+nieprzyjaciel	1.0	n i e p S i2 j a tsj e l
+mieszkanka	1.0	m i e S k a n k a
+swą	1.0	s v oc5
+zamierzony	1.0	z a m i e Z o n i2
+cnotę	1.0	c n o t e
+możemy	1.0	m o Z e m i2
+nieładne	1.0	n i e w a d n e
+leśne	1.0	l e sj n e
+syn	1.0	s i2 n
+boskich	1.0	b o s k i h
+teutońskiego	1.0	t e u t o n~ s k i e g o
+kilograma	1.0	k i l o g r a m a
+niebezpiecznych	1.0	n i e b e z p i e tS n i2 h
+pory	1.0	p o r i2
+poręki	1.0	p o r eo5 k i
+władzę	1.0	v w a dz e
+kobieta	1.0	k o b i e t a
+przychodzimy	1.0	p S i2 h o dzj i m i2
+lubrykantem	1.0	l u b r i2 k a n t e m
+bieliznę	1.0	b i e l j z n e
+zwykli	1.0	z v i2 k l j
+powrotem	1.0	p o v r o t e m
+popełnić	1.0	p o p e w n i tsj
+nadzieja	1.0	n a dzj e j a
+celebrując	1.0	c e l e b r u j oc5 c
+borami	1.0	b o r a m i
+podaje	1.0	p o d a j e
+sobie	1.0	s o b i e
+informowania	1.0	i n f o r m o v a n i a
+odwiecznych	1.0	o d v i e tS n i2 h
+owej	1.0	o v e j
+szanowaną	1.0	S a n o v a n oc5
+gęstość	1.0	g eo5 s t o sj tsj
+część	1.0	tS eo5 sj tsj
+poszukiwaniu	1.0	p o S u k i v a n i u
+poematu	1.0	p o e m a t u
+chwycił	1.0	h v i2 tsj i w
+ciotka	1.0	tsj o t k a
+steków	1.0	s t e k u v
+środowisku	1.0	sj r o d o v i s k u
+krzywoustego	1.0	k S i2 v o u s t e g o
+strzały	1.0	s t S a w i2
+testamencie	1.0	t e s t a m e n tsj e
+uzależnionych	1.0	u z a l e Z n i o n i2 h
+obraża	1.0	o b r a Z a
+wyjścia	1.0	v i2 j sj tsj a
+potem	1.0	p o t e m
+procent	1.0	p r o c e n t
+dobra	1.0	d o b r a
+sama	1.0	s a m a
+studentki	1.0	s t u d e n t k i
+doskonała	1.0	d o s k o n a w a
+bardzo	1.0	b a r dz o
+musisz	1.0	m u sj i S
+moc	1.0	m o c
+opowiadania	1.0	o p o v i a d a n i a
+suwak	1.0	s u v a k
+ziemi	1.0	zj e m i
+it	1.0	i t
+bryki	1.0	b r i2 k i
+syntezy	1.0	s i2 n t e z i2
+godność	1.0	g o d n o sj tsj
+minimum	1.0	m i n i m u m
+podniety	1.0	p o d n i e t i2
+analityk	1.0	a n a l j t i2 k
+mascara	1.0	m a s c a r a
+potęgą	1.0	p o t eo5 g oc5
+firmy	1.0	f i r m i2
+zasobów	1.0	z a s o b u v
+stworzoną	1.0	s t f o Z o n oc5
+przekracza	1.0	p S e k r a tS a
+wczołgiwanie	1.0	v tS o w g i v a n i e
+przekonałaś	1.0	p S e k o n a w a sj
+centrum	1.0	c e n t r u m
+krył	1.0	k r i2 w
+umysł	1.0	u m i2 s w
+uważasz	1.0	u v a Z a S
+chorobie	1.0	h o r o b i e
+urzędnik	1.0	u Z eo5 d n i k
+katedrę	1.0	k a t e d r e
+wszelkie	1.0	v S e l k i e
+wymasuj	1.0	v i2 m a s u j
+strategię	1.0	s t r a t e g i e
+osoby	1.0	o s o b i2
+nazywany	1.0	n a z i2 v a n i2
+nowemu	1.0	n o v e m u
+ja	1.0	j a
+popatrzeć	1.0	p o p a t S e tsj
+praca	1.0	p r a c a
+zapisywałem	1.0	z a p i s i2 v a w e m
+dochodowego	1.0	d o h o d o v e g o
+lekcji	1.0	l e k c j i
+miałoby	1.0	m i a w o b i2
+wyprodukował	1.0	v i2 p r o d u k o v a w
+pseudonimem	1.0	p s e u d o n i m e m
+strasznie	1.0	s t r a S n i e
+romanse	1.0	r o m a n s e
+głębia	1.0	g w eo5 b i a
+eseju	1.0	e s e j u
+lekarzy	1.0	l e k a Z i2
+wnet	1.0	v n e t
+weselą	1.0	v e s e l oc5
+platonie	1.0	p l a t o n i e
+drogą	1.0	d r o g oc5
+wyobrazić	1.0	v i2 o b r a zj i tsj
+wrzask	1.0	v Z a s k
+był	1.0	b i2 w
+urządzenia	1.0	u Z oc5 dz e n i a
+chojnickiej	1.0	h o j n i c k i e j
+30	1.0	o
+william	1.0	v i l l j a m
+skrwawiony	1.0	s k r v a v i o n i2
+pustki	1.0	p u s t k i
+dwunastu	1.0	d v u n a s t u
+pewnością	1.0	p e v n o sj tsj oc5
+fiołkami	1.0	f i o w k a m i
+sceptyk	1.0	s c e p t i2 k
+pokazującą	1.0	p o k a z u j oc5 c oc5
+ceremonii	1.0	c e r e m o n i i
+napastnicy	1.0	n a p a s t n i c i2
+bujasz	1.0	b u j a S
+przyjmują	1.0	p S i2 j m u j oc5
+prawnych	1.0	p r a v n i2 h
+frontpage	1.0	f r o n t p a g e
+wypraszając	1.0	v i2 p r a S a j oc5 c
+naszemu	1.0	n a S e m u
+swej	1.0	s v e j
+antyku	1.0	a n t i2 k u
+ambitni	1.0	a m b i t n i
+bruyere	1.0	b r u i2 e r e
+lovers	1.0	l o f e r s
+żwawo	1.0	Z v a v o
+zła	1.0	z w a
+grudka	1.0	g r u t k a
+kaca	1.0	k a c a
+tworzywa	1.0	t f o Z i2 v a
+pieszczotą	1.0	p i e S tS o t oc5
+wyścigu	1.0	v i2 sj tsj i g u
+zostało	1.0	z o s t a w o
+bezkarnie	1.0	b e z k a r n i e
+religijną	1.0	r e l j g i j n oc5
+supermocny	1.0	s u p e r m o c n i2
+opatom	1.0	o p a t o m
+bólu	1.0	b u l u
+rozłąki	1.0	r o z w oc5 k i
+lubiłem	1.0	l u b i w e m
+aplikacji	1.0	a p l j k a c j i
+masaże	1.0	m a s a Z e
+przestrogi	1.0	p S e s t r o g i
+rycerzom-	1.0	r i2 c e Z o m e
+dotykają	1.0	d o t i2 k a j oc5
+czynów	1.0	tS i2 n u v
+aromatycznych	1.0	a r o m a t i2 tS n i2 h
+piraci	1.0	p i r a tsj i
+sieci	1.0	sj e tsj i
+obodryci	1.0	o b o d r i2 tsj i
+wetknąć	1.0	v e t k n oc5 tsj
+u	1.0	u
+stanie	1.0	s t a n i e
+ich	1.0	i h
+punktualności	1.0	p u n k t u a l n o sj tsj i
+odpadł	1.0	o d p a d w
+układzie	1.0	u k w a dzj e
+dziwne	1.0	dzj i v n e
+gburstwa	1.0	g b u r s t f a
+jądrze	1.0	j oc5 d Z e
+zrozumieniu	1.0	z r o z u m i e n i u
+przestrzeni	1.0	p S e s t S e n i
+wstąpi	1.0	v s t oc5 p i
+swoje	1.0	s v o j e
+orfeusz	1.0	o r f e u S
+przygotowanie	1.0	p S i2 g o t o v a n i e
+działo	1.0	dzj a w o
+francuskiego	1.0	f r a n c u s k i e g o
+pana	1.0	p a n a
+stosowanie	1.0	s t o s o v a n i e
+znajduje	1.0	z n a j d u j e
+shu-king	1.0	s h u k i n g
+kamieni	1.0	k a m i e n i
+poszła	1.0	p o S w a
+menu	1.0	m e n u
+przynosi	1.0	p S i2 n o sj i
+posłał	1.0	p o s w a w
+wielu	1.0	v i e l u
+warto	1.0	v a r t o
+autorytet	1.0	a u t o r i2 t e t
+niemal	1.0	n i e m a l
+największy	1.0	n a j v i eo5 k S i2
+30-letnia	1.0	o l e t n i a
+charakterystyczna	1.0	h a r a k t e r i2 s t i2 tS n a
+opłakania	1.0	o p w a k a n i a
+słyszałem	1.0	s w i2 S a w e m
+odrealniony	1.0	o d r e a l n i o n i2
+najlepszej	1.0	n a j l e p S e j
+zostaniemy	1.0	z o s t a n i e m i2
+wieki	1.0	v i e k i
+smaczna	1.0	s m a tS n a
+lekceważyć	1.0	l e k c e v a Z i2 tsj
+odrazy	1.0	o d r a z i2
+takie	1.0	t a k i e
+latać	1.0	l a t a tsj
+coś	1.0	c o sj
+mistrza	1.0	m i s t S a
+wieków	1.0	v i e k u v
+ukazującego	1.0	u k a z u j oc5 c e g o
+ciężar	1.0	tsj eo5 Z a r
+ojca	1.0	o j c a
+lusterka	1.0	l u s t e r k a
+literowe	1.0	l j t e r o v e
+kupić	1.0	k u p i tsj
+zapytam	1.0	z a p i2 t a m
+mój	1.0	m u j
+będziesz	1.0	b eo5 dzj e S
+opat	1.0	o p a t
+pięknego	1.0	p i eo5 k n e g o
+obserwatora	1.0	o b s e r v a t o r a
+pomińmy	1.0	p o m i n~ m i2
+możliwe	1.0	m o Z l j v e
+przyznać	1.0	p S i2 z n a tsj
+następujących	1.0	n a s t eo5 p u j oc5 c i2 h
+mama	1.0	m a m a
+kształtów	1.0	k S t a w t u v
+przyjmuję	1.0	p S i2 j m u j e
+pejzaż	1.0	p e j z a S
+rzuceniu	1.0	Z u c e n i u
+mocami	1.0	m o c a m i
+on	1.0	o n
+wiatrem	1.0	v i a t r e m
+znanych	1.0	z n a n i2 h
+unosisz	1.0	u n o sj i S
+cat	1.0	c a t
+umieli	1.0	u m i e l j
+puste	1.0	p u s t e
+obciążeniem	1.0	o b tsj oc5 Z e n i e m
+rodzice	1.0	r o dzj i c e
+wskazać	1.0	v s k a z a tsj
+uciekł	1.0	u tsj e k w
+czyn	1.0	tS i2 n
+temat	1.0	t e m a t
+materialność	1.0	m a t e r j a l n o sj tsj
+obiektów	1.0	o b i e k t u v
+księstwa	1.0	k sj eo5 s t f a
+adrenaliny	1.0	a d r e n a l j n i2
+and	1.0	a n d
+sade	1.0	s a d e
+otrucia	1.0	o t r u tsj a
+taki	1.0	t a k i
+środka	1.0	sj r o t k a
+medycyna	1.0	m e d i2 c i2 n a
+konflikt	1.0	k o n f l j k t
+uczył	1.0	u tS i2 w
+przeszywał	1.0	p S e S i2 v a w
+pozwala	1.0	p o z v a l a
+spoczywające	1.0	s p o tS i2 v a j oc5 c e
+ruszył	1.0	r u S i2 w
+z	1.0	z
+produktów	1.0	p r o d u k t u v
+zleciało	1.0	z l e tsj a w o
+najszybciej	1.0	n a j S i2 b tsj e j
+aktorska	1.0	a k t o r s k a
+ot	1.0	o t
+antycznej	1.0	a n t i2 tS n e j
+fabryką	1.0	f a b r i2 k oc5
+skarpety	1.0	s k a r p e t i2
+wałeczki	1.0	v a w e tS k i
+naruszających	1.0	n a r u S a j oc5 c i2 h
+radzić	1.0	r a dzj i tsj
+znak	1.0	z n a k
+mieli	1.0	m i e l j
+natury	1.0	n a t u r i2
+zostaną	1.0	z o s t a n oc5
+warszawscy	1.0	v a r S a v s c i2
+całą	1.0	c a w oc5
+enough	1.0	e n o u g h
+mózgu	1.0	m u z g u
+wypełnia	1.0	v i2 p e w n i a
+dopingowała	1.0	d o p i n g o v a w a
+marzyła	1.0	m a Z i2 w a
+hermes	1.0	h e r m e s
+chromosom	1.0	h r o m o s o m
+choć	1.0	h o tsj
+zakonem	1.0	z a k o n e m
+zamknął	1.0	z a m k n oc5 w
+dorzucić	1.0	d o Z u tsj i tsj
+biegali	1.0	b i e g a l j
+ciekawe	1.0	tsj e k a v e
+urodził	1.0	u r o dzj i w
+odstępujesz	1.0	o d s t eo5 p u j e S
+postaciach	1.0	p o s t a tsj a h
+śląska	1.0	sj l oc5 s k a
+poganami	1.0	p o g a n a m i
+powodzenia	1.0	p o v o dz e n i a
+członek	1.0	tS w o n e k
+nauczyciel	1.0	n a u tS i2 tsj e l
+zewnętrznej	1.0	z e v n eo5 t S n e j
+mu	1.0	m u
+naświetlonej	1.0	n a sj v i e t l o n e j
+kujawy	1.0	k u j a v i2
+warstwą	1.0	v a r s t f oc5
+pluta	1.0	p l u t a
+ów	1.0	u v
+nastolatki	1.0	n a s t o l a t k i
+powątpiewać	1.0	p o v oc5 t p i e v a tsj
+znacznie	1.0	z n a tS n i e
+drugiej	1.0	d r u g i e j
+układ	1.0	u k w a d
+pociągnęła	1.0	p o tsj oc5 g n eo5 w a
+kompletnej	1.0	k o m p l e t n e j
+względu	1.0	v z g l eo5 d u
+poszukać	1.0	p o S u k a tsj
+pokój	1.0	p o k u j
+uchodzą	1.0	u h o dz oc5
+eklektyczną	1.0	e k l e k t i2 tS n oc5
+czytelników	1.0	tS i2 t e l n i k u v
+krótkie	1.0	k r u t k i e
+czyli	1.0	tS i2 l j
+pozostaje	1.0	p o z o s t a j e
+politykiem	1.0	p o l j t i2 k i e m
+zachwyt	1.0	z a h v i2 t
+gronostajami	1.0	g r o n o s t a j a m i
+zamieszkałych	1.0	z a m i e S k a w i2 h
+wierzysz	1.0	v i e Z i2 S
+wyznawców-	1.0	v i2 z n a v c u v
+odpowiedzialnego	1.0	o d p o v i e dzj a l n e g o
+tłumaczy	1.0	t w u m a tS i2
+jezusa	1.0	j e z u s a
+ściany	1.0	sj tsj a n i2
+niekłamaną	1.0	n i e k w a m a n oc5
+dotrzeć	1.0	d o t S e tsj
+ćwiczy	1.0	tsj v i tS i2
+napełnia	1.0	n a p e w n i a
+upierzone	1.0	u p i e Z o n e
+szmat	1.0	S m a t
+stąd	1.0	s t oc5 d
+izraela	1.0	i z r a e l a
+łodzie	1.0	w o dzj e
+głosów	1.0	g w o s u v
+trąbce	1.0	t r oc5 b c e
+skoro	1.0	s k o r o
+zdjął	1.0	z d j oc5 w
+mimo	1.0	m i m o
+to	1.0	t o
+gra	1.0	g r a
+widowiska	1.0	v i d o v i s k a
+biodra	1.0	b i o d r a
+poznania	1.0	p o z n a n i a
+wiarygodna	1.0	v i a r i2 g o d n a
+pięć	1.0	p i eo5 tsj
+akwinu-	1.0	a k f i n u
+cesarski-	1.0	c e s a r s k i e
+poprzez	1.0	p o p S e z
+daleki	1.0	d a l e k i
+testującej	1.0	t e s t u j oc5 c e j
+zmysłach	1.0	z m i2 s w a h
+awantury	1.0	a v a n t u r i2
+czoło	1.0	tS o w o
+fryzjerem	1.0	f r i2 z j e r e m
+tulum	1.0	t u l u m
+tej	1.0	t e j
+krainy	1.0	k r a i n i2
+camus	1.0	c a m u s
+podczas	1.0	p o d tS a s
+sprzyjający	1.0	s p S i2 j a j oc5 c i2
+diana	1.0	d j a n a
+uciekał	1.0	u tsj e k a w
+boże	1.0	b o Z e
+budowa	1.0	b u d o v a
+wysokie	1.0	v i2 s o k i e
+kąśliwe	1.0	k oc5 sj l j v e
+trzpieniach	1.0	t S p i e n i a h
+piłki	1.0	p i w k i
+marce	1.0	m a r c e
+studiujesz	1.0	s t u d j u j e S
+dokumentów	1.0	d o k u m e n t u v
+ogarnia	1.0	o g a r n i a
+gotów	1.0	g o t u v
+niebiosa	1.0	n i e b i o s a
+różu	1.0	r u Z u
+pollard	1.0	p o l l a r d
+oparzenia	1.0	o p a Z e n i a
+mordercy	1.0	m o r d e r c i2
+zwane	1.0	z v a n e
+zwariowała	1.0	z v a r j o v a w a
+dotychczas	1.0	d o t i2 h tS a s
+amfetaminę	1.0	a m f e t a m i n e
+bije	1.0	b i j e
+przemieszcza	1.0	p S e m i e S tS a
+1987	1.0	v i eo5 t sj oc5 e
+uzależnienia	1.0	u z a l e Z n i e n i a
+zatoka	1.0	z a t o k a
+aktorskiego	1.0	a k t o r s k i e g o
+szlachetnych	1.0	S l a h e t n i2 h
+którzy	1.0	k t u Z i2
+mężowi	1.0	m eo5 Z o v i
+umieścimy	1.0	u m i e sj tsj i m i2
+ziemią	1.0	zj e m i oc5
+sytuacją	1.0	s i2 t u a c j oc5
+doniesienia	1.0	d o n i e sj e n i a
+mordercami	1.0	m o r d e r c a m i
+temu	1.0	t e m u
+cierpienia	1.0	tsj e r p i e n i a
+maską	1.0	m a s k oc5
+siebie	1.0	sj e b i e
+opowieść	1.0	o p o v i e sj tsj
+nieudana	1.0	n i e u d a n a
+bez	1.0	b e z
+niczego	1.0	n i tS e g o
+krwawego	1.0	k r v a v e g o
+pracą	1.0	p r a c oc5
+ręki	1.0	r eo5 k i
+dwa-	1.0	d v a e
+przyjacielem	1.0	p S i2 j a tsj e l e m
+poły	1.0	p o w i2
+czajki	1.0	tS a j k i
+nadmiernym	1.0	n a d m i e r n i2 m
+ludu	1.0	l u d u
+lasek	1.0	l a s e k
+alkoholu	1.0	a l k o h o l u
+dziwem	1.0	dzj i v e m
+talenty	1.0	t a l e n t i2
+gorzej	1.0	g o Z e j
+wasza	1.0	v a S a
+aleksy	1.0	a l e k s i2
+zasięgiem	1.0	z a sj eo5 g i e m
+rzymskiej	1.0	Z i2 m s k i e j
+zgiełku	1.0	z g i e w k u
+znaczy	1.0	z n a tS i2
+chodzenia	1.0	h o dz e n i a
+loży	1.0	l o Z i2
+stróża	1.0	s t r u Z a
+przyjmowali	1.0	p S i2 j m o v a l j
+zapraszam	1.0	z a p r a S a m
+prostak	1.0	p r o s t a k
+arcydzieło	1.0	a r c i2 dzj e w o
+trwania	1.0	t r v a n i a
+gumy	1.0	g u m i2
+dół-	1.0	d u w e
+komputery	1.0	k o m p u t e r i2
+skazani-	1.0	s k a z a n i e
+rzymska	1.0	Z i2 m s k a
+pomaga	1.0	p o m a g a
+tajemnicy	1.0	t a j e m n i c i2
+nadwagę	1.0	n a d v a g e
+szalem	1.0	S a l e m
+ambicji	1.0	a m b i c j i
+poruszasz	1.0	p o r u S a S
+mogą	1.0	m o g oc5
+klasyków	1.0	k l a s i2 k u v
+przesławny	1.0	p S e s w a v n i2
+rany	1.0	r a n i2
+dział	1.0	dzj a w
+odrestaurowane	1.0	o d r e s t a u r o v a n e
+niektóre	1.0	n i e k t u r e
+drogi	1.0	d r o g i
+wykorzystujesz	1.0	v i2 k o Z i2 s t u j e S
+zaczyn	1.0	z a tS i2 n
+sprzedaż	1.0	s p S e d a S
+postawie	1.0	p o s t a v i e
+internetowym	1.0	i n t e r n e t o v i2 m
+chwilce	1.0	h v i l c e
+bardziej	1.0	b a r dzj e j
+przytyłam	1.0	p S i2 t i2 w a m
+216	1.0	d o S e s
+lub	1.0	l u b
+łodzią	1.0	w o dzj oc5
+spadkobiercy	1.0	s p a t k o b i e r c i2
+zabawne	1.0	z a b a v n e
+zakonnika	1.0	z a k o n n i k a
+anna	1.0	a n n a
+interfejsu	1.0	i n t e r f e j s u
+muszkę	1.0	m u S k e
+specjalistów	1.0	s p e c j a l j s t u v
+pokornym	1.0	p o k o r n i2 m
+absalom	1.0	a b s a l o m
+orfeusza	1.0	o r f e u S a
+wybór	1.0	v i2 b u r
+lotnictwa	1.0	l o t n i c t f a
+zdemoralizowanego	1.0	z d e m o r a l j z o v a n e g o
+wiarygodnej	1.0	v i a r i2 g o d n e j
+zalegał	1.0	z a l e g a w
+zestawów	1.0	z e s t a v u v
+głośnika	1.0	g w o sj n i k a
+przyjściem	1.0	p S i2 j sj tsj e m
+wylewali	1.0	v i2 l e v a l j
+widziała	1.0	v i dzj a w a
+nowe	1.0	n o v e
+apostolstwa	1.0	a p o s t o l s t f a
+osjan	1.0	o s j a n
+szesnastolatek	1.0	S e s n a s t o l a t e k
+postrzegany	1.0	p o s t S e g a n i2
+wiersze	1.0	v i e r S e
+wyniku	1.0	v i2 n i k u
+chwili	1.0	h v i l j
+według	1.0	v e d w u g
+potężnego	1.0	p o t eo5 Z n e g o
+alkohol	1.0	a l k o h o l
+umarł	1.0	u m a r w
+chrystus	1.0	h r i2 s t u s
+baśniach	1.0	b a sj n i a h
+zdecydowanych	1.0	z d e c i2 d o v a n i2 h
+tymi	1.0	t i2 m i
+wyładniała	1.0	v i2 w a d n i a w a
+nowy	1.0	n o v i2
+lęków	1.0	l eo5 k u v
+widać	1.0	v i d a tsj
+spopielałych	1.0	s p o p i e l a w i2 h
+napisał	1.0	n a p i s a w
+przykłady	1.0	p S i2 k w a d i2
+18	1.0	s t e
+teatrze	1.0	t e a t S e
+wyżej	1.0	v i2 Z e j
+jadowitego	1.0	j a d o v i t e g o
+aktorki	1.0	a k t o r k i
+formosus	1.0	f o r m o s u s
+napotkanego	1.0	n a p o t k a n e g o
+nocy	1.0	n o c i2
+botanik	1.0	b o t a n i k
+zadbać	1.0	z a d b a tsj
+dobroczynne	1.0	d o b r o tS i2 n n e
+okresie	1.0	o k r e sj e
+wybacza	1.0	v i2 b a tS a
+dekoracja	1.0	d e k o r a c j a
+równolegle	1.0	r u v n o l e g l e
+ucho	1.0	u h o
+procesy	1.0	p r o c e s i2
+1930)-	1.0	v i eo5 t o e
+rybka	1.0	r i2 b k a
+styl	1.0	s t i2 l
+zajęcia	1.0	z a j eo5 tsj a
+oparty	1.0	o p a r t i2
+odwagę	1.0	o d v a g e
+dołącz	1.0	d o w oc5 tS
+płeć	1.0	p w e tsj
+wieprz	1.0	v i e p S
+wy	1.0	v i2
+nieustannie	1.0	n i e u s t a n n i e
+sekwencję	1.0	s e k f e n c j e
+postęp	1.0	p o s t eo5 p
+wykryć	1.0	v i2 k r i2 tsj
+zbudowałem	1.0	z b u d o v a w e m
+warianowa	1.0	v a r j a n o v a
+pochyla	1.0	p o h i2 l a
+podrywał	1.0	p o d r i2 v a w
+twórcza	1.0	t f u r tS a
+uczeńców	1.0	u tS e n~ c u v
+ducha	1.0	d u h a
+przytoczyć	1.0	p S i2 t o tS i2 tsj
+zagarnąć	1.0	z a g a r n oc5 tsj
+najtrudniejszych	1.0	n a j t r u d n i e j S i2 h
+modlitwie	1.0	m o d l j t f i e
+larry	1.0	l a r r i2
+marcel	1.0	m a r c e l
+przeciwnika	1.0	p S e tsj i v n i k a
+wojennik	1.0	v o j e n n i k
+miejscu	1.0	m i e j s c u
+rację	1.0	r a c j e
+nieładzie	1.0	n i e w a dzj e
+henryka	1.0	h e n r i2 k a
+przerywamy	1.0	p S e r i2 v a m i2
+niewielka	1.0	n i e v i e l k a
+chcieli	1.0	h tsj e l j
+tercjami	1.0	t e r c j a m i
+głębi	1.0	g w eo5 b i
+chodziłem	1.0	h o dzj i w e m
+zaprząta	1.0	z a p S oc5 t a
+pszczoły	1.0	p S tS o w i2
+magiczna	1.0	m a g i tS n a
+gazety	1.0	g a z e t i2
+pokaż	1.0	p o k a S
+narodzin	1.0	n a r o dzj i n
+jonatana	1.0	j o n a t a n a
+końców	1.0	k o n~ c u v
+burdel	1.0	b u r d e l
+pazura	1.0	p a z u r a
+program	1.0	p r o g r a m
+lepiej	1.0	l e p i e j
+ramieniu	1.0	r a m i e n i u
+rock	1.0	r o c k
+powietrze	1.0	p o v i e t S e
+poniekąd	1.0	p o n i e k oc5 d
+widywać	1.0	v i d i2 v a tsj
+podobałaś	1.0	p o d o b a w a sj
+dwóch	1.0	d v u h
+dziękuje	1.0	dzj eo5 k u j e
+wyprzedaże	1.0	v i2 p S e d a Z e
+polach	1.0	p o l a h
+raduje	1.0	r a d u j e
+obitej	1.0	o b i t e j
+prozaiczne	1.0	p r o z a i tS n e
+arcydziełem	1.0	a r c i2 dzj e w e m
+sypkie	1.0	s i2 p k i e
+orderu	1.0	o r d e r u
+al-afghani	1.0	a l a f g h a n i
+nieruchomego	1.0	n i e r u h o m e g o
+dziękowali	1.0	dzj eo5 k o v a l j
+wytrwałych	1.0	v i2 t r v a w i2 h
+miejscem	1.0	m i e j s c e m
+szans	1.0	S a n s
+wszystko	1.0	v S i2 s t k o
+okazało	1.0	o k a z a w o
+przekraczają	1.0	p S e k r a tS a j oc5
+wyrażające	1.0	v i2 r a Z a j oc5 c e
+instalowany	1.0	i n s t a l o v a n i2
+księciem	1.0	k sj eo5 tsj e m
+studenci	1.0	s t u d e n tsj i
+pewność	1.0	p e v n o sj tsj
+fizycznego	1.0	f i z i2 tS n e g o
+mąkę	1.0	m oc5 k e
+odnośnik	1.0	o d n o sj n i k
+odróżnieniu	1.0	o d r u Z n i e n i u
+room	1.0	r o o m
+półwysep	1.0	p u w v i2 s e p
+rzekę	1.0	Z e k e
+al-jihad	1.0	a l j j h a d
+głowie	1.0	g w o v i e
+wszechistnienie	1.0	v S e h i s t n i e n i e
+leżał	1.0	l e Z a w
+wielokroć	1.0	v i e l o k r o tsj
+9	1.0	eo5 tsj
+rozpocząłeś	1.0	r o z p o tS oc5 w e sj
+zerwał	1.0	z e r v a w
+berenta	1.0	b e r e n t a
+konsekwencje	1.0	k o n s e k f e n c j e
+pojawiać	1.0	p o j a v i a tsj
+kilkunastu	1.0	k i l k u n a s t u
+płakałam	1.0	p w a k a w a m
+życzliwemu	1.0	Z i2 tS l j v e m u
+kilogramów	1.0	k i l o g r a m u v
+wojciech	1.0	v o j tsj e h
+waszą	1.0	v a S oc5
+szpulowych	1.0	S p u l o v i2 h
+tysiąc	1.0	t i2 tsj oc5 c
+kinie	1.0	k i n i e
+postaramy	1.0	p o s t a r a m i2
+przedmiotów-	1.0	p S e d m i o t u v
+zamieszczają	1.0	z a m i e S tS a j oc5
+głośno	1.0	g w o sj n o
+zainstalować	1.0	z a i n s t a l o v a tsj
+pełnej	1.0	p e w n e j
+oburącz	1.0	o b u r oc5 tS
+makatek	1.0	m a k a t e k
+całkowitego	1.0	c a w k o v i t e g o
+poskramiającego	1.0	p o s k r a m i a j oc5 c e g o
+bóg-	1.0	b u g e
+ślubną	1.0	sj l u b n oc5
+całemu	1.0	c a w e m u
+światłu	1.0	sj v i a t w u
+odwołując	1.0	o d v o w u j oc5 c
+b-24	1.0	b e d tS t
+pokłóciła	1.0	p o k w u tsj i w a
+mały	1.0	m a w i2
+striptiz	1.0	s t r j p t j z
+byłby	1.0	b i2 w b i2
+rzesze	1.0	Z e S e
+umiem	1.0	u m i e m
+najukochańsze	1.0	n a j u k o h a n~ S e
+byli	1.0	b i2 l j
+maksymy	1.0	m a k s i2 m i2
+wrócić	1.0	v r u tsj i tsj
+automatycznie	1.0	a u t o m a t i2 tS n i e
+licząc	1.0	l j tS oc5 c
+całkowitej	1.0	c a w k o v i t e j
+zakładamy	1.0	z a k w a d a m i2
+oniryczna	1.0	o n i r i2 tS n a
+dźwiękowej	1.0	dzj v i eo5 k o v e j
+zarys	1.0	z a r i2 s
+dudniących	1.0	d u d n i oc5 c i2 h
+ceglanymi	1.0	c e g l a n i2 m i
+produkcję	1.0	p r o d u k c j e
+byłeś	1.0	b i2 w e sj
+jak	1.0	j a k
+ją	1.0	j oc5
+leży	1.0	l e Z i2
+przyszedł	1.0	p S i2 S e d w
+powinni	1.0	p o v i n n i
+aktorką	1.0	a k t o r k oc5
+dołączania	1.0	d o w oc5 tS a n i a
+życzenia	1.0	Z i2 tS e n i a
+porozmawiaj	1.0	p o r o z m a v i a j
+czego	1.0	tS e g o
+przyjaźniach	1.0	p S i2 j a zj n i a h
+najwcześniejszy	1.0	n a j v tS e sj n i e j S i2
+ukryte	1.0	u k r i2 t e
+czułych	1.0	tS u w i2 h
+dwa	1.0	d v a
+bestsellerów	1.0	b e s t s e l l e r u v
+osadzone	1.0	o s a dz o n e
+piętnaście	1.0	p i eo5 t n a sj tsj e
+krain	1.0	k r a i n
+paolo	1.0	p a o l o
+ulubiona	1.0	u l u b i o n a
+nadzieję	1.0	n a dzj e j e
+cenzorskich	1.0	c e n z o r s k i h
+każdy	1.0	k a Z d i2
+technologia	1.0	t e h n o l o g i a
+dom	1.0	d o m
+grudami	1.0	g r u d a m i
+ujście	1.0	u j sj tsj e
+elite	1.0	e l j t e
+poza	1.0	p o z a
+reguł	1.0	r e g u w
+zwyczajnie	1.0	z v i2 tS a j n i e
+ostro	1.0	o s t r o
+ochoty	1.0	o h o t i2
+warg	1.0	v a r g
+oprzeć	1.0	o p S e tsj
+eurydykę	1.0	e u r i2 d i2 k e
+prawdą	1.0	p r a v d oc5
+absolutny	1.0	a b s o l u t n i2
+zasadza	1.0	z a s a dz a
+wszystkich	1.0	v S i2 s t k i h
+przecież	1.0	p S e tsj e S
+katedr	1.0	k a t e d r
+już	1.0	j u S
+autorów	1.0	a u t o r u v
+kręgach	1.0	k r eo5 g a h
+sygnał	1.0	s i2 g n a w
+zamieszczamy	1.0	z a m i e S tS a m i2
+pozostawili	1.0	p o z o s t a v i l j
+wypuścić	1.0	v i2 p u sj tsj i tsj
+drugoligowy	1.0	d r u g o l j g o v i2
+rozbudowanym	1.0	r o z b u d o v a n i2 m
+palcami	1.0	p a l c a m i
+bezprawia	1.0	b e z p r a v i a
+sarabandę	1.0	s a r a b a n d e
+tobą	1.0	t o b oc5
+buckle'a	1.0	b u c k l e a
+rękami	1.0	r eo5 k a m i
+epp	1.0	e p p
+iwo	1.0	i v o
+dziś	1.0	dzj i sj
+mnożenia	1.0	m n o Z e n i a
+mniejsze	1.0	m n i e j S e
+strażników	1.0	s t r a Z n i k u v
+iluzyjnym	1.0	i l u z i2 j n i2 m
+autentyczne	1.0	a u t e n t i2 tS n e
+adorowali	1.0	a d o r o v a l j
+długowłosych	1.0	d w u g o v w o s i2 h
+momencie	1.0	m o m e n tsj e
+ci	1.0	tsj i
+autor	1.0	a u t o r
+zapasowa	1.0	z a p a s o v a
+znaków	1.0	z n a k u v
+tajemnica	1.0	t a j e m n i c a
+domową	1.0	d o m o v oc5
+malezja	1.0	m a l e z j a
+tę	1.0	t e
+młotem	1.0	m w o t e m
+organizmu	1.0	o r g a n i z m u
+obszarów	1.0	o b S a r u v
+kaset	1.0	k a s e t
+pustą	1.0	p u s t oc5
+błogosławiona	1.0	b w o g o s w a v i o n a
+monako	1.0	m o n a k o
+mała	1.0	m a w a
+zł	1.0	z w
+chrobrego	1.0	h r o b r e g o
+maja	1.0	m a j a
+wieczoru	1.0	v i e tS o r u
+drewnianą	1.0	d r e v n i a n oc5
+pomysł	1.0	p o m i2 s w
+1918)-	1.0	v i eo5 t o o sj e
+pragmatycznym	1.0	p r a g m a t i2 tS n i2 m
+pisać	1.0	p i s a tsj
+filmy	1.0	f i l m i2
+pakietu	1.0	p a k i e t u
+dobrem	1.0	d o b r e m
+nadal	1.0	n a d a l
+danie	1.0	d a n i e
+dorównuje	1.0	d o r u v n u j e
+lat-	1.0	l a t
+korzystasz	1.0	k o Z i2 s t a S
+obsesja	1.0	o b s e s j a
+podtrzymuje	1.0	p o d t S i2 m u j e
+powielać	1.0	p o v i e l a tsj
+nbc	1.0	n b c
+interwencji	1.0	i n t e r v e n c j i
+historie	1.0	h j s t o r j e
+warner	1.0	v a r n e r
+nabierają	1.0	n a b i e r a j oc5
+dolinę	1.0	d o l j n e
+zbliżało	1.0	z b l j Z a w o
+umyka	1.0	u m i2 k a
+wpłynie	1.0	v p w i2 n i e
+uśmiechnięty	1.0	u sj m i e h n i eo5 t i2
+dotrzymaj	1.0	d o t S i2 m a j
+terminów	1.0	t e r m i n u v
+opiekunie	1.0	o p i e k u n i e
+bądź	1.0	b oc5 dzj
+chlubnie	1.0	h l u b n i e
+czyni	1.0	tS i2 n i
+wielką	1.0	v i e l k oc5
+tego	1.0	t e g o
+kanapie	1.0	k a n a p i e
+maurice	1.0	m a u r j c e
+wzdłuż	1.0	v z d w u S
+sądzenia	1.0	s oc5 dz e n i a
+jedna	1.0	j e d n a
+obić	1.0	o b i tsj
+niteczek	1.0	n i t e tS e k
+zwierciadełka	1.0	z v i e r tsj a d e w k a
+brzegu	1.0	b Z e g u
+zaś-	1.0	z a sj e
+skarbem	1.0	s k a r b e m
+mogiły	1.0	m o g i w i2
+polskim	1.0	p o l s k i m
+momentom	1.0	m o m e n t o m
+flood	1.0	f l o o d
+będą	1.0	b eo5 d oc5
+skalę	1.0	s k a l e
+przekrwioną	1.0	p S e k r v i o n oc5
+wersji	1.0	v e r s j i
+cierpienie	1.0	tsj e r p i e n i e
+będzie	1.0	b eo5 dzj e
+pietrowicz	1.0	p i e t r o v i tS
+naturalnym	1.0	n a t u r a l n i2 m
+czarującego	1.0	tS a r u j oc5 c e g o
+powrocie	1.0	p o v r o tsj e
+cegiełką	1.0	c e g i e w k oc5
+odkrywa	1.0	o t k r i2 v a
+oprzyj	1.0	o p S i2 j
+przekazywania	1.0	p S e k a z i2 v a n i a
+twej	1.0	t f e j
+nierychło	1.0	n i e r i2 h w o
+praktykom	1.0	p r a k t i2 k o m
+nikczemność	1.0	n i k tS e m n o sj tsj
+osobliwy	1.0	o s o b l j v i2
+postawienia	1.0	p o s t a v i e n i a
+priorytetów	1.0	p r j o r i2 t e t u v
+instrumentu	1.0	i n s t r u m e n t u
+tajemniczy	1.0	t a j e m n i tS i2
+poczucia	1.0	p o tS u tsj a
+gorączkowo	1.0	g o r oc5 tS k o v o
+ważne	1.0	v a Z n e
+zosię	1.0	z o sj i e
+kopia	1.0	k o p i a
+zniszczone	1.0	z n i S tS o n e
+stanowi	1.0	s t a n o v i
+główną	1.0	g w u v n oc5
+zły	1.0	z w i2
+syna	1.0	s i2 n a
+maryjo	1.0	m a r i2 j o
+zanosimy	1.0	z a n o sj i m i2
+sprawy	1.0	s p r a v i2
+obywatel	1.0	o b i2 v a t e l
+statek	1.0	s t a t e k
+pogrążony	1.0	p o g r oc5 Z o n i2
+poznała	1.0	p o z n a w a
+najdoskonalszej	1.0	n a j d o s k o n a l S e j
+puścili	1.0	p u sj tsj i l j
+puckiej	1.0	p u c k i e j
+nieśmiałą	1.0	n i e sj m i a w oc5
+maria	1.0	m a r j a
+niepowodzenia	1.0	n i e p o v o dz e n i a
+cesarza	1.0	c e s a Z a
+otchłanie	1.0	o t h w a n i e
+mówicie	1.0	m u v i tsj e
+kryształów	1.0	k r i2 S t a w u v
+odsyłają	1.0	o d s i2 w a j oc5
+liczbę	1.0	l j tS b e
+niewyrażalne	1.0	n i e v i2 r a Z a l n e
+niefrasobliwość	1.0	n i e f r a s o b l j v o sj tsj
+szwedzcy	1.0	S v e dz c i2
+mudżahedinów	1.0	m u dZ a h e d j n u v
+zazwyczaj	1.0	z a z v i2 tS a j
+pagóry	1.0	p a g u r i2
+zachowania	1.0	z a h o v a n i a
+grafa	1.0	g r a f a
+tadlock	1.0	t a d l o c k
+najniższego	1.0	n a j n i Z S e g o
+udział	1.0	u dzj a w
+władania	1.0	v w a d a n i a
+zmyślone	1.0	z m i2 sj l o n e
+tak-	1.0	t a k
+piwnicą	1.0	p i v n i c oc5
+wierzchu	1.0	v i e Z h u
+kluczowych	1.0	k l u tS o v i2 h
+najzupełniej	1.0	n a j z u p e w n i e j
+przysyłali	1.0	p S i2 s i2 w a l j
+marszczy	1.0	m a r S tS i2
+księżyca	1.0	k sj eo5 Z i2 c a
+złowieszczego	1.0	z w o v i e S tS e g o
+wszędzie	1.0	v S eo5 dzj e
+żałuję	1.0	Z a w u j e
+talentem	1.0	t a l e n t e m
+północy	1.0	p u w n o c i2
+plotynie	1.0	p l o t i2 n i e
+bratem	1.0	b r a t e m
+patrzeć	1.0	p a t S e tsj
+illustrated	1.0	i l l u s t r a t e d
+głębin	1.0	g w eo5 b i n
+człowiecza	1.0	tS w o v i e tS a
+ułożyły	1.0	u w o Z i2 w i2
+intrygującą	1.0	i n t r i2 g u j oc5 c oc5
+przyszły	1.0	p S i2 S w i2
+pociech	1.0	p o tsj e h
+prawdziwych	1.0	p r a v dzj i v i2 h
+osób	1.0	o s u b
+chcące	1.0	h c oc5 c e
+wycięto	1.0	v i2 tsj eo5 t o
+błędu	1.0	b w eo5 d u
+port)-	1.0	p o r t e
+że	1.0	Z e
+ni	1.0	n i
+porażonej	1.0	p o r a Z o n e j
+kierujące	1.0	k i e r u j oc5 c e
+niej	1.0	n i e j
+ojcu	1.0	o j c u
+usta	1.0	u s t a
+najwyższym	1.0	n a j v i2 Z S i2 m
+zdarzają	1.0	z d a Z a j oc5
+pełną	1.0	p e w n oc5
+rozbiegany	1.0	r o z b i e g a n i2
+źródeł	1.0	zj r u d e w
+sport	1.0	s p o r t
+cień	1.0	tsj e n~
+odpowiedzią	1.0	o d p o v i e dzj oc5
+aspekty	1.0	a s p e k t i2
+stanowiska-	1.0	s t a n o v i s k a e
+dał	1.0	d a w
+stanu	1.0	s t a n u
+okute	1.0	o k u t e
+unicestwienia	1.0	u n i c e s t f i e n i a
+antyutopii	1.0	a n t i2 u t o p i i
+wyprawa	1.0	v i2 p r a v a
+rzecz	1.0	Z e tS
+herman-	1.0	h e r m a n
+wyzwanie	1.0	v i2 z v a n i e
+słowo	1.0	s w o v o
+napadnięty	1.0	n a p a d n i eo5 t i2
+ciepły	1.0	tsj e p w i2
+deluxe	1.0	d e l u k s e
+145	1.0	s t o tS n tsj
+obywatele	1.0	o b i2 v a t e l e
+zakonu	1.0	z a k o n u
+prosił	1.0	p r o sj i w
+polemizuje	1.0	p o l e m i z u j e
+unoszą	1.0	u n o S oc5
+najważniejsze	1.0	n a j v a Z n i e j S e
+buying	1.0	b u i2 i n g
+kijowskie	1.0	k i j o v s k i e
+wolnego	1.0	v o l n e g o
+zespołu	1.0	z e s p o w u
+największą	1.0	n a j v i eo5 k S oc5
+wód	1.0	v u d
+stajennymi	1.0	s t a j e n n i2 m i
+wroga-brata	1.0	v r o g a b r a t a
+ciszy	1.0	tsj i S i2
+jakimiś	1.0	j a k i m i sj
+kreon	1.0	k r e o n
+rzeczy	1.0	Z e tS i2
+warsztatów	1.0	v a r S t a t u v
+położeniami	1.0	p o w o Z e n i a m i
+rzeczywistości	1.0	Z e tS i2 v i s t o sj tsj i
+gram	1.0	g r a m
+biologii	1.0	b i o l o g i i
+naiwnie	1.0	n a i v n i e
+mają	1.0	m a j oc5
+ojcowskiej	1.0	o j c o v s k i e j
+powstrzymało	1.0	p o v s t S i2 m a w o
+kieszonkowy	1.0	k i e S o n k o v i2
+żadnych	1.0	Z a d n i2 h
+ile	1.0	i l e
+szuka	1.0	S u k a
+kontrowersyjne	1.0	k o n t r o v e r s i2 j n e
+bezsenną	1.0	b e z s e n n oc5
+strony	1.0	s t r o n i2
+ciężko	1.0	tsj eo5 Z k o
+użyj	1.0	u Z i2 j
+sprostać	1.0	s p r o s t a tsj
+odznaczać	1.0	o dz n a tS a tsj
+biuro	1.0	b i u r o
+sytuacji-	1.0	s i2 t u a c j i e
+sukces	1.0	s u k c e s
+pomyślnie	1.0	p o m i2 sj l n i e
+pokochał	1.0	p o k o h a w
+chrystusa	1.0	h r i2 s t u s a
+linii	1.0	l j n i i
+przystojna	1.0	p S i2 s t o j n a
+serdeczne	1.0	s e r d e tS n e
+opowiadały	1.0	o p o v i a d a w i2
+najcieńszą	1.0	n a j tsj e n~ S oc5
+zdeptana	1.0	z d e p t a n a
+członka	1.0	tS w o n k a
+światłem	1.0	sj v i a t w e m
+radością	1.0	r a d o sj tsj oc5
+uzbroić	1.0	u z b r o i tsj
+swobodnie	1.0	s v o b o d n i e
+spodziewać	1.0	s p o dzj e v a tsj
+osła	1.0	o s w a
+ziemie	1.0	zj e m i e
+pomoc	1.0	p o m o c
+skorzystania	1.0	s k o Z i2 s t a n i a
+śmiała	1.0	sj m i a w a
+1986	1.0	v i eo5 t sj oc5 tsj e
+rad	1.0	r a d
+błagajmy	1.0	b w a g a j m i2
+przychodniów	1.0	p S i2 h o d n i u v
+objawia	1.0	o b j a v i a
+drugie	1.0	d r u g i e
+zachowują	1.0	z a h o v u j oc5
+danym	1.0	d a n i2 m
+spędzone	1.0	s p eo5 dz o n e
+żelaznej	1.0	Z e l a z n e j
+karaibów	1.0	k a r a i b u v
+zaczepia	1.0	z a tS e p i a
+wrócimy	1.0	v r u tsj i m i2
+naszym	1.0	n a S i2 m
+trup	1.0	t r u p
+autorowi	1.0	a u t o r o v i
+mocnego	1.0	m o c n e g o
+towarzyszyły	1.0	t o v a Z i2 S i2 w i2
+środki	1.0	sj r o t k i
+wrzącego	1.0	v Z oc5 c e g o
+adu	1.0	a d u
+pałaców	1.0	p a w a c u v
+wymagań	1.0	v i2 m a g a n~
+v-	1.0	f e
+świadków	1.0	sj v i a t k u v
+postanawia	1.0	p o s t a n a v i a
+spania	1.0	s p a n i a
+wystarczyło	1.0	v i2 s t a r tS i2 w o
+krążku	1.0	k r oc5 Z k u
+każdej	1.0	k a Z d e j
+objawiające	1.0	o b j a v i a j oc5 c e
+uśmiechem	1.0	u sj m i e h e m
+poziom	1.0	p o zj o m
+uprawia	1.0	u p r a v i a
+naczyń	1.0	n a tS i2 n~
+rozbudzi	1.0	r o z b u dzj i
+wygląda	1.0	v i2 g l oc5 d a
+prawdziwy	1.0	p r a v dzj i v i2
+kościoły	1.0	k o sj tsj o w i2
+skłaniać	1.0	s k w a n i a tsj
+dawnej	1.0	d a v n e j
+odcineczki	1.0	o d tsj i n e tS k i
+kukuruźnikiem	1.0	k u k u r u zj n i k i e m
+prowincji	1.0	p r o v i n c j i
+biedronka	1.0	b i e d r o n k a
+najdrobniejszym	1.0	n a j d r o b n i e j S i2 m
+gospodarzem	1.0	g o s p o d a Z e m
+wszyscy	1.0	v S i2 s c i2
+ciekawsza	1.0	tsj e k a v S a
+przypominamy	1.0	p S i2 p o m i n a m i2
+interesującą	1.0	i n t e r e s u j oc5 c oc5
+pośpiesznie	1.0	p o sj p i e S n i e
+oglądałem	1.0	o g l oc5 d a w e m
+połowie	1.0	p o w o v i e
+leksykony	1.0	l e k s i2 k o n i2
+powikłany	1.0	p o v i k w a n i2
+eucharystię	1.0	e u h a r i2 s t j e
+powołany	1.0	p o v o w a n i2
+pc	1.0	p c
+sakramentalnymi	1.0	s a k r a m e n t a l n i2 m i
+film	1.0	f i l m
+eurydyki	1.0	e u r i2 d i2 k i
+zaledwie	1.0	z a l e d v i e
+paradoks	1.0	p a r a d o k s
+ułożył	1.0	u w o Z i2 w
+nieprzydatnym	1.0	n i e p S i2 d a t n i2 m
+stosem	1.0	s t o s e m
+przynajmniej	1.0	p S i2 n a j m n i e j
+etapów	1.0	e t a p u v
+jedynego	1.0	j e d i2 n e g o
+zamków	1.0	z a m k u v
+pełnia	1.0	p e w n i a
+sa	1.0	s a
+książek	1.0	k tsj oc5 Z e k
+bezmyślnie	1.0	b e z m i2 sj l n i e
+szpitala	1.0	S p i t a l a
+skorupy	1.0	s k o r u p i2
+chrześcijaństwa	1.0	h Z e sj tsj i j a n~ s t f a
+uroczystości	1.0	u r o tS i2 s t o sj tsj i
+zadowolić	1.0	z a d o v o l j tsj
+nieee	1.0	n i e e e
+niemieckiego	1.0	n i e m i e c k i e g o
+kominami	1.0	k o m i n a m i
+pokonać	1.0	p o k o n a tsj
+uwielbiała	1.0	u v i e l b i a w a
+wszechistnienia	1.0	v S e h i s t n i e n i a
+zasługują	1.0	z a s w u g u j oc5
+emulsji	1.0	e m u l s j i
+wieszczbę	1.0	v i e S tS b e
+piekle	1.0	p i e k l e
+willi	1.0	v i l l j
+pociesza	1.0	p o tsj e S a
+ojcowie	1.0	o j c o v i e
+formosusa	1.0	f o r m o s u s a
+serce	1.0	s e r c e
+panować	1.0	p a n o v a tsj
+scenariusze	1.0	s c e n a r j u S e
+posępne	1.0	p o s eo5 p n e
+fundamentalnej	1.0	f u n d a m e n t a l n e j
+wdzięku	1.0	v dzj eo5 k u
+wieszczbiarzowi	1.0	v i e S tS b i a Z o v i
+zamarli	1.0	z a m a r l j
+rzymu	1.0	Z i2 m u
+chełmiński	1.0	h e w m i n~ s k i
+sentencje	1.0	s e n t e n c j e
+brutalną	1.0	b r u t a l n oc5
+mity	1.0	m i t i2
+ludwik	1.0	l u d v i k
+klęsk	1.0	k l eo5 s k
+gq	1.0	g k
+śmiesznie	1.0	sj m i e S n i e
+opatruje	1.0	o p a t r u j e
+barwiący	1.0	b a r v i oc5 c i2
+pięknym	1.0	p i eo5 k n i2 m
+czeczenii	1.0	tS e tS e n i i
+nieposłuszny	1.0	n i e p o s w u S n i2
+ottona	1.0	o t t o n a
+pokutnik	1.0	p o k u t n i k
+na	1.0	n a
+uczenia	1.0	u tS e n i a
+uczy	1.0	u tS i2
+najsłabszego	1.0	n a j s w a b S e g o
+obdarzyć	1.0	o b d a Z i2 tsj
+kamerami	1.0	k a m e r a m i
+narkotyki	1.0	n a r k o t i2 k i
+suknem	1.0	s u k n e m
+piękne	1.0	p i eo5 k n e
+stopa	1.0	s t o p a
+przesuwając	1.0	p S e s u v a j oc5 c
+oraz	1.0	o r a z
+wszechobecnych	1.0	v S e h o b e c n i2 h
+przesądzony	1.0	p S e s oc5 dz o n i2
+słów	1.0	s w u v
+lewym	1.0	l e v i2 m
+rota	1.0	r o t a
+powder	1.0	p o v d e r
+kijowie-	1.0	k i j o v i e e
+zbliżają	1.0	z b l j Z a j oc5
+polatam	1.0	p o l a t a m
+czarek	1.0	tS a r e k
+postępu	1.0	p o s t eo5 p u
+obiecał	1.0	o b i e c a w
+powtarzają	1.0	p o v t a Z a j oc5
+hawajach	1.0	h a v a j a h
+trafił	1.0	t r a f i w
+długich	1.0	d w u g i h
+wybiórczą	1.0	v i2 b i u r tS oc5
+zdawkowo	1.0	z d a v k o v o
+fali-	1.0	f a l j e
+mieczem	1.0	m i e tS e m
+nieprawdopodobnie	1.0	n i e p r a v d o p o d o b n i e
+ponadto	1.0	p o n a d t o
+oznaczenie	1.0	o z n a tS e n i e
+badań	1.0	b a d a n~
+szelestną	1.0	S e l e s t n oc5
+owo	1.0	o v o
+mężczyzna	1.0	m eo5 Z tS i2 z n a
+kuleczki	1.0	k u l e tS k i
+chciał	1.0	h tsj a w
+ucha	1.0	u h a
+przeprawach	1.0	p S e p r a v a h
+czynną	1.0	tS i2 n n oc5
+ogniska	1.0	o g n i s k a
+odjąć	1.0	o d j oc5 tsj
+zaproponował	1.0	z a p r o p o n o v a w
+godziny	1.0	g o dzj i n i2
+sprzed	1.0	s p S e d
+skutki	1.0	s k u t k i
+żyjątek	1.0	Z i2 j oc5 t e k
+gotowych	1.0	g o t o v i2 h
+wolę	1.0	v o l e
+goldinga	1.0	g o l d j n g a
+krzywulą	1.0	k S i2 v u l oc5
+firm	1.0	f i r m
+wątpliwa	1.0	v oc5 t p l j v a
+palą	1.0	p a l oc5
+wyrazu-	1.0	v i2 r a z u
+należną	1.0	n a l e Z n oc5
+żarnowieckie	1.0	Z a r n o v i e c k i e
+przestaje	1.0	p S e s t a j e
+aristajosa	1.0	a r j s t a j o s a
+pereł	1.0	p e r e w
+mikroskopijnego	1.0	m i k r o s k o p i j n e g o
+arcydzieła	1.0	a r c i2 dzj e w a
+backupy	1.0	b a c k u p i2
+znów	1.0	z n u v
+racji	1.0	r a c j i
+obdarzonym	1.0	o b d a Z o n i2 m
+płaszcz	1.0	p w a S tS
+wybierają	1.0	v i2 b i e r a j oc5
+rozłączył	1.0	r o z w oc5 tS i2 w
+urlopie	1.0	u r l o p i e
+ludwikowi	1.0	l u d v i k o v i
+pomidorowej	1.0	p o m i d o r o v e j
+wydumanego	1.0	v i2 d u m a n e g o
+przepis	1.0	p S e p i s
+żywym	1.0	Z i2 v i2 m
+zaprosił	1.0	z a p r o sj i w
+faceci	1.0	f a c e tsj i
+archeologicznych	1.0	a r h e o l o g i tS n i2 h
+jedni	1.0	j e d n i
+samej	1.0	s a m e j
+dopuszczał	1.0	d o p u S tS a w
+józefie	1.0	j u z e f i e
+sakramencie	1.0	s a k r a m e n tsj e
+ogórków	1.0	o g u r k u v
+georga	1.0	g e o r g a
+donikąd	1.0	d o n i k oc5 d
+dobre	1.0	d o b r e
+mitologia	1.0	m i t o l o g i a
+wszechstronnych	1.0	v S e h s t r o n n i2 h
+dowcipem	1.0	d o v tsj i p e m
+bezceremonialnie	1.0	b e z c e r e m o n i a l n i e
+dobro	1.0	d o b r o
+tworząc	1.0	t f o Z oc5 c
+stojącej	1.0	s t o j oc5 c e j
+nazwy	1.0	n a z v i2
+niemu	1.0	n i e m u
+kolorowy	1.0	k o l o r o v i2
+dane	1.0	d a n e
+skuteczność	1.0	s k u t e tS n o sj tsj
+stage	1.0	s t a g e
+wolne	1.0	v o l n e
+stworzenia	1.0	s t f o Z e n i a
+przez	1.0	p S e z
+udanej	1.0	u d a n e j
+zajrzeć	1.0	z a j Z e tsj
+próbka	1.0	p r u b k a
+upływem	1.0	u p w i2 v e m
+elementarną	1.0	e l e m e n t a r n oc5
+nogą	1.0	n o g oc5
+nieżywych	1.0	n i e Z i2 v i2 h
+umrzeć	1.0	u m Z e tsj
+sopot	1.0	s o p o t
+przeszywała	1.0	p S e S i2 v a w a
+wyziera	1.0	v i2 zj e r a
+kolorów-	1.0	k o l o r u v
+przyszłego	1.0	p S i2 S w e g o
+upodobnić	1.0	u p o d o b n i tsj
+zawdzięczasz	1.0	z a v dzj eo5 tS a S
+wyników	1.0	v i2 n i k u v
+podziękować	1.0	p o dzj eo5 k o v a tsj
+napadają	1.0	n a p a d a j oc5
+prawdziwego	1.0	p r a v dzj i v e g o
+zapadł	1.0	z a p a d w
+dziedzictwa	1.0	dzj e dzj i c t f a
+rysowałem	1.0	r i2 s o v a w e m
+klepanie	1.0	k l e p a n i e
+greckiej	1.0	g r e c k i e j
+następstwem	1.0	n a s t eo5 p s t f e m
+zgromadzi	1.0	z g r o m a dzj i
+zwykłych	1.0	z v i2 k w i2 h
+hierarchiczną	1.0	h j e r a r h j tS n oc5
+znają	1.0	z n a j oc5
+was	1.0	v a s
+mógłbyś	1.0	m u g w b i2 sj
+kośćmi	1.0	k o sj tsj m i
+dobrym	1.0	d o b r i2 m
+postawiłabym	1.0	p o s t a v i w a b i2 m
+rytm	1.0	r i2 t m
+serca	1.0	s e r c a
+popełnił	1.0	p o p e w n i w
+udziel	1.0	u dzj e l
+zamykały	1.0	z a m i2 k a w i2
+salazar-	1.0	s a l a z a r
+magnes	1.0	m a g n e s
+rajdach	1.0	r a j d a h
+filmu	1.0	f i l m u
+xix	1.0	k s i k s
+decyzji	1.0	d e c i2 z j i
+poziomie	1.0	p o zj o m i e
+istnieniu	1.0	i s t n i e n i u
+naraz	1.0	n a r a z
+zewnątrz	1.0	z e v n oc5 t S
+klasnął	1.0	k l a s n oc5 w
+materiał	1.0	m a t e r j a w
+grób	1.0	g r u b
+fabułą	1.0	f a b u w oc5
+czytać	1.0	tS i2 t a tsj
+pożyczonych	1.0	p o Z i2 tS o n i2 h
+zamilkła	1.0	z a m i l k w a
+zastępy	1.0	z a s t eo5 p i2
+kogoś	1.0	k o g o sj
+schodzisz	1.0	s h o dzj i S
+zarejestrowanej	1.0	z a r e j e s t r o v a n e j
+tygodniach	1.0	t i2 g o d n i a h
+kołysząc	1.0	k o w i2 S oc5 c
+opatrznością	1.0	o p a t S n o sj tsj oc5
+załóż	1.0	z a w u S
+osobistej	1.0	o s o b i s t e j
+nałogu	1.0	n a w o g u
+jakimi	1.0	j a k i m i
+puchatka	1.0	p u h a t k a
+dążąc	1.0	d oc5 Z oc5 c
+kazać	1.0	k a z a tsj
+przejścia	1.0	p S e j sj tsj a
+dłonią	1.0	d w o n i oc5
+aktorzy	1.0	a k t o Z i2
+międzymorza	1.0	m i eo5 dz i2 m o Z a
+opętani	1.0	o p eo5 t a n i
+należy	1.0	n a l e Z i2
+kobrę	1.0	k o b r e
+stają	1.0	s t a j oc5
+dziadki	1.0	dzj a t k i
+prywatne	1.0	p r i2 v a t n e
+milczy	1.0	m i l tS i2
+czyniłoby	1.0	tS i2 n i w o b i2
+samemu	1.0	s a m e m u
+straszne	1.0	s t r a S n e
+krwiawię	1.0	k r v i a v i e
+poznasz	1.0	p o z n a S
+przebłagać	1.0	p S e b w a g a tsj
+igły	1.0	i g w i2
+religii	1.0	r e l j g i i
+score	1.0	s c o r e
+wieczorem	1.0	v i e tS o r e m
+przynieść	1.0	p S i2 n i e sj tsj
+wariantów	1.0	v a r j a n t u v
+mógłbym	1.0	m u g w b i2 m
+zobacz	1.0	z o b a tS
+rozpoznawczym	1.0	r o z p o z n a v tS i2 m
+lekkim	1.0	l e k k i m
+pogładził	1.0	p o g w a dzj i w
+te	1.0	t e
+dostrzegamy	1.0	d o s t S e g a m i2
+zupełnie	1.0	z u p e w n i e
+niepokojącą	1.0	n i e p o k o j oc5 c oc5
+powie	1.0	p o v i e
+kolej	1.0	k o l e j
+sięgają	1.0	sj eo5 g a j oc5
+linie	1.0	l j n i e
+trzeźwo	1.0	t S e zj v o
+czas	1.0	tS a s
+dnie	1.0	d n i e
+rezultat	1.0	r e z u l t a t
+duchu	1.0	d u h u
+gdzie	1.0	g dzj e
+wyuczony	1.0	v i2 u tS o n i2
+spłowiałym	1.0	s p w o v i a w i2 m
+tchem	1.0	t h e m
+swojej	1.0	s v o j e j
+czechy	1.0	tS e h i2
+współpracownikami	1.0	v s p u w p r a c o v n i k a m i
+szpiku	1.0	S p i k u
+zależy	1.0	z a l e Z i2
+ostatniego	1.0	o s t a t n i e g o
+odmiany	1.0	o d m i a n i2
+teologiem-	1.0	t e o l o g i e m e
+służbowych	1.0	s w u Z b o v i2 h
+rajdowi	1.0	r a j d o v i
+grubopienne	1.0	g r u b o p i e n n e
+skłonni	1.0	s k w o n n i
+odratowaniu	1.0	o d r a t o v a n i u
+zamierzał	1.0	z a m i e Z a w
+sprzecznych	1.0	s p S e tS n i2 h
+cały	1.0	c a w i2
+zapiski	1.0	z a p i s k i
+rys	1.0	r i2 s
+przewodnikiem	1.0	p S e v o d n i k i e m
+przeboje	1.0	p S e b o j e
+planów	1.0	p l a n u v
+połączenie	1.0	p o w oc5 tS e n i e
+kuligi	1.0	k u l j g i
+wyjaśnienie	1.0	v i2 j a sj n i e n i e
+ramiona	1.0	r a m i o n a
+miesiącu	1.0	m i e tsj oc5 c u
+manier	1.0	m a n i e r
+osiągnąć	1.0	o tsj oc5 g n oc5 tsj
+kątem	1.0	k oc5 t e m
+bought	1.0	b o u g h t
+liz	1.0	l j z
+moja	1.0	m o j a
+mówiła	1.0	m u v i w a
+sprzedającym	1.0	s p S e d a j oc5 c i2 m
+złudzeniem	1.0	z w u dz e n i e m
+przyborowski	1.0	p S i2 b o r o v s k i
+kochaną	1.0	k o h a n oc5
+ł	1.0	w
+radzi	1.0	r a dzj i
+piguły	1.0	p i g u w i2
+tronu	1.0	t r o n u
+myślę	1.0	m i2 sj l e
+brał	1.0	b r a w
+pańskim	1.0	p a n~ s k i m
+late	1.0	l a t e
+grobu	1.0	g r o b u
+niósł	1.0	n i u s w
+tam	1.0	t a m
+ścieżkami	1.0	sj tsj e Z k a m i
+suity	1.0	s u i t i2
+ani	1.0	a n i
+teorię	1.0	t e o r j e
+planie	1.0	p l a n i e
+ewangelię	1.0	e v a n g e l j e
+przeżyła	1.0	p S e Z i2 w a
+jaka	1.0	j a k a
+brzmiące	1.0	b Z m i oc5 c e
+kim	1.0	k i m
+zasłonięty	1.0	z a s w o n i eo5 t i2
+trzyma	1.0	t S i2 m a
+zarabianie	1.0	z a r a b i a n i e
+optyczna	1.0	o p t i2 tS n a
+najlepsza	1.0	n a j l e p S a
+internetowe	1.0	i n t e r n e t o v e
+zbuduje	1.0	z b u d u j e
+powinny	1.0	p o v i n n i2
+zanadrzu	1.0	z a n a d Z u
+rozwoju	1.0	r o z v o j u
+mewy	1.0	m e v i2
+starości	1.0	s t a r o sj tsj i
+przeobraża	1.0	p S e o b r a Z a
+bawarskiego	1.0	b a v a r s k i e g o
+górę	1.0	g u r e
+nowotna	1.0	n o v o t n a
+cieniem	1.0	tsj e n i e m
+powiedzieć	1.0	p o v i e dzj e tsj
+lubię	1.0	l u b i e
+polsce	1.0	p o l s c e
+nasze	1.0	n a S e
+odgrywać	1.0	o d g r i2 v a tsj
+bałwochwalców	1.0	b a w v o h v a l c u v
+skończyłam	1.0	s k o n~ tS i2 w a m
+puścił	1.0	p u sj tsj i w
+swoim	1.0	s v o i m
+bin	1.0	b i n
+powiek	1.0	p o v i e k
+ś	1.0	sj
+zbliżałeś	1.0	z b l j Z a w e sj
+zasadę	1.0	z a s a d e
+naturę	1.0	n a t u r e
+dowierzałby	1.0	d o v i e Z a w b i2
+pędy	1.0	p eo5 d i2
+oficer	1.0	o f i c e r
+spróbujmy	1.0	s p r u b u j m i2
+dostęp	1.0	d o s t eo5 p
+przybliżyć	1.0	p S i2 b l j Z i2 tsj
+zagadka	1.0	z a g a t k a
+czasach	1.0	tS a s a h
+mniej	1.0	m n i e j
+transformacją	1.0	t r a n s f o r m a c j oc5
+śmiechem	1.0	sj m i e h e m
+otoczenia	1.0	o t o tS e n i a
+wieczornych	1.0	v i e tS o r n i2 h
+tuż	1.0	t u S
+alianci	1.0	a l j a n tsj i
+takim	1.0	t a k i m
+najchętniej	1.0	n a j h eo5 t n i e j
+obłokami	1.0	o b w o k a m i
+byłam	1.0	b i2 w a m
+e	1.0	e
+burzyki	1.0	b u Z i2 k i
+łaby	1.0	w a b i2
+strzelby	1.0	s t S e l b i2
+sesjach	1.0	s e s j a h
+coraz	1.0	c o r a z
+nieporozumieniem	1.0	n i e p o r o z u m i e n i e m
+oblec	1.0	o b l e c
+marzeń	1.0	m a Z e n~
+przyźby	1.0	p S i2 zj b i2
+sioła	1.0	sj o w a
+testament	1.0	t e s t a m e n t
+tajemnie	1.0	t a j e m n i e
+przeskakiwać	1.0	p S e s k a k i v a tsj
+arkuszem	1.0	a r k u S e m
+wstrzemięźliwości	1.0	v s t S e m i eo5 zj l j v o sj tsj i
+słabszym	1.0	s w a b S i2 m
+szczęścia	1.0	S tS eo5 sj tsj a
+wejścia	1.0	v e j sj tsj a
+zdrowia	1.0	z d r o v i a
+zmysły	1.0	z m i2 s w i2
+masa	1.0	m a s a
+królewskiej	1.0	k r u l e v s k i e j
+pośladkami	1.0	p o sj l a t k a m i
+claire	1.0	c l a i r e
+kanon	1.0	k a n o n
+swobody-	1.0	s v o b o d i2
+techniki	1.0	t e h n i k i
+kazał	1.0	k a z a w
+siania	1.0	tsj a n i a
+towarzystwie	1.0	t o v a Z i2 s t f i e
+wydarł	1.0	v i2 d a r w
+ojcowe	1.0	o j c o v e
+przedmiot	1.0	p S e d m i o t
+jest-	1.0	j e s t
+udawało	1.0	u d a v a w o
+zostanie	1.0	z o s t a n i e
+80	1.0	sj oc5 t
+sophią	1.0	s o p h j oc5
+również	1.0	r u v n i e S
+strażą	1.0	s t r a Z oc5
+tłumaczyłam	1.0	t w u m a tS i2 w a m
+człowiek	1.0	tS w o v i e k
+słuchał	1.0	s w u h a w
+wieszczbiarz	1.0	v i e S tS b i a S
+przykazania	1.0	p S i2 k a z a n i a
+irracjonalne	1.0	i r r a c j o n a l n e
+zdrowe	1.0	z d r o v e
+jezioro	1.0	j e zj o r o
+trudno	1.0	t r u d n o
+reżyserii	1.0	r e Z i2 s e r j i
+ból	1.0	b u l
+dorośnie	1.0	d o r o sj n i e
+powoli	1.0	p o v o l j
+politycy	1.0	p o l j t i2 c i2
+stopień	1.0	s t o p i e n~
+śmy	1.0	sj m i2
+koronek	1.0	k o r o n e k
+wzniosłych	1.0	v z n i o s w i2 h
+bramę	1.0	b r a m e
+sushi	1.0	s u s h j
+świeczki	1.0	sj v i e tS k i
+młodzież	1.0	m w o dzj e S
+pomocą	1.0	p o m o c oc5
+aby	1.0	a b i2
+jonathan	1.0	j o n a t h a n
+relacją	1.0	r e l a c j oc5
+hałaśliwych	1.0	h a w a sj l j v i2 h
+portu	1.0	p o r t u
+zapłakać-	1.0	z a p w a k a tsj e
+stylów	1.0	s t i2 l u v
+usuń	1.0	u s u n~
+zabić	1.0	z a b i tsj
+macho	1.0	m a h o
+rzeką	1.0	Z e k oc5
+stwierdził	1.0	s t f i e r dzj i w
+pochodzą	1.0	p o h o dz oc5
+szlify	1.0	S l j f i2
+doznań	1.0	d o z n a n~
+dwie	1.0	d v i e
+prawą	1.0	p r a v oc5
+sytuacji	1.0	s i2 t u a c j i
+słyszymy	1.0	s w i2 S i2 m i2
+czasami	1.0	tS a s a m i
+trafiają	1.0	t r a f i a j oc5
+muzyki	1.0	m u z i2 k i
+agnieszko	1.0	a g n i e S k o
+światu	1.0	sj v i a t u
+niestety	1.0	n i e s t e t i2
+zwierzątko	1.0	z v i e Z oc5 t k o
+czekała	1.0	tS e k a w a
+trakcie	1.0	t r a k tsj e
+radość	1.0	r a d o sj tsj
+jakie	1.0	j a k i e
+cieszą	1.0	tsj e S oc5
+masz	1.0	m a S
+rybitwy	1.0	r i2 b i t f i2
+wybaczamy	1.0	v i2 b a tS a m i2
+muzyckie	1.0	m u z i2 c k i e
+pewnych	1.0	p e v n i2 h
+służący	1.0	s w u Z oc5 c i2
+trudny	1.0	t r u d n i2
+bryk	1.0	b r i2 k
+mówiło	1.0	m u v i w o
+rozszerzonych	1.0	r o z S e Z o n i2 h
+aimee	1.0	a j m e e
+kup	1.0	k u p
+wiekuiście	1.0	v i e k u i sj tsj e
+którego	1.0	k t u r e g o
+doczekać	1.0	d o tS e k a tsj
+ujrzeli	1.0	u j Z e l j
+najlepszych	1.0	n a j l e p S i2 h
+konstrukcją	1.0	k o n s t r u k c j oc5
+być	1.0	b i2 tsj
+patrz	1.0	p a t S
+jedyny	1.0	j e d i2 n i2
+udami	1.0	u d a m i
+powiem	1.0	p o v i e m
+zgodzić	1.0	z g o dzj i tsj
+nieodwzajemnionej	1.0	n i e o d v z a j e m n i o n e j
+całe	1.0	c a w e
+wpływowi	1.0	v p w i2 v o v i
+kaczki	1.0	k a tS k i
+nagroda	1.0	n a g r o d a
+ekstrawaganckim	1.0	e k s t r a v a g a n c k i m
+składamy	1.0	s k w a d a m i2
+kalin	1.0	k a l j n
+żonę	1.0	Z o n e
+władcą	1.0	v w a d c oc5
+walkę	1.0	v a l k e
+lwa	1.0	l v a
+komplement	1.0	k o m p l e m e n t
+czym	1.0	tS i2 m
+konstrukcji	1.0	k o n s t r u k c j i
+towarzystwie-	1.0	t o v a Z i2 s t f i e e
+dużym	1.0	d u Z i2 m
+ośmiu	1.0	o sj m i u
+stworzenie	1.0	s t f o Z e n i e
+pokryła	1.0	p o k r i2 w a
+samochodów	1.0	s a m o h o d u v
+caryca	1.0	c a r i2 c a
+fabuła	1.0	f a b u w a
+przebaczenia	1.0	p S e b a tS e n i a
+drewienka	1.0	d r e v i e n k a
+urządza	1.0	u Z oc5 dz a
+komedię	1.0	k o m e d j e
+szymonem	1.0	S i2 m o n e m
+podłóg	1.0	p o d w u g
+zacytowane	1.0	z a c i2 t o v a n e
+twój	1.0	t f u j
+wspólnocie	1.0	v s p u l n o tsj e
+spojrzał	1.0	s p o j Z a w
+cal-	1.0	c a l
+niebieskiej	1.0	n i e b i e s k i e j
+wyrzucą	1.0	v i2 Z u c oc5
+przebiega	1.0	p S e b i e g a
+morze	1.0	m o Z e
+biskupom	1.0	b i s k u p o m
+facet:-	1.0	f a c e t e
+jako	1.0	j a k o
+solidnie	1.0	s o l j d n i e
+anglii	1.0	a n g l j i
+przygotowując	1.0	p S i2 g o t o v u j oc5 c
+utworzymy	1.0	u t f o Z i2 m i2
+kolejny	1.0	k o l e j n i2
+saskiego	1.0	s a s k i e g o
+dobrze	1.0	d o b Z e
+zbite	1.0	z b i t e
+szanują	1.0	S a n u j oc5
+poświęciła	1.0	p o sj v i eo5 tsj i w a
+piec	1.0	p i e c
+kiereję	1.0	k i e r e j e
+kwietniu	1.0	k f i e t n i u
+zblednąć	1.0	z b l e d n oc5 tsj
+żywotność	1.0	Z i2 v o t n o sj tsj
+donosy	1.0	d o n o s i2
+poszło	1.0	p o S w o
+portretowany	1.0	p o r t r e t o v a n i2
+napisałem	1.0	n a p i s a w e m
+ukrywać	1.0	u k r i2 v a tsj
+podobny	1.0	p o d o b n i2
+włosów	1.0	v w o s u v
+różnych	1.0	r u Z n i2 h
+faktyczny	1.0	f a k t i2 tS n i2
+obawiasz	1.0	o b a v i a S
+zachodnim	1.0	z a h o d n i m
+lekko	1.0	l e k k o
+raptem	1.0	r a p t e m
+witają	1.0	v i t a j oc5
+swiętopełk	1.0	s v i eo5 t o p e w k
+młodym	1.0	m w o d i2 m
+wytępienia	1.0	v i2 t eo5 p i e n i a
+odnośnika	1.0	o d n o sj n i k a
+instytucją	1.0	i n s t i2 t u c j oc5
+lekarz	1.0	l e k a S
+mknie	1.0	m k n i e
+powieści	1.0	p o v i e sj tsj i
+odtworzył	1.0	o d t f o Z i2 w
+samotne	1.0	s a m o t n e
+odczuwasz	1.0	o d tS u v a S
+kilku	1.0	k i l k u
+oglądać	1.0	o g l oc5 d a tsj
+nieszkodliwe	1.0	n i e S k o d l j v e
+pójdę	1.0	p u j d e
+zatoki	1.0	z a t o k i
+scenografom	1.0	s c e n o g r a f o m
+okoliczności	1.0	o k o l j tS n o sj tsj i
+groteską	1.0	g r o t e s k oc5
+zmienić	1.0	z m i e n i tsj
+zestarzałe	1.0	z e s t a Z a w e
+strącał	1.0	s t r oc5 c a w
+nieszczery	1.0	n i e S tS e r i2
+młodszy	1.0	m w o d S i2
+skusić	1.0	s k u sj i tsj
+dzieciństwie	1.0	dzj e tsj i n~ s t f i e
+miejskie	1.0	m i e j s k i e
+programu	1.0	p r o g r a m u
+kiedy	1.0	k i e d i2
+obyczajowych	1.0	o b i2 tS a j o v i2 h
+byś	1.0	b i2 sj
+24-bitowy	1.0	d tS t b i t o v i2
+materialnych	1.0	m a t e r j a l n i2 h
+zagłady	1.0	z a g w a d i2
+eksperyment	1.0	e k s p e r i2 m e n t
+największym	1.0	n a j v i eo5 k S i2 m
+zgadując	1.0	z g a d u j oc5 c
+manifestują	1.0	m a n i f e s t u j oc5
+pokoju	1.0	p o k o j u
+krok	1.0	k r o k
+okazji	1.0	o k a z j i
+szyków	1.0	S i2 k u v
+ramienia	1.0	r a m i e n i a
+odwodzie	1.0	o d v o dzj e
+słowiańskie	1.0	s w o v i a n~ s k i e
+ustalonych	1.0	u s t a l o n i2 h
+fizyczna	1.0	f i z i2 tS n a
+odkładam	1.0	o t k w a d a m
+jelenie	1.0	j e l e n i e
+zapraszają	1.0	z a p r a S a j oc5
+neapol	1.0	n e a p o l
+postacią	1.0	p o s t a tsj oc5
+arkusz	1.0	a r k u S
+misterny	1.0	m i s t e r n i2
+niewolę	1.0	n i e v o l e
+własną	1.0	v w a s n oc5
+najgroźniejszego	1.0	n a j g r o zj n i e j S e g o
+terrorysty	1.0	t e r r o r i2 s t i2
+trzecie	1.0	t S e tsj e
+odwracała	1.0	o d v r a c a w a
+tygodnie	1.0	t i2 g o d n i e
+perkozy-	1.0	p e r k o z i2
+piętrowym	1.0	p i eo5 t r o v i2 m
+słychać	1.0	s w i2 h a tsj
+wielki	1.0	v i e l k i
+przesunął	1.0	p S e s u n oc5 w
+westchnienia	1.0	v e s t h n i e n i a
+materialny	1.0	m a t e r j a l n i2
+gwiazd	1.0	g v i a z d
+starodawne	1.0	s t a r o d a v n e
+jedynaczki	1.0	j e d i2 n a tS k i
+natomiast	1.0	n a t o m i a s t
+itp	1.0	i t p
+odkrył	1.0	o t k r i2 w
+błota	1.0	b w o t a
+rozdeptać	1.0	r o z d e p t a tsj
+zmierza	1.0	z m i e Z a
+samo	1.0	s a m o
+dvd	1.0	d f d
+trochę	1.0	t r o h e
+hitlera	1.0	h j t l e r a
+żyjący	1.0	Z i2 j oc5 c i2
+opizzoni	1.0	o p i z z o n i
+fascynacje	1.0	f a s c i2 n a c j e
+grube	1.0	g r u b e
+efektem	1.0	e f e k t e m
+męką	1.0	m eo5 k oc5
+miłością	1.0	m i w o sj tsj oc5
+myślą	1.0	m i2 sj l oc5
+mobilizują	1.0	m o b i l j z u j oc5
+reliefu	1.0	r e l j e f u
+istotne	1.0	i s t o t n e
+wypróbowanego	1.0	v i2 p r u b o v a n e g o
+prywatnych	1.0	p r i2 v a t n i2 h
+okazując	1.0	o k a z u j oc5 c
+wspomina	1.0	v s p o m i n a
+perspektywę	1.0	p e r s p e k t i2 v e
+plecach	1.0	p l e c a h
+płaczu	1.0	p w a tS u
+10	1.0	s t o
+biblioteki	1.0	b i b l j o t e k i
+ucierpiałaby	1.0	u tsj e r p i a w a b i2
+ścianę	1.0	sj tsj a n e
+wyraz	1.0	v i2 r a z
+wielkich	1.0	v i e l k i h
+prawej	1.0	p r a v e j
+zamyślił	1.0	z a m i2 sj l j w
+zmusza	1.0	z m u S a
+piasku	1.0	p i a s k u
+oznajmia	1.0	o z n a j m i a
+podstawy	1.0	p o d s t a v i2
+śmieszną	1.0	sj m i e S n oc5
+ściągał	1.0	sj tsj oc5 g a w
+m.in	1.0	m i n
+stalowej	1.0	s t a l o v e j
+nadziei	1.0	n a dzj e i
+bycia	1.0	b i2 tsj a
+młodzieży	1.0	m w o dzj e Z i2
+obalił	1.0	o b a l j w
+pasji	1.0	p a s j i
+podobnymi	1.0	p o d o b n i2 m i
+ociąga	1.0	o tsj oc5 g a
+stwierdzam	1.0	s t f i e r dz a m
+godzin	1.0	g o dzj i n
+odpowiedź	1.0	o d p o v i e dzj
+checzy	1.0	h e tS i2
+dużej	1.0	d u Z e j
+lubisz	1.0	l u b i S
+łosich	1.0	w o sj i h
